@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_433",
+  "filename": "Pilots - Things to do Oct 2024.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the operational checklist and workflow for a pilot program involving KeepMeCompany's AI phone agents within NHS GP practices. It details regulatory requirements such as MHRA and IRAS registration, technical setup for telephony integration, and metrics for tracking patient and staff feedback. The plan covers phases from pre-pilot preparation through post-pilot analysis and reporting.",
+  "topic_tags": [
+    "Pilot Program",
+    "NHS Integration",
+    "Regulatory Compliance",
+    "Operational Workflow",
+    "AI Telephony"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/0. Deprecated/Pilots - Things to do Oct 2024.docx",
+  "file_size": "9026",
+  "folder": "8. Pilots/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document is located in a 'Deprecated' folder, suggesting this specific pilot plan is outdated or superseded."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_410",
+  "filename": "KeepMeCompany - Explanation of the Product.pptx",
+  "file_type": "pptx",
+  "summary": "This presentation outlines the KeepMeCompany AI phone agent product designed for NHS GP practices to reduce patient wait times and improve GP efficiency. It contrasts current receptionist workflows with the proposed AI solution, quantifying time savings and capacity impacts. The document also details the implementation roadmap, including telephony setup, legal agreements, and phased rollout strategies.",
+  "topic_tags": [
+    "AI Telephony",
+    "NHS Pilots",
+    "Workflow Optimization",
+    "Implementation Plan",
+    "Healthcare Efficiency"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/KeepMeCompany - Explanation of the Product.pptx",
+  "file_size": "996126",
+  "folder": "8. Pilots",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Explicitly labeled 'Internal Notes - Product' on Slide 17; contains specific operational metrics and mentions legal/admin requirements like NDAs and Data Sharing Agreements."
+}

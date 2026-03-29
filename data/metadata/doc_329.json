@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_329",
+  "filename": "additional-software-test-reports.docx",
+  "file_type": "docx",
+  "summary": "This document is a software test report detailing performance metrics, compliance checks, and identified issues for the AI phone agent system. It outlines test scenarios regarding transcription accuracy and latency, alongside security compliance verification like AES-256 encryption. The file concludes with raw conversation logs containing identifiable patient names and medical symptoms used for testing purposes.",
+  "topic_tags": [
+    "Quality Assurance",
+    "AI Testing",
+    "Compliance",
+    "Performance Metrics",
+    "Patient Data"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/additional-software-test-reports.docx",
+  "file_size": "927616",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains PII (name, DOB) and medical history in raw logs; potentially non-compliant for public release given NHS context."
+}

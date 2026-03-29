@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_255",
+  "filename": "KeepMeCompany - Financial Forecast.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document presents a three-year financial forecast for KeepMeCompany, outlining projected revenue, operating expenses, and EBITDA in GBP. It details specific hiring plans for executive and engineering roles alongside assumptions for VAT and tax compliance. The file appears to be part of a visa endorsement package, given its placement in the Administratives/Visas folder.",
+  "topic_tags": [
+    "Financial Forecast",
+    "Business Plan",
+    "UK Visa",
+    "Revenue Model",
+    "Hiring Plan"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/1. Visas/Endorsers - UKES/KeepMeCompany - Financial Forecast.xlsx",
+  "file_size": "640806",
+  "folder": "7. Administratives/1. Visas/Endorsers - UKES",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path indicates use for UK Visa endorsement; revenue growth projection is extremely aggressive (26x Year 1 to Year 2)."
+}

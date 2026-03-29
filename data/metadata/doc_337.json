@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_337",
+  "filename": "Intended Use.docx",
+  "file_type": "docx",
+  "summary": "This document defines the intended use and operational scope of the 'AI Doctor & Patient Consultation Platform' within NHS GP practices. It outlines the six-step operating principle, user profiles, and safety constraints, emphasizing that clinical decisions remain with medical staff. The text serves as a technical specification within the Quality Management System to define product boundaries and compliance requirements.",
+  "topic_tags": [
+    "Product Specification",
+    "QMS",
+    "AI Healthcare",
+    "GP Practices",
+    "Compliance"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical/Intended Use.docx",
+  "file_size": "10090",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains minor typographical errors (e.g., 'The The System')."
+}

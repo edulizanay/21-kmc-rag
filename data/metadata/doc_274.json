@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_274",
+  "filename": "User Needs List.docx",
+  "file_type": "docx",
+  "summary": "This document defines the purpose and scope for the User Needs List within the Quality Management System. It cites specific medical device regulations such as EU MDR 2017/745 and ISO 13485 to establish the compliance framework for the AI phone service. The provided text lists document structure headers but does not contain the actual user requirements.",
+  "topic_tags": [
+    "QMS",
+    "Regulatory Compliance",
+    "Medical Device",
+    "Software Development",
+    "Product Requirements"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/2. Product/User Needs List.docx",
+  "file_size": "10321",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/2. Product",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document appears to be a template or skeleton; actual user needs content is missing from the provided text."
+}

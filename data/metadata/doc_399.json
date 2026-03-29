@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_399",
+  "filename": "Analytics - Interactions Tracking.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains raw interaction logs and latency metrics from a Firebase mockup environment. It details system prompts, conversation transcripts in mixed languages, and technical performance data like token counts and response times. The data includes specific conversation histories and supervisor goals tracking for the AI agents.",
+  "topic_tags": [
+    "AI Agents",
+    "System Prompts",
+    "Analytics",
+    "Firebase",
+    "Latency"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/Analytics - Interactions Tracking.xlsx",
+  "file_size": "397565",
+  "folder": "6. Analytics",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename explicitly states 'Mockup', suggesting non-production data. Contains mixed Spanish/English conversation logs resembling PII."
+}

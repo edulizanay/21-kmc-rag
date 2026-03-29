@@ -1,0 +1,21 @@
+{
+  "doc_id": "doc_149",
+  "filename": "Product - Pilot Modules.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet contains pilot data for the KeepMeCompany AI triage product, including patient demographics, call summaries, and technical performance metrics like latency and token usage. It outlines symptom urgency categories and monitoring logs for interactions, with some internal notes in Spanish regarding feature usage. The data includes specific patient names and health symptoms, indicating sensitive medical information.",
+  "topic_tags": [
+    "Pilot Data",
+    "Triage System",
+    "Patient Records",
+    "AI Monitoring",
+    "Symptom Triage",
+    "NHS GP"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/3. Product for Pilots /Product - Pilot Modules.xlsx",
+  "file_size": "237469",
+  "folder": "3. Product/3. Product for Pilots ",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains PII (names, DOB) and PHI (symptoms); mixed anonymized and real identifiers; contains Spanish internal notes."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_019",
+  "filename": "Spanish Private Clinics Research.docx",
+  "file_type": "docx",
+  "summary": "This document provides a market analysis of the Spanish private healthcare sector, detailing clinic distribution, profit margins, and technology adoption trends. It outlines sales preferences and decision-making processes specific to Spanish private clinics rather than the UK NHS. The content focuses on business models and competitive landscape within Spain.",
+  "topic_tags": [
+    "Market Research",
+    "International Expansion",
+    "Healthcare Analytics",
+    "Sales Strategy",
+    "Spain"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/5. Spanish Private Market/Spanish Private Clinics Research.docx",
+  "file_size": "202420",
+  "folder": "4. Sales/5. Spanish Private Market",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Geographic mismatch: Document focuses on Spanish private clinics, while KeepMeCompany's core product is UK NHS elderly care. Risk of RAG hallucinating this market data as applicable to the UK product."
+}

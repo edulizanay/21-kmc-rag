@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_257",
+  "filename": "UKES - Business Plan.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a business plan excerpt intended for a UK Endorser Scheme visa application, detailing KeepMeCompany's AI companion product for elderly care. It outlines the problem of senior isolation, the proposed AI solution, market potential, and aggressive financial projections aiming for $14.4 million revenue by year three. The text also covers the team's background and the scalability of the software-only solution.",
+  "topic_tags": [
+    "Business Plan",
+    "AI Healthcare",
+    "Financial Projections",
+    "UK Visa",
+    "Product Strategy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/1. Visas/Endorsers - UKES/UKES - Business Plan.pdf",
+  "file_size": "102316",
+  "folder": "7. Administratives/1. Visas/Endorsers - UKES",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Text contains significant spacing errors (e.g., 'Executivesummary', 'andsocial'), suggesting OCR or copy-paste issues. Financial projections are aggressive ($14.4m by year 3). Document is specifically for UK Endorser Scheme visa application."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_425",
+  "filename": "Practice Manager Interviews - Cameron Notes Sept 13th.docx",
+  "file_type": "docx",
+  "summary": "This document contains mixed-language interview notes from a GP Practice Manager discussing the potential integration of AI phone agents into NHS workflows. The PM outlines use cases like triage and booking, while highlighting concerns regarding regulatory compliance (CQC), eConsult integration delays, and the financial impact on GP partners versus hourly staff. Key insights include the difficulty of translating time savings into immediate cost reductions and the importance of patient satisfaction metrics.",
+  "topic_tags": [
+    "NHS GP Practices",
+    "AI Triage",
+    "Practice Management",
+    "Regulatory Compliance",
+    "Financial Model"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/2. Interviews/4. Practice Manager Interviews/Practice Manager Interviews - Cameron Notes Sept 13th.docx",
+  "file_size": "10382",
+  "folder": "8. Pilots/2. Interviews/4. Practice Manager Interviews",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document contains mixed English and Spanish text, indicating raw transcription or bilingual note-taking. Contains specific financial figures regarding NHS payments and GP salaries."
+}

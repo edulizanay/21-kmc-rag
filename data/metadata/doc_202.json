@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_202",
+  "filename": "Training and Awareness Activities.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's Training Needs Analysis (TNA) for data protection and security awareness among staff. It details the endorsement by senior leadership, role-specific training strategies for handling health data, and the methods used for delivery and monitoring via an internal Learning Management System. The TNA is reviewed annually to ensure compliance with UK regulations and GDPR requirements.",
+  "topic_tags": [
+    "Data Protection",
+    "Compliance",
+    "Training",
+    "GDPR",
+    "Internal Policy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Training and Awareness Activities.docx",
+  "file_size": "11706",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific executive names (Eduardo Lizana, Rodrigo Orpis) and references to internal systems (LMS)."
+}

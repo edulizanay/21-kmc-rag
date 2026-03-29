@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_415",
+  "filename": "Data Sharing Agreement Nov 2024.docx",
+  "file_type": "docx",
+  "summary": "This document is a Data Sharing Agreement draft between KeepMeCompany and a placeholder partner, outlining terms for processing patient data via their AI Intake System. It details compliance with GDPR and NHS standards, security measures like encryption, and responsibilities for data subject rights. The agreement highlights the startup's focus on regulatory adherence in the UK healthcare sector.",
+  "topic_tags": [
+    "Data Protection",
+    "NHS Compliance",
+    "Legal Agreement",
+    "AI Intake System",
+    "GDPR"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/13. Implementation/Data Sharing Agreement Nov 2024.docx",
+  "file_size": "735470",
+  "folder": "8. Pilots/13. Implementation",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Partner entity is 'Test Medical Center' with placeholder address and name, indicating this is a template or draft rather than a finalized live contract."
+}

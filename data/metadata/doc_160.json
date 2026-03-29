@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_160",
+  "filename": "Inputs_Outputs.csv",
+  "file_type": "csv",
+  "summary": "This CSV file contains deprecated conversation logs and system prompts for an AI voice agent designed for patient interactions. It details instructions for prioritizing appointment scheduling goals and enforcing safety guardrails like avoiding medical advice, though the example scenario involves a Spanish dental clinic rather than UK NHS services.",
+  "topic_tags": [
+    "AI-Prompts",
+    "Voice-Agents",
+    "Engineering",
+    "Deprecated",
+    "Safety-Guardrails"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated/Inputs_Outputs.csv",
+  "file_size": "6681488",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Content references a Spanish dental clinic in Providencia, which conflicts with the startup's stated focus on UK NHS GP practices; marked as deprecated in the folder path. Potential PII present (patient name Natalia)."
+}

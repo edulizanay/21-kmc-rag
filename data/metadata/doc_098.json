@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_098",
+  "filename": "Demo - Lonely Seniors - Ayuntamiento Madrid.docx",
+  "file_type": "docx",
+  "summary": "This document contains a transcript of a demo conversation between an AI assistant named Sofía and an elderly user named Sergio, conducted in Spanish for the Madrid City Council. The dialogue focuses on social isolation check-ins, including questions about family contact, mobility, and day center attendance. Internal comments at the bottom suggest improvements for the demo video, such as adding a checklist to track client objectives.",
+  "topic_tags": [
+    "AI Agent",
+    "Elderly Care",
+    "Demo Transcript",
+    "Conversation Design",
+    "Social Isolation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/Demo - Lonely Seniors - Ayuntamiento Madrid.docx",
+  "file_size": "8085",
+  "folder": "3. Product/9. Demos",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Demo conducted for Madrid City Council (Spain) rather than UK NHS; contains Spanish language transcript and specific address details."
+}

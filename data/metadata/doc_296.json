@@ -1,0 +1,19 @@
+{
+  "doc_id": "doc_296",
+  "filename": "List of Employee Training.docx",
+  "file_type": "docx",
+  "summary": "This document serves as an internal index for employee training records within KeepMeCompany's Quality Management System. It outlines the scope of training requirements and references associated Standard Operating Procedures but does not contain specific training data in this view. The document includes metadata such as revision history and signature tables typical of formal corporate documentation.",
+  "topic_tags": [
+    "Quality Management",
+    "HR",
+    "Compliance",
+    "Internal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/List of Employee Training.docx",
+  "file_size": "10163",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Minimal content provided; appears to be a document header or index page rather than a full training log."
+}

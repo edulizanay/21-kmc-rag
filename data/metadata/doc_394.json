@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_394",
+  "filename": "KeepmeCompany - Fotos de la Plataforma.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a slide deck outlining the user workflow of the KeepmeCompany AI platform. It details steps for creating calls, selecting patients, and accessing call summaries or transcripts via a dashboard. The slides highlight the product's functionality as a Class I Medical Device with Cyber Essentials certification.",
+  "topic_tags": [
+    "Product Workflow",
+    "AI Platform",
+    "Healthcare Technology",
+    "User Interface",
+    "Medical Device Compliance"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks/KeepmeCompany - Fotos de la Plataforma.pptx",
+  "file_size": "2217160",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename and slide content are in Spanish despite the company targeting UK NHS GP practices; folder path indicates pitch deck but content resembles a product demo."
+}

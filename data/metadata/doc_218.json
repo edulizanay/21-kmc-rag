@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_218",
+  "filename": "CE Marking - User Manual.docx",
+  "file_type": "docx",
+  "summary": "This document is a user manual for the KeepMeCompany AI Intake Service, detailing system features, implementation guides, and operational procedures for medical staff. It outlines security protocols including GDPR compliance and data protection measures, alongside troubleshooting and maintenance schedules. The manual serves as a guide for practice staff to integrate and manage the AI phone agent system.",
+  "topic_tags": [
+    "Product Documentation",
+    "Health-Tech",
+    "GDPR Compliance",
+    "AI Implementation",
+    "Operational Procedures"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - User Manual.docx",
+  "file_size": "9567",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename indicates CE Marking documentation but content is a User Manual; specific staff email address visible; folder path contains typo 'Formly Backups'"
+}

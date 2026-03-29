@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_252",
+  "filename": "Privacy Policy - Sept 2024.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's September 2024 privacy policy, detailing the collection, usage, and security of personal and health information for their AI phone agent services. It specifies compliance with GDPR regulations, data retention practices involving automatic deletion after GP consultation, and outlines user rights regarding data access and erasure. Contact details for the Data Controller and Data Protection Officer are included alongside supervisory authority information.",
+  "topic_tags": [
+    "Privacy Policy",
+    "GDPR Compliance",
+    "Health Data Handling",
+    "Legal Documentation",
+    "Data Security"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/0. Privacy Policy/Privacy Policy - Sept 2024.docx",
+  "file_size": "10104",
+  "folder": "7. Administratives/2. UK Regulations/0. Privacy Policy",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains personal email addresses of specific individuals (Data Controller/DPO) which may require redaction for public-facing RAG."
+}

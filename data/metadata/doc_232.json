@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_232",
+  "filename": "DTAC_version_1.0_FINAL_updated_16.04.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Digital Technology Assessment Criteria (DTAC) used by the NHS to evaluate health and social care technologies. It details five core components including clinical safety, data protection, technical security, and interoperability standards required for procurement. The text serves as a compliance framework for developers to demonstrate adherence to NHS service standards.",
+  "topic_tags": [
+    "NHS Compliance",
+    "DTAC",
+    "Health Tech Regulation",
+    "Clinical Safety",
+    "Data Protection"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/0. Templates/DTAC_version_1.0_FINAL_updated_16.04.docx",
+  "file_size": "607845",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/0. Templates",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Public NHS framework document found in admin templates folder; does not contain specific company data."
+}

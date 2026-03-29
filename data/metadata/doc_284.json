@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_284",
+  "filename": "Software Development and Maintenance Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Software Development and Maintenance Plan for the AI Doctor & Patient Consultation Platform, adhering to ISO 13485 and IEC 62304 medical device standards. It details responsibilities across Software, Quality, and Business teams, and defines five key development stages from specification to release. The plan emphasizes risk management, verification testing, and compliance with regulatory requirements for medical software.",
+  "topic_tags": [
+    "Software Development",
+    "Quality Management System",
+    "Medical Device Compliance",
+    "Regulatory Standards",
+    "AI Platform"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/Software Development and Maintenance Plan.docx",
+  "file_size": "82288",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Confirms the software is classified as a medical device under ISO 13485/IEC 62304 with Safety Class B and C requirements."
+}

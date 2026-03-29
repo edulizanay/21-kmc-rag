@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_050",
+  "filename": "Sales and Distribution - How to get users.xlsx",
+  "file_type": "xlsx",
+  "summary": "This deprecated Excel sheet outlines long-term and immediate user acquisition strategies for an elderly care application, focusing on family members (sons/grandsons) and institutions. The content specifically targets the Chilean market, listing Facebook groups and nursing homes in Santiago with mixed English and Spanish notes. It details outreach methods like cold emails, community engagement, and waitlists.",
+  "topic_tags": [
+    "Sales Strategy",
+    "User Acquisition",
+    "Elderly Care",
+    "Deprecated",
+    "Latin America"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/Sales and Distribution - How to get users.xlsx",
+  "file_size": "395902",
+  "folder": "4. Sales/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in 'Deprecated' folder and focuses on Chile/Santiago rather than the UK NHS market. Contains mixed English/Spanish text and specific public Facebook group links."
+}

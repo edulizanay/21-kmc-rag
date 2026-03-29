@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_245",
+  "filename": "Data Processing Agreement (KeepMeCompany and OpenAI).pdf",
+  "file_type": "pdf",
+  "summary": "This document is a Data Processing Addendum (DPA) between KeepMeCompany and OpenAI, governing the processing of Customer Data under applicable privacy laws like GDPR and CCPA. It defines KeepMeCompany as the Data Controller and OpenAI as the Data Processor, outlining obligations for data security, confidentiality, and compliance with UK and US privacy regulations. The agreement ensures that OpenAI processes data only on behalf of KeepMeCompany for the provision of AI services.",
+  "topic_tags": [
+    "Legal",
+    "Data Privacy",
+    "GDPR",
+    "OpenAI",
+    "Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/1. DPAs/Data Processing Agreement (KeepMeCompany and OpenAI).pdf",
+  "file_size": "327792",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR/1. DPAs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Standard OpenAI template, but confirms third-party AI vendor usage for data processing."
+}

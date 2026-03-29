@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_227",
+  "filename": "Clinical safety hazard log - November 2024.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a Clinical Safety Hazard Log for KeepMeCompany's AI Intake Service, structured as an Excel spreadsheet. It details version history, approvers, and specific hazards like emergency care delays alongside risk controls and mitigation strategies. The file demonstrates adherence to NHS DTAC standards and outlines internal safety protocols.",
+  "topic_tags": [
+    "Clinical Safety",
+    "Risk Management",
+    "NHS Compliance",
+    "AI Governance",
+    "DTAC"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents/Clinical safety hazard log - November 2024.xlsx",
+  "file_size": "301874",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Date discrepancy between cover page (2020) and version history (2024); filename says November 2024 but version history shows Jan 2024 final version."
+}

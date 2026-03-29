@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_341",
+  "filename": "SOP Management Review.docx",
+  "file_type": "docx",
+  "summary": "This Standard Operating Procedure defines the protocol for annual Management Reviews of the company's Quality Management System (QMS). It outlines required inputs like audit results and KPIs, as well as outputs regarding strategic goals and resource allocation to ensure ISO 13485:2016 compliance. The document includes empty placeholders for specific management personnel names and signature tables.",
+  "topic_tags": [
+    "Quality Management System",
+    "ISO 13485",
+    "Operational SOP",
+    "Regulatory Compliance",
+    "Internal Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate/SOP Management Review.docx",
+  "file_size": "13147",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Empty list for management team members; references ISO 13485:2016 (medical devices) despite being a general SOP."
+}

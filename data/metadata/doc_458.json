@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_458",
+  "filename": "Insights.docx",
+  "file_type": "docx",
+  "summary": "This document outlines critical issues identified during a user testing session for the AI phone agent, specifically focusing on transcription inaccuracies and excessive conversational repetition. It details specific examples where the AI misheard medication names and repeated closing phrases over twenty times. The content provides essential feedback on product quality and AI reliability for healthcare interactions.",
+  "topic_tags": [
+    "AI Testing",
+    "Transcription Errors",
+    "User Feedback",
+    "Product Quality",
+    "Healthcare AI"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/Tests/1. Cristina Clavero/Insights.docx",
+  "file_size": "7767",
+  "folder": "0. Research/4. Users Testing/Tests/1. Cristina Clavero",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains PII (patient name Christina) and health data; reveals significant AI repetition and hallucination issues in the closing segment."
+}

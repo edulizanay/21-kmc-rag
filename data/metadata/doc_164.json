@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_164",
+  "filename": "bquxjob_26e8f420_195040c9f18 (1).csv",
+  "file_type": "csv",
+  "summary": "This CSV file contains system prompts and conversation history for an AI voice agent designed for a dental clinic in Chile. The instructions define goal prioritization, safety guardrails regarding medical advice, and specific business details like clinic location and availability. The content is written in Spanish and appears to be a deprecated engineering artifact.",
+  "topic_tags": [
+    "AI-Prompting",
+    "Voice-Agent",
+    "Healthcare-Tech",
+    "Spanish-Language",
+    "Engineering-Artifacts"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated/bquxjob_26e8f420_195040c9f18 (1).csv",
+  "file_size": "6154128",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Content describes a Dental Clinic in Providencia, Chile, which contradicts the company's stated focus on NHS GP practices in the UK. Language is Spanish, not English. File is marked as Deprecated in the folder path."
+}

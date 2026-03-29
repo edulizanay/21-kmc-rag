@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_352",
+  "filename": "Incident Assessment Form.docx",
+  "file_type": "docx",
+  "summary": "This document is a template for assessing and reporting medical device incidents within the company's Quality Management System. It outlines the regulatory criteria for determining reportable events under EU MDR 2017/745 and references internal SOPs for vigilance procedures. The form serves as a standardized tool for compliance teams to evaluate potential safety issues and determine if they require reporting to competent authorities.",
+  "topic_tags": [
+    "QMS",
+    "Regulatory Compliance",
+    "Medical Device Regulation",
+    "Incident Reporting",
+    "Vigilance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/7. Post Market (Templates)/Incident Assessment Form.docx",
+  "file_size": "10815",
+  "folder": "7. Administratives/3. QMS Documentation/7. Post Market (Templates)",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document is a template form; references EU MDR regulations which may need alignment with UK MHRA standards for this UK startup."
+}

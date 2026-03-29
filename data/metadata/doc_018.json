@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_018",
+  "filename": "Spain Communication Services - Sales Playbook.docx",
+  "file_type": "docx",
+  "summary": "This document is an internal sales playbook for KeepMeCompany's AI communication services targeting private clinics in Spain. It details sales scripts, value propositions, demo workflows, and pricing strategies (€0.53 per call). It also addresses data privacy compliance and common customer objections regarding the AI phone agent technology.",
+  "topic_tags": [
+    "Sales Strategy",
+    "AI Healthcare",
+    "Pricing Model",
+    "Patient Adherence",
+    "Market Expansion"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/5. Spanish Private Market/Spain Communication Services - Sales Playbook.docx",
+  "file_size": "899559",
+  "folder": "4. Sales/5. Spanish Private Market",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Market focus (Spain Private) differs from UK NHS profile. Contains specific unit economics. Text contains minor typos/incomplete sentences."
+}

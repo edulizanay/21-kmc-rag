@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_323",
+  "filename": "SOP Vigilance.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) outlining the company's vigilance processes for handling serious safety events and field safety corrective actions (FSCA). It details reporting requirements to competent authorities under EU Medical Device Regulation (MDR) 2017/745, including timelines and criteria for defining serious incidents. The SOP also defines procedures for Field Safety Notices (FSN) and communication with users regarding device risks or modifications.",
+  "topic_tags": [
+    "Quality Management",
+    "Regulatory Compliance",
+    "Medical Device Regulation",
+    "Safety Protocols",
+    "Incident Reporting"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Vigilance.docx",
+  "file_size": "211857",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document references EU MDR 'Union market' regulations despite UK NHS focus; content truncated at end of snippet."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_142",
+  "filename": "Prompts - Psychologist - Seniors V2.docx",
+  "file_type": "docx",
+  "summary": "This document contains user feedback notes and ratings from a trial of an AI companion named Sebastián, highlighting issues with latency and warmth. It also includes the system prompt instructions used to guide the AI's conversational behavior, focusing on emotional support and open-ended questioning for seniors.",
+  "topic_tags": [
+    "AI Prompt Engineering",
+    "User Feedback",
+    "Elderly Care",
+    "Product Development",
+    "Deprecated"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials/Prompts - Psychologist - Seniors V2.docx",
+  "file_size": "194310",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish despite target market being UK NHS GP practices; marked as deprecated and from early trials."
+}

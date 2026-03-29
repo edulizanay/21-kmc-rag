@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_330",
+  "filename": "additional-software-test-reports.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a Quality Management System software test report evaluating the AI agent's performance, compliance, and latency under load. It identifies specific failures in transcription accuracy and response time, offering technical recommendations for optimization. The file also includes raw conversation logs and JSON data structures at the end, which appear to be test case outputs.",
+  "topic_tags": [
+    "Quality Assurance",
+    "Software Testing",
+    "AI Performance",
+    "Compliance",
+    "Product Development"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/additional-software-test-reports.pdf",
+  "file_size": "499980",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Raw conversation logs at the bottom contain names and dates of birth resembling PII; text formatting is broken with missing spaces throughout the report."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_184",
+  "filename": "Team - Weekly Planning.docx",
+  "file_type": "docx",
+  "summary": "This document is an internal weekly planning log (Weeks 38-40) detailing engineering tasks, compliance requirements, and strategic discussions for KeepMeCompany. It outlines technical implementation steps for AI voice agents, including OpenAI STT integration and verification modules, alongside GTM strategy for NHS GP practices and the Spanish market. The notes also touch on fundraising status, team responsibilities, and GDPR certification preparations.",
+  "topic_tags": [
+    "Engineering",
+    "Go-to-Market Strategy",
+    "Compliance",
+    "Fundraising",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/9. Team/Team - Weekly Planning.docx",
+  "file_size": "754590",
+  "folder": "7. Administratives/9. Team",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document is written in a mix of English and Spanish; contains sensitive fundraising status ('No traction') and specific NHS market financial data (£2.4 billion investment); lists internal team member names."
+}

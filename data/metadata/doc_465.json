@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_465",
+  "filename": "User Testing - Webapp - Psychologists - Andrea Fuenzalida Bunting.docx",
+  "file_type": "docx",
+  "summary": "This document summarizes user testing feedback from a psychologist regarding an AI voice agent prototype designed for elderly care. It details technical performance issues, preferred voice tones, UI design suggestions, and conversation topics that build trust with seniors. The notes emphasize the need for emotional connection and memory retention to avoid the interaction feeling robotic.",
+  "topic_tags": [
+    "User Testing",
+    "AI Voice Agent",
+    "Elderly Care",
+    "Product Feedback",
+    "UX Research"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/1. Web App Tests/User Testing - Webapp - Psychologists - Andrea Fuenzalida Bunting.docx",
+  "file_size": "293939",
+  "folder": "0. Research/4. Users Testing/1. Web App Tests",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mixed English and Spanish text. Contains full name of tester. Mentions 'Wavesound' which may be a competitor or tech stack. Notes connectivity issues affecting prototype stability."
+}

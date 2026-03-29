@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_049",
+  "filename": "Sales - Reaching ICBs.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a sales engagement strategy for reaching NHS Integrated Care Boards (ICBs) with an AI phone agent solution, though it is stored in a deprecated folder. It details stakeholder mapping, multi-channel outreach tactics including email templates, and objection handling frameworks aligned with NHS priorities. The content includes specific messaging for different roles like Finance Directors and Clinical Leaders, along with success metrics and risk mitigation plans.",
+  "topic_tags": [
+    "Sales Strategy",
+    "NHS",
+    "ICB",
+    "AI Healthcare",
+    "Outreach"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/Sales - Reaching ICBs.docx",
+  "file_size": "90545",
+  "folder": "4. Sales/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder indicating outdated strategy. Contains specific founder name 'Rodrigo Orpis' with title 'Technoking' in email signature. Includes specific NHS performance metrics example (Norfolk and Waveney ICB 54% access) which may be sensitive data if real."
+}

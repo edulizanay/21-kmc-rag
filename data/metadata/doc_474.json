@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_474",
+  "filename": "Pre-Diagnosis Competition - Mediktor Back Pain.docx",
+  "file_type": "docx",
+  "summary": "This document contains research notes and symptom lists from a user test of a medical intake tool named Mediktor. It features mixed-language observations regarding UX flow, navigation limitations, and specific symptom categorization for back and abdominal pain. The content concludes with a reference to a liabilities message, indicating legal disclaimers within the tested interface.",
+  "topic_tags": [
+    "Medical Triage",
+    "User Research",
+    "Symptom Taxonomy",
+    "Competitor Analysis",
+    "UX Feedback"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/10. Research/1. Intake Competition/Pre-Diagnosis Competition - Mediktor Back Pain.docx",
+  "file_size": "43087564",
+  "folder": "0. Research/10. Research/1. Intake Competition",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mixed English/Spanish notes indicate testing with diverse demographics; explicitly references competitor tool 'Mediktor'; contains specific medical symptom data."
+}

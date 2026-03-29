@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_446",
+  "filename": "Company Plans - Launch Plan.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet outlines a detailed launch plan and project timeline for KeepMeCompany spanning July to September 2024. It tracks tasks related to company incorporation, visa acquisition, office setup, and initial outreach to UK healthcare providers like doctors and hospitals. Responsibilities are assigned to founders RO and EL, with notes on funding sources and product adaptation for the UK market.",
+  "topic_tags": [
+    "launch_plan",
+    "incorporation",
+    "founder_roles",
+    "uk_market",
+    "timeline"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/Company Plans - Launch Plan.xlsx",
+  "file_size": "53482",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path '2. Phone Calls' mismatches document content 'Company Plans'. Contains personal notes like 'RO is back from Honeymoon' and specific funding source abbreviations."
+}

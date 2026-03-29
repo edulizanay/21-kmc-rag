@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_139",
+  "filename": "Prompts Bank.docx",
+  "file_type": "docx",
+  "summary": "This document contains a collection of system prompts for an AI conversational agent, including a specific persona for psychological support and listening. It outlines interaction steps, XML formatting for conversation history, and placeholder variables for user input. The document is located in a 'Deprecated' folder, indicating these instructions are no longer in active use for the current product.",
+  "topic_tags": [
+    "AI System Prompts",
+    "Product History",
+    "Deprecated Assets",
+    "Healthcare AI",
+    "Conversational Design"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/Prompts Bank.docx",
+  "file_size": "734450",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; document content appears truncated at the end ('Des'); contains psychological persona instructions relevant to elderly care product."
+}

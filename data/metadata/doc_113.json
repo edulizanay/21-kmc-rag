@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_113",
+  "filename": "Medical Templates - Follow Ups.docx",
+  "file_type": "docx",
+  "summary": "This document outlines medical follow-up protocols and AI agent scripts designed for primary care interactions within the NHS. It defines specific alert triggers for symptoms like fever and provides standardized responses for test results and medication changes. The content also begins a list of top medical conditions in the UK.",
+  "topic_tags": [
+    "AI Agents",
+    "Medical Protocols",
+    "NHS",
+    "Patient Scripts",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/6. Medical Templates/Medical Templates - Follow Ups.docx",
+  "file_size": "9543",
+  "folder": "3. Product/6. Medical Templates",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains clinical triage logic (e.g., temperature thresholds) implying regulatory sensitivity; document appears truncated at Tab 2."
+}

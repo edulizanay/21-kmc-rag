@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_246",
+  "filename": "Data Protection Addendum _ Twilio.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a Data Protection Addendum from Twilio outlining definitions and obligations regarding personal data processing under GDPR. It details categories of customer data, security incidents, and sensitive information handling relevant to the startup's use of Twilio's communication services. It serves as a foundational compliance artifact for the startup's adherence to UK data regulations.",
+  "topic_tags": [
+    "GDPR",
+    "Data Privacy",
+    "Vendor Compliance",
+    "Legal",
+    "Twilio"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/1. DPAs/Data Protection Addendum _ Twilio.pdf",
+  "file_size": "533760",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR/1. DPAs",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears to be a public webpage export from Twilio's site rather than a customized internal contract; contains standard definitions without specific company amendments visible."
+}

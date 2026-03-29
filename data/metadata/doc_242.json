@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_242",
+  "filename": "ROPA - Oct 2024.docx",
+  "file_type": "docx",
+  "summary": "This document is a Record of Processing Activities (ROPA) outlining KeepMeCompany's GDPR compliance framework. It details data collection methods via AI phone agents, security measures like AES-256 encryption, and third-party processor agreements. The file specifies retention policies, legal bases for processing, and confirms all data remains within the UK/EU.",
+  "topic_tags": [
+    "GDPR",
+    "Data Privacy",
+    "Compliance",
+    "AI Security",
+    "Healthcare Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/ROPA - Oct 2024.docx",
+  "file_size": "9480",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific employee names (Eduardo, Rodrigo) and contact emails. Confirms NHSmail usage and specific encryption standards (AES-256, TLS 1.2+)."
+}

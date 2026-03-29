@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_305",
+  "filename": "Risk Management Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Risk Management Plan for KeepMeCompany's AI Doctor & Patient Consultation Platform, establishing safety policies based on ISO 14971 standards. It defines criteria for risk acceptability, severity of harm, and probability of occurrence to ensure medical device safety and regulatory compliance. The plan integrates risk management activities into the software development lifecycle to mitigate potential hazards.",
+  "topic_tags": [
+    "Risk Management",
+    "Medical Device Compliance",
+    "ISO 14971",
+    "Quality Management",
+    "AI Safety"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Risk Management Plan.docx",
+  "file_size": "14469",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Confirms product classification as a regulated medical device, indicating high regulatory burden and liability exposure."
+}

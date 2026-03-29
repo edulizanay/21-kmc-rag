@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_357",
+  "filename": "Finances - Funding Plan.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document contains two Excel sheets detailing the financial funding plan and runway estimation for KeepMeCompany. It outlines monthly operational costs, employee headcount projections, revenue forecasts from GP practices, and total capital requirements in both GBP and USD. The data tracks burn rates and funding needs over a multi-month period to support pilot programs and integrations.",
+  "topic_tags": [
+    "Financial Planning",
+    "Funding Strategy",
+    "Burn Rate",
+    "Operational Costs",
+    "Runway Estimation"
+  ],
+  "audience": "investors/internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/Finances - Funding Plan.xlsx",
+  "file_size": "98332",
+  "folder": "5. Finances and VCs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Mixed currencies (GBP/USD) and languages (English/Spanish) within financial projections; specific capital requirements and burn rates exposed."
+}

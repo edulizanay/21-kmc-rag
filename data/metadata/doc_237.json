@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_237",
+  "filename": "Data Breach Response Plan - November 2024.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's internal protocol for responding to data breaches involving patient health data and AI phone service transcripts. It defines the response team roles, risk classification levels, and mandatory notification procedures for the ICO, patients, and GP practices. The plan includes specific contact details for executives and templates for regulatory reporting.",
+  "topic_tags": [
+    "GDPR Compliance",
+    "Data Security",
+    "Incident Response",
+    "Health Tech",
+    "Operational Policy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/Data Breach Response Plan - November 2024.docx",
+  "file_size": "12864",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific personal contact information (emails and mobile numbers) for the CEO and CTO/DPO, plus a specific UK office address."
+}

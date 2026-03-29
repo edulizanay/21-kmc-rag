@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_251",
+  "filename": "Medical Device Regulations - Intended Use.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the intended use and regulatory classification strategy for KeepMeCompany's AI-powered phone agent serving NHS GP practices. It details the product workflow, including patient verification and triaging, while comparing the service against competitors like eConsult and Ada Health regarding medical device risk classes. Finally, it provides a draft statement for Medical Device Regulation compliance defining the device's purpose and limitations.",
+  "topic_tags": [
+    "Medical Device Regulation",
+    "Product Workflow",
+    "Competitor Analysis",
+    "NHS Integration",
+    "AI Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/4. Medical Device Regulations/Medical Device Regulations - Intended Use.docx",
+  "file_size": "11675",
+  "folder": "7. Administratives/2. UK Regulations/4. Medical Device Regulations",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Draft regulatory document; explicitly limits liability by stating GPs confirm diagnosis; excludes A&E triage."
+}

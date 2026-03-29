@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_452",
+  "filename": "Product Ideas.pptx",
+  "file_type": "pptx",
+  "summary": "This document outlines the service flow for an AI-powered phone agent system designed for NHS GP practices. It details the triage process involving receptionists and the dashboard interface required for managing patient calls. Finally, it specifies the GP consultation view, emphasizing quick summary formats for EHR integration.",
+  "topic_tags": [
+    "Product Strategy",
+    "NHS Integration",
+    "AI Triage",
+    "User Interface",
+    "Workflow Design"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/Product Ideas.pptx",
+  "file_size": "476630",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_268",
+  "filename": "Device label.docx",
+  "file_type": "docx",
+  "summary": "This document serves as a regulatory device label for the 'AI Doctor & Patient Consultation Platform' software release. It confirms the product is classified as a Class I medical device under EU MDR 2017/745 and lists the company's London address and software version 1.0. The document includes unique identifiers and release dates but refers users to external instructions for warnings.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device",
+    "Product Release",
+    "EU MDR",
+    "QMS"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc./Device label.docx",
+  "file_size": "47604",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc.",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears to be a metadata label with empty signature and revision history sections. Contains internal tracking IDs and specific regulatory classification claims."
+}

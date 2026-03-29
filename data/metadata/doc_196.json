@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_196",
+  "filename": "Business Continuity Exercise - Results and Action Plan.docx",
+  "file_type": "docx",
+  "summary": "This document records the outcomes of a business continuity exercise simulating a cloud outage for KeepMeCompany's AI patient intake system. It lists three resolved issues, including the implementation of a multi-cloud strategy with AWS and updated emergency communication protocols. The report confirms all action items were completed by mid-September 2024 to ensure service reliability and patient data security.",
+  "topic_tags": [
+    "Business Continuity",
+    "Cloud Infrastructure",
+    "Risk Management",
+    "Operational Security",
+    "Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Business Continuity Exercise - Results and Action Plan.docx",
+  "file_size": "8018",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path suggests Data Protection Toolkit but content is general BCP; specific executive names listed; very tight turnaround on action items (9 days)."
+}

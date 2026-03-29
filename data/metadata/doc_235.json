@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_235",
+  "filename": "DPIA - September 2024.docx",
+  "file_type": "docx",
+  "summary": "This document is a Data Protection Impact Assessment (DPIA) detailing KeepMeCompany's AI-driven phone intake service for NHS GP practices. It outlines the collection, storage, and deletion of patient health data, emphasizing compliance with GDPR and security measures like encryption. The assessment highlights the use of AI for vulnerable seniors and details the minimal data retention policy.",
+  "topic_tags": [
+    "GDPR",
+    "Data Privacy",
+    "AI Compliance",
+    "Healthcare",
+    "Risk Assessment"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/DPIA - September 2024.docx",
+  "file_size": "16067",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears truncated at the end; outlines future expansion beyond UK."
+}

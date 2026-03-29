@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_122",
+  "filename": "Product - User Story Mapping Questions.docx",
+  "file_type": "docx",
+  "summary": "This document outlines early-stage product strategy questions and answers for an AI companion application designed for elderly users and their families. It details user segmentation, onboarding flows, and core functionality while acknowledging that privacy, security, and feedback mechanisms are still under consideration. Several sections indicate uncertainty with phrases like 'I don't know yet,' reflecting the nascent planning phase.",
+  "topic_tags": [
+    "Product Strategy",
+    "AI Companion",
+    "Elderly Care",
+    "User Onboarding",
+    "Deprecated"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/8. Deprecated/Product - User Story Mapping Questions.docx",
+  "file_size": "15141",
+  "folder": "3. Product/0. Deprecated/8. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in a deprecated folder; content reflects early-stage uncertainty with multiple 'I don't know yet' responses regarding privacy and feedback loops; mentions founder-led support initially."
+}

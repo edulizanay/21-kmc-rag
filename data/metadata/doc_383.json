@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_383",
+  "filename": "Email for VCs.docx",
+  "file_type": "docx",
+  "summary": "This document contains multiple email drafts sent to venture capitalists introducing KeepMeCompany's AI companion for seniors. It outlines the problem of social isolation, the proposed solution using voice conversations, and current traction with a prototype tested on eight seniors. The text also details the founding team's previous exits and market valuation projections.",
+  "topic_tags": [
+    "Venture Capital",
+    "AI Health",
+    "Senior Care",
+    "Pitch Narrative",
+    "Team Background"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/0. Deprecated/Email for VCs.docx",
+  "file_size": "731921",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/0. Deprecated",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Multiple identical email drafts found; one email cuts off mid-sentence; folder marked 'Deprecated'."
+}

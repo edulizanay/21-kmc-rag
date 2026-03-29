@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_078",
+  "filename": "Untitled spreadsheet.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a risk assessment matrix detailing potential threats to patient data and system integrity within the company's operations. It outlines specific risks such as unauthorized access, cyberattacks, and GDPR non-compliance, evaluating their likelihood and severity. The assessment highlights compliance obligations and potential impacts on patient safety and corporate reputation.",
+  "topic_tags": [
+    "Risk Management",
+    "GDPR Compliance",
+    "Data Security",
+    "Operational Risk",
+    "Healthcare AI"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/3. Databases/2. UK/1. Private Care/Untitled spreadsheet.xlsx",
+  "file_size": "5934",
+  "folder": "4. Sales/3. Databases/2. UK/1. Private Care",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename is generic ('Untitled spreadsheet.xlsx'), folder path suggests Sales/Databases but content is Risk/Compliance. Indicates potential misfiling or generic due diligence material."
+}

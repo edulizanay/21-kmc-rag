@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_293",
+  "filename": "Deployment Evaluation Checklist.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the deployment evaluation checklist and infrastructure qualification process for KeepMeCompany's AI phone agent system. It details the cloud-based infrastructure complexity, risk mitigations, and a structured 4-week installation plan with specific acceptance criteria for medical center integration. The checklist ensures patient safety and data security during the deployment of the AI voice system within NHS GP practices.",
+  "topic_tags": [
+    "Deployment",
+    "Quality Management",
+    "Infrastructure",
+    "Risk Assessment",
+    "AI Integration"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Deployment Evaluation Checklist.docx",
+  "file_size": "11193",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Notable: Explicitly states system does not make medical decisions to limit liability."
+}

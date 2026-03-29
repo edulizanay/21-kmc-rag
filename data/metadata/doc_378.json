@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_378",
+  "filename": "YC - Application Questions.docx",
+  "file_type": "docx",
+  "summary": "This document contains the Y Combinator application questions and answers for KeepMeCompany, detailing the startup's origin, team backgrounds, and value proposition. It outlines the problem of elderly loneliness, the proposed AI voice solution, and the competitive landscape against chat-based alternatives. The text ends abruptly mid-sentence while discussing current LLM limitations.",
+  "topic_tags": [
+    "YC Application",
+    "Founders",
+    "Problem Statement",
+    "Competitive Analysis",
+    "Product Vision"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/1. Accelerators/YC - Application Questions.docx",
+  "file_size": "733756",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/1. Accelerators",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is truncated mid-sentence at the end. Mentions Chilean market pricing ($50/hr) which may differ from current UK/NHS focus."
+}

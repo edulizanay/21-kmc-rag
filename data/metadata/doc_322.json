@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_322",
+  "filename": "SOP Usability Engineering.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Standard Operating Procedure for usability engineering within the company's Quality Management System. It details the end-to-end process for medical device design, including user research, prototyping, testing, and risk management to comply with standards like IEC 62366-1. The text covers planning, development, verification, and post-market monitoring phases.",
+  "topic_tags": [
+    "Usability Engineering",
+    "Quality Management System",
+    "Medical Device Compliance",
+    "Product Development",
+    "Regulatory Standards"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Usability Engineering.docx",
+  "file_size": "11401",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References FDA guidance despite UK NHS focus; document text cuts off mid-sentence at the end."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_247",
+  "filename": "Firebase Data Processing and Security Terms.pdf",
+  "file_type": "pdf",
+  "summary": "This document details the Firebase Data Processing and Security Terms agreed upon between the Customer and Google LLC. It establishes definitions and obligations regarding data processing, security controls, and adherence to UK GDPR, EU GDPR, and Swiss FDPA regulations. The text serves as a legal framework for handling Customer Data and Personal Data within the Firebase Services.",
+  "topic_tags": [
+    "GDPR",
+    "Data Privacy",
+    "Firebase",
+    "Legal Compliance",
+    "UK Regulations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/1. DPAs/Firebase Data Processing and Security Terms.pdf",
+  "file_size": "381882",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR/1. DPAs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Standard Google Firebase DPA; relevant for UK health-tech compliance due to GDPR references."
+}

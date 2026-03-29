@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_157",
+  "filename": "chunked_doctor_statements.csv",
+  "file_type": "csv",
+  "summary": "This document is a CSV file containing transcribed dialogue snippets from a medical consultation simulation. It includes patient history inquiries, symptom assessments, and medical advice typical of NHS GP triage interactions. The data appears to be cached messages from an ElevenLabs voice AI pipeline used for the startup's elderly care agents.",
+  "topic_tags": [
+    "AI Voice Technology",
+    "Medical Dialogue",
+    "Patient Triage",
+    "Engineering Data",
+    "Healthcare AI"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/chunked_doctor_statements.csv",
+  "file_size": "266221",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Raw patient dialogue data; potential PHI risk; ElevenLabs integration evidence."
+}

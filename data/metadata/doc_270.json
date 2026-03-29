@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_270",
+  "filename": "UDI Details.docx",
+  "file_type": "docx",
+  "summary": "This document records the Unique Device Identifier (UDI) details for a medical device software product registered with UK authorities. It specifies the Device Identifier, Production Identifier, and Single Registration Number (SRN) alongside the European Medical Device Nomenclature code. The document also includes placeholders for signatures and revision history.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device Software",
+    "UDI",
+    "QMS",
+    "UK MHRA"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc./UDI Details.docx",
+  "file_size": "7813",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc.",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Revision History and Document Signature Table are empty despite being categorized under 'Released Documents', indicating potential incomplete sign-off."
+}

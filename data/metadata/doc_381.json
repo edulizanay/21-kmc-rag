@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_381",
+  "filename": "CPI MFA Letter 2024 - 5G KeepMeCompany.docx",
+  "file_type": "docx",
+  "summary": "This document is a Minimal Financial Assistance Declaration letter addressed to Eduardo Lizana of KeepMeCompany regarding UK Subsidy Control Act 2022 compliance. It outlines eligibility criteria for receiving £850 in aid and details the £315,000 threshold over a rolling three-year period. The document requires the recipient to disclose previous subsidies to ensure compliance with cumulation rules.",
+  "topic_tags": [
+    "Government Funding",
+    "Legal Compliance",
+    "Subsidy Control",
+    "Financials",
+    "UK Regulations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/0. Deprecated/CPI MFA Letter 2024 - 5G KeepMeCompany.docx",
+  "file_size": "506636",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in 'Deprecated' folder despite 2024 date; low value subsidy (£850) compared to threshold; filename mentions '5G' which is not reflected in content."
+}

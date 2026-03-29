@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_354",
+  "filename": "Post-Market Clinical Follow-Up Evaluation Report.docx",
+  "file_type": "docx",
+  "summary": "This document serves as a Post-Market Clinical Follow-Up Evaluation Report for the AI Phone Intake Service. It details the device's core functionality, technical infrastructure, and compliance measures regarding GDPR and NHS data security standards. The report outlines implementation processes, user demographics, and security protocols for GP practice integration.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Product Functionality",
+    "Healthcare AI",
+    "Data Security",
+    "QMS Documentation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/7. Post Market (Templates)/Post-Market Clinical Follow-Up Evaluation Report.docx",
+  "file_size": "22661",
+  "folder": "7. Administratives/3. QMS Documentation/7. Post Market (Templates)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in a 'Templates' folder despite containing specific product identifiers and UUIDs."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_281",
+  "filename": "SOP Software Validation.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Standard Operating Procedure for validating software systems impacting the organization's quality management system or medical product safety. It defines qualification criteria based on ISO 13485 and ISO/TR 80002-2 standards, detailing the risk-based validation phases from Define to Deploy. The SOP ensures compliance with regulatory requirements for software used in production and service provision.",
+  "topic_tags": [
+    "Quality Management System",
+    "Software Validation",
+    "Regulatory Compliance",
+    "ISO Standards",
+    "Operational Procedure"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/SOP Software Validation.docx",
+  "file_size": "11728",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References ISO 13485:2016, indicating medical device regulatory classification for their software systems."
+}

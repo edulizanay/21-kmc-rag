@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_206",
+  "filename": "CE Marking - Anomalies.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet documents technical anomalies identified in the AI phone agent system, including speech recognition delays and accent processing variations. Each entry details the risk impact, confirms acceptability, and outlines specific correction actions and timelines for upcoming software releases. The data reflects the company's risk management process regarding CE Marking compliance and product quality.",
+  "topic_tags": [
+    "AI Development",
+    "Risk Management",
+    "CE Marking",
+    "Product Quality",
+    "Speech Recognition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Anomalies.xlsx",
+  "file_size": "5544",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": ""
+}

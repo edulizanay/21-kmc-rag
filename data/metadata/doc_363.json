@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_363",
+  "filename": "Backups.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a risk register outlining potential threats across technical, clinical, commercial, and operational categories. It details specific risks such as AI system performance and patient safety, along with mitigation strategies and assigned owners. The file concludes with recommended actions for prioritizing high-impact risks and ensuring cross-functional communication.",
+  "topic_tags": [
+    "Risk Management",
+    "Operational Strategy",
+    "AI Safety",
+    "Compliance",
+    "Business Planning"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/3. Grants/Backups.xlsx",
+  "file_size": "5920",
+  "folder": "5. Finances and VCs/3. Grants",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Generic filename 'Backups.xlsx' and stored in Grants folder despite being an operational risk register."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_407",
+  "filename": "Analythics - Haiku vs GPT3.5 Turbo.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel document contains internal performance test results comparing AI models (Haiku, GPT3.5, Opus) using generic conversation personas like musicians and cooking. It includes system prompts defining multi-step interaction flows and numerical quality review scores for each model. The file is located in the Analytics folder and focuses on technical benchmarking rather than healthcare-specific use cases.",
+  "topic_tags": [
+    "AI Model Benchmarking",
+    "Prompt Engineering",
+    "Technical Testing",
+    "LLM Evaluation",
+    "Internal Analytics"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/2. Performance Tests/Analythics - Haiku vs GPT3.5 Turbo.xlsx",
+  "file_size": "284687",
+  "folder": "6. Analytics/2. Performance Tests",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Test personas (cooking, musicians) do not align with the company's core NHS elderly care mission, indicating early-stage generic development or placeholder testing."
+}

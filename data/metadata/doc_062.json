@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_062",
+  "filename": "Untitled document.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the value proposition and features of an AI phone agent product named Alicia designed for NHS GP practices. It details use cases like pre-appointment intake, managing 8am call rushes, and Quality of Outcomes Framework (QOF) compliance, including specific revenue projections and cost savings. The material appears to be deprecated marketing or sales copy explaining setup steps and benefits for healthcare providers.",
+  "topic_tags": [
+    "AI Phone Agents",
+    "NHS GP Practices",
+    "QOF Compliance",
+    "Sales Pitch",
+    "Healthcare ROI"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/7. Website/Untitled document.docx",
+  "file_size": "8844",
+  "folder": "4. Sales/0. Deprecated/7. Website",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in Deprecated folder; financial figures may be outdated; product name Alicia differs from company name KeepMeCompany"
+}

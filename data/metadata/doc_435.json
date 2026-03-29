@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_435",
+  "filename": "Information for Maryam_.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the company's mission, leadership team, and product strategy for an AI-powered phone agent service targeting UK GP practices. It details the problem statement regarding GP capacity, the technical infrastructure of the AI intake system, and market segmentation within the NHS ecosystem. The content also highlights current milestones, including self-funded status and interest from London medical centers.",
+  "topic_tags": [
+    "Healthcare AI",
+    "GP Operations",
+    "Product Strategy",
+    "Market Analysis",
+    "Leadership Team"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/1. Deprecated/Information for Maryam_.docx",
+  "file_size": "14858",
+  "folder": "2. Company Plans/1. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in 'Deprecated' folder; filename suggests personal distribution ('Maryam'); contains specific financial figures (£18m, £60M ARR) and legal compliance mentions."
+}

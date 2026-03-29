@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_108",
+  "filename": "Escalator Architecture.docx",
+  "file_type": "docx",
+  "summary": "This document details the technical architecture for the 'Escalator' safety feature designed to detect medical crises during AI phone interactions. It outlines the system workflow for identifying risky diseases, prioritizing crisis goals, and handing over information to medical staff. The text also highlights current implementation challenges such as symptom variation and conversation hijacking.",
+  "topic_tags": [
+    "AI Safety",
+    "Crisis Detection",
+    "Product Architecture",
+    "Healthcare AI",
+    "System Workflow"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/5. Escalator/Escalator Architecture.docx",
+  "file_size": "10080",
+  "folder": "3. Product/5. Escalator",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains mixed English and Spanish text (e.g., 'goals terminaron', 'Mostrar información textual') and placeholder text ('bla bla bla'), indicating a draft or multilingual development context."
+}

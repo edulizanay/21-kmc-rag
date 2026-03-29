@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_467",
+  "filename": "Differential Diagnosis.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the general medical process of differential diagnosis, detailing steps like symptom inquiry, history review, and physical exams. It includes a list of common symptoms such as abdominal pain and asthma alongside their potential differential conditions. The content appears to be standard public health educational material rather than proprietary internal strategy.",
+  "topic_tags": [
+    "Medical Diagnosis",
+    "GP Workflow",
+    "Differential Diagnosis",
+    "Healthcare Research",
+    "Symptom Analysis"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/10. Research/3. GPs Diagnosis Process/Differential Diagnosis.docx",
+  "file_size": "12003",
+  "folder": "0. Research/10. Research/3. GPs Diagnosis Process",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Text truncates abruptly at the end ('Symptoms of knee'). Content is generic public medical information, not specific to KeepMeCompany's proprietary methodology."
+}

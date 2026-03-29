@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_468",
+  "filename": "GPs Interviews - Questions.docx",
+  "file_type": "docx",
+  "summary": "This document outlines an interview guide designed for General Practitioners to understand their consultation workflows and patient intake processes. It details specific questions regarding data gathering efficiency, pre-consultation information utility, and potential pilot program participation for a new service. The content reflects the startup's research phase to validate product-market fit within NHS practices.",
+  "topic_tags": [
+    "Customer Research",
+    "GP Interviews",
+    "NHS Workflow",
+    "Product Validation",
+    "AI Integration"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/10. Research/2. GPs Interviews/GPs Interviews - Questions.docx",
+  "file_size": "8382",
+  "folder": "0. Research/10. Research/2. GPs Interviews",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Reveals product hypothesis regarding AI pre-consultation agents"
+}

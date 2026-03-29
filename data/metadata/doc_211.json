@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_211",
+  "filename": "CE Marking - Physician_s Handbook.docx",
+  "file_type": "docx",
+  "summary": "This document serves as a Physician's Handbook for the KeepMeCompany AI Intake Service, guiding healthcare professionals on system usage and clinical responsibilities. It explicitly states the AI does not make clinical decisions and outlines protocols for verifying patient information before consultation. The text includes operational best practices and support contact details for the UK GP practice context.",
+  "topic_tags": [
+    "Clinical Governance",
+    "AI Intake Service",
+    "Healthcare Operations",
+    "User Manual",
+    "UK Regulations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Physician_s Handbook.docx",
+  "file_size": "9188",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename references 'CE Marking' but content is a user handbook rather than regulatory certification documents; contains specific internal email address."
+}

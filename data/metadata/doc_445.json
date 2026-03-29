@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_445",
+  "filename": "Company Plans - Information for LLMs - Jan 21st.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the business model and product strategy for KeepMeCompany, an AI-powered phone agent startup targeting UK GP practices. It details the problem of patient wait times, the solution's features including intake and follow-up calls, team backgrounds, and regulatory certifications like CE Mark and GDPR compliance. Market segmentation and implementation processes for small and large practices are also described.",
+  "topic_tags": [
+    "Health-tech",
+    "AI Agents",
+    "GP Practices",
+    "Product Strategy",
+    "Regulatory Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/Company Plans - Information for LLMs - Jan 21st.docx",
+  "file_size": "15926",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename explicitly states 'Information for LLMs', suggesting preparation for AI ingestion. Document content ends abruptly mid-sentence at '42'."
+}

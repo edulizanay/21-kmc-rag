@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_127",
+  "filename": "Product - Families UI_UX Definition.docx",
+  "file_type": "docx",
+  "summary": "This document defines the UI/UX requirements for family members interacting with the elderly care AI service. It outlines key features like health tracking, mood alerts, and communication channels including WhatsApp and email. The text also describes an initial manual implementation phase for features not yet fully developed.",
+  "topic_tags": [
+    "Product Definition",
+    "Family Caregiver UX",
+    "AI Health Agent",
+    "MVP Strategy",
+    "Deprecated Assets"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/7. Families UX-UI/Product - Families UI_UX Definition.docx",
+  "file_size": "7883",
+  "folder": "3. Product/0. Deprecated/7. Families UX-UI",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; mentions manual workarounds for features not yet built (WhatsApp/Email first stage)."
+}

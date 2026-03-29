@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_389",
+  "filename": "KeepMeCompany - NIHR RSS Oct 2024.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a pitch deck outlining KeepMeCompany's AI-powered phone agent solution for NHS GP practices. It details the problem of inefficient primary care booking, the proposed regulatory pathway including NIHR RSS and Medical Device Class I compliance, and the target market within the UK healthcare system. The deck also highlights the team's background and the product roadmap ranging from intake calls to a GP Co-Pilot.",
+  "topic_tags": [
+    "AI Healthcare",
+    "NHS Integration",
+    "Regulatory Compliance",
+    "Pitch Deck",
+    "Elderly Care"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks/KeepMeCompany - NIHR RSS Oct 2024.pptx",
+  "file_size": "1996081",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains specific regulatory references (NIHR RSS, IRAS, Medical Device Class I) indicating active pursuit of clinical validation; team experience mentions 'Cornershop' accelerator."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_226",
+  "filename": "Clinical Safety Case Report (CSCR).docx",
+  "file_type": "docx",
+  "summary": "This document is a Clinical Safety Case Report (CSCR) for KeepMeCompany's AI intake service, outlining risk management and safety controls for NHS GP practices. It details technical and organizational measures, including encryption, hazard logging, and change management processes to ensure patient safety. The report is classified as confidential and lists specific internal owners and review dates.",
+  "topic_tags": [
+    "Clinical Safety",
+    "Compliance",
+    "AI Governance",
+    "UK Healthcare",
+    "Risk Management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents/Clinical Safety Case Report (CSCR).docx",
+  "file_size": "15531",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document marked 'Confidential' and lists specific executive names (CEO, CTO, CSO) alongside security control details."
+}

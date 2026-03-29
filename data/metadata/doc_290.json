@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_290",
+  "filename": "Audit Program.docx",
+  "file_type": "docx",
+  "summary": "This document defines the scope and governance for the organization's internal audit program within its Quality Management System. It mandates a review cycle of at least once every three years for all QMS sections and references a specific SOP for audit execution. The document contains placeholders for audit results and signatures but currently lacks specific findings or detailed schedules.",
+  "topic_tags": [
+    "Quality Management System",
+    "Internal Audit",
+    "Compliance",
+    "SOP",
+    "Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Audit Program.docx",
+  "file_size": "10278",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Sections for Audit Program Plan and Results appear empty or templated. References 'medical products' which may indicate SaMD regulatory classification for AI health tech."
+}

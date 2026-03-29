@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_358",
+  "filename": "Finances - Runway Estimation.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a financial runway estimation spreadsheet projecting monthly burn rates and capital depletion over 17 months. It details specific operational costs, founder salaries for Rodrigo and Eduardo, and includes personal expense breakdowns for individual household budgets.",
+  "topic_tags": [
+    "Financial Planning",
+    "Runway Analysis",
+    "Founder Expenses",
+    "Burn Rate",
+    "Budgeting"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/Finances - Runway Estimation.xlsx",
+  "file_size": "131643",
+  "folder": "5. Finances and VCs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains sensitive personal financial data of founders mixed with company finances. Notes are partially in Spanish. Indicates capital runs out by month 17."
+}

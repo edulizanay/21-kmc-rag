@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_335",
+  "filename": "user-manual.docx",
+  "file_type": "docx",
+  "summary": "This document is a user manual for the KeepMeCompany AI Doctor & Patient Consultation Platform, outlining system features and operational procedures for medical centre staff. It details implementation steps, staff training requirements, and security protocols including GDPR compliance and data protection measures. The manual also covers troubleshooting, maintenance schedules, and support contact information.",
+  "topic_tags": [
+    "Product Documentation",
+    "AI Healthcare",
+    "GDPR Compliance",
+    "Operational Procedures",
+    "Quality Management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/user-manual.docx",
+  "file_size": "10281",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific personal email address (eduardo@keepmecompanyai.com); QMS folder path indicates regulatory compliance focus."
+}

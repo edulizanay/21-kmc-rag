@@ -1,3 +1,5 @@
 ### Logs
-- 2026-03-29: decided to use XX because of YY
-- 2026-03-29: changed chunking strategy from xx to yy
+- 2026-03-29: Used OpenRouter API (qwen3.5-flash) for triage+metadata instead of Claude Haiku subagents. Haiku subagents couldn't access Bash to extract text from binary files (docx/xlsx/pptx). OpenRouter gave structured JSON output, 15 parallel calls, 99% parse success rate, ~$1 total cost for 491 files.
+- 2026-03-29: Pre-extracted text from all files before classification. Binary formats (docx, xlsx, pptx, pdf) need Python libraries; extracted once centrally via extract_text.py, then fed extracted text to LLM for classification.
+- 2026-03-29: Excluded 12 files with private data (sales contact databases, CVs, patient consultation summaries). Excluded 12 files with broken extraction (empty docx/pdf, unsupported odt). Total corpus: 503 files, 351 included, 23 maybe, 129 excluded.
+- 2026-03-29: odt format not supported by extract_text.py (reads as binary ZIP). Only 1 odt file in corpus, excluded. Would need odfpy library to support.

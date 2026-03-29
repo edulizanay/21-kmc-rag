@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_440",
+  "filename": "Research Reddit Privates Spain.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet contains market research on private medical practices in Spain, covering income levels, insurance negotiations, and regulatory requirements. The second sheet details a financial business case comparing current operations with a proposed model, projecting revenue increases per consultation and doctor earnings. It outlines unit economics and cost structures supporting the startup's healthcare service value proposition.",
+  "topic_tags": [
+    "Market Research",
+    "Business Model",
+    "Unit Economics",
+    "Healthcare Operations",
+    "Financial Projections"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/Research Reddit Privates Spain.xlsx",
+  "file_size": "30760",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document focuses on Spanish market research despite company being UK/NHS focused. Financial model assumes significant revenue uplift per consultation (8.0 to 15.0). Contains internal financial projections."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_348",
+  "filename": "CAPA Plan.docx",
+  "file_type": "docx",
+  "summary": "This document is a template for a Corrective and Preventive Action (CAPA) plan used within the company's Quality Management System. It outlines the scope, qualification scoring criteria, and required sections for documenting quality incidents, though no specific actions or data are currently filled in. The scoring criteria specify thresholds for initiating CAPAs, reflecting the organization's risk management approach.",
+  "topic_tags": [
+    "Quality Management System",
+    "Compliance",
+    "Healthcare",
+    "Process Documentation",
+    "Regulatory"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/7. Post Market (Templates)/CAPA Plan.docx",
+  "file_size": "10080",
+  "folder": "7. Administratives/3. QMS Documentation/7. Post Market (Templates)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is a template with all action items marked PENDING; no actual incidents or data recorded."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_334",
+  "filename": "primary-language-translated-ifu.docx",
+  "file_type": "docx",
+  "summary": "This document is an Instructions for Use (IFU) guide for the KeepMeCompany AI Doctor & Patient Consultation Platform. It outlines the patient workflow for booking appointments via voice interaction, including identity verification and data transmission protocols. The text also includes critical safety disclaimers regarding emergency use and data protection compliance.",
+  "topic_tags": [
+    "Product Documentation",
+    "Patient Workflow",
+    "Data Protection",
+    "Safety Compliance",
+    "AI Agent"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/primary-language-translated-ifu.docx",
+  "file_size": "9626",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains direct contact email (eduardo@keepmecompanyai.com); stored in QMS folder indicating regulatory release status."
+}

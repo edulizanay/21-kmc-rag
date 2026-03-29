@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_093",
+  "filename": "Product - Current Issues.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet outlines the product development status for KeepMeCompany's AI phone agents, listing current technical issues and future feature ideas. It details constraints such as Google STT timeouts and proposes solutions like latency management and long-term memory integration. The document notably mixes English and Spanish terminology within the product backlog.",
+  "topic_tags": [
+    "Product Roadmap",
+    "Technical Debt",
+    "AI Features",
+    "Development Backlog",
+    "Voice AI"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/Product - Current Issues.xlsx",
+  "file_size": "122007",
+  "folder": "3. Product",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Unusual mix of English and Spanish terminology (e.g., 'weonas', 'Higiénica') for a UK NHS-focused startup."
+}

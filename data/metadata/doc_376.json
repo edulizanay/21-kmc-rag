@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_376",
+  "filename": "KeepMeCompany - Preparation for PV [EN].docx",
+  "file_type": "docx",
+  "summary": "This document is a Q&A preparation sheet for an accelerator application, detailing the founders' origin story, product vision, and competitive landscape. It outlines the equity split between founders, revenue models, and includes an update section noting progress such as user acquisition and competitor identification. The content reveals early-stage metrics like team size and prototype status.",
+  "topic_tags": [
+    "accelerator_application",
+    "founder_equity",
+    "product_strategy",
+    "competitive_landscape",
+    "origin_story"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/1. Accelerators/KeepMeCompany - Preparation for PV [EN].docx",
+  "file_size": "735309",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/1. Accelerators",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific founder names and equity splits; notes 'No revenue' in main form but 'We have users' in updates section indicating timeline discrepancy or progress."
+}

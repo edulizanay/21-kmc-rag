@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_365",
+  "filename": "Project Plan Appendix (18 months total).pdf",
+  "file_type": "pdf",
+  "summary": "This document details an 18-month project plan for KeepMeCompany, outlining six work packages that cover clinical validation, EHR integration, AI development, and pilot implementation. It specifies milestones, dependencies, deliverables, and includes a risk register matrix addressing technical, clinical, and commercial threats with mitigation strategies. The plan emphasizes regulatory compliance, patient safety constraints, and resource coordination for NHS GP practice deployment.",
+  "topic_tags": [
+    "Project Roadmap",
+    "Clinical Validation",
+    "AI Development",
+    "Risk Management",
+    "NHS Compliance"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/3. Grants/Project Plan Appendix (18 months total).pdf",
+  "file_size": "82398",
+  "folder": "5. Finances and VCs/3. Grants",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Stored in 'Finances and VCs/Grants' folder suggesting use for funding applications; outlines sensitive clinical safety and data integration protocols."
+}

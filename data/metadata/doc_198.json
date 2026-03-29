@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_198",
+  "filename": "Data Security and Protection.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's data security and protection policies aligned with the NHS Data Security and Protection Toolkit. It details the collection, storage, and sharing of patient health data through their AI phone intake solution, emphasizing GDPR compliance and UK/EU cloud infrastructure. The text also covers transparency measures, patient rights, and asset management responsibilities.",
+  "topic_tags": [
+    "Data Protection",
+    "GDPR",
+    "NHS Compliance",
+    "AI Security",
+    "Patient Privacy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Data Security and Protection.docx",
+  "file_size": "10740",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears truncated at the end ('All hardware and software assets'). Contains specific references to NHS Toolkit compliance."
+}

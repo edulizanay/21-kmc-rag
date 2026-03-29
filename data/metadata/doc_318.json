@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_318",
+  "filename": "SOP Product Registration and Certification.docx",
+  "file_type": "docx",
+  "summary": "This Standard Operating Procedure outlines the internal process for registering and certifying medical device products for the European Union market. It details requirements for technical documentation, MDR classification, and conformity assessment procedures involving Notified Bodies. The document assigns responsibilities to the quality team for managing regulatory compliance and product release.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Quality Management System",
+    "Medical Device Certification",
+    "EU MDR",
+    "Product Lifecycle"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Product Registration and Certification.docx",
+  "file_size": "13092",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "References EU MDR regulations which may be less relevant for a UK-focused NHS startup post-Brexit. Document text appears truncated at the end."
+}

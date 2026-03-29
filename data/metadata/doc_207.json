@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_207",
+  "filename": "CE Marking - Articles.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains a curated list of academic abstracts regarding conversational agents and mobile decision-support tools in healthcare. It likely functions as an evidence base for regulatory compliance, specifically linked to CE Marking documentation for the startup's AI products. The entries include PubMed IDs and summaries of studies on chatbots, AI, and clinical decision support systems.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Healthcare AI",
+    "Literature Review",
+    "CE Marking",
+    "Clinical Evidence"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Articles.xlsx",
+  "file_size": "16365",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename cites CE Marking (EU standard) while folder path indicates UK Regulations, highlighting a potential jurisdictional discrepancy in the documentation."
+}

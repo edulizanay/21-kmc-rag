@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_205",
+  "filename": "Appointment Letter of PRRC.docx",
+  "file_type": "docx",
+  "summary": "This document is a formal Letter of Appointment designating Mr. Anjum Sarwar as the Person Responsible for Regulatory Compliance (PRRC) for KeepMeCompany Ltd under EU Medical Device Regulation (MDR) Article 15. It outlines his specific duties regarding the \"AI Doctor & Patient Consultation Platform\", including conformity checks and post-market surveillance, alongside his professional qualifications and work history.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device Regulation",
+    "PRRC Appointment",
+    "EU MDR",
+    "Corporate Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/Appointment Letter of PRRC.docx",
+  "file_size": "244111",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path indicates UK Regulations but document cites EU MDR (CE Marking), which is notable post-Brexit. Personal details of Anjum Sarwar including foreign qualifications are present."
+}

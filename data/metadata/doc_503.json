@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_503",
+  "filename": "Close Relatives First Contacts - Maeva Fourel.docx",
+  "file_type": "docx",
+  "summary": "This document contains interview notes from Maeva Fourel regarding her grandparents' care situation and her interactions with them. It details challenges such as Alzheimer's, nursing home logistics, and the preference for in-person visits over phone calls to combat loneliness. The text highlights specific pain points around travel time, frequency of contact, and activities like games or meals.",
+  "topic_tags": [
+    "user_interviews",
+    "elderly_care",
+    "family_caregiving",
+    "loneliness",
+    "nursing_home"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/1. Close Relatives/Close Relatives First Contacts - Maeva Fourel.docx",
+  "file_size": "7540",
+  "folder": "0. Research/1. Users Interviews/1. Close Relatives",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains full name of interviewee (Maeva Fourel) and specific health conditions (Alzheimer's), indicating PII risk requiring anonymization before ingestion."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_416",
+  "filename": "Data Sharing Agreement Nov 2024.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a Data Sharing Agreement between KeepMeCompany Ltd and a pilot partner, Test Medical Center, outlining terms for processing patient data via an AI Intake System. It details compliance with GDPR and NHS standards, security measures like encryption, and responsibilities regarding data subject rights. The agreement includes specific contact details for the CEO and Data Protection Officer.",
+  "topic_tags": [
+    "Legal",
+    "Data Privacy",
+    "NHS Compliance",
+    "Pilot Program",
+    "AI Intake"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/13. Implementation/Data Sharing Agreement Nov 2024.pdf",
+  "file_size": "89977",
+  "folder": "8. Pilots/13. Implementation",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Partner name 'Test Medical Center' and address '123 Test Street' suggest this is a draft or template agreement rather than a finalized live contract with a real NHS practice."
+}

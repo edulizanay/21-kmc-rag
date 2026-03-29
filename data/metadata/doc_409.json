@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_409",
+  "filename": "Explanation of the Product - Patients Wait Times - The Good Practice.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet containing a queue simulation model for NHS GP practice call centers. It details operational parameters such as arrival rates, service times, and receptionist capacity to estimate patient wait times.",
+  "topic_tags": [
+    "pilot",
+    "simulation",
+    "wait-times",
+    "nhs-gp",
+    "product-metrics"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/Explanation of the Product - Patients Wait Times - The Good Practice.xlsx",
+  "file_size": "672427",
+  "folder": "8. Pilots",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mixed English and Spanish headers; purely numerical data without narrative context or conclusions."
+}

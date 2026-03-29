@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_312",
+  "filename": "SOP Feedback Management and Customer Complaints.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) outlining the processes for managing customer feedback and complaints within KeepMeCompany. It details the channels for receiving feedback, classification criteria for serious health-related issues, and the ticketing workflow for resolution and escalation. The SOP also references related quality management documents and emphasizes compliance with regulatory requirements like post-market surveillance.",
+  "topic_tags": [
+    "Quality Management",
+    "Customer Support",
+    "Regulatory Compliance",
+    "SOP",
+    "Health-Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Feedback Management and Customer Complaints.docx",
+  "file_size": "12861",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific internal email address (eduardo@keepmecompanyai.com); document text cuts off mid-sentence at the end."
+}

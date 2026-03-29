@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_343",
+  "filename": "SOP Sales.docx",
+  "file_type": "docx",
+  "summary": "This Standard Operating Procedure defines the sales and marketing protocols for medical devices, emphasizing regulatory compliance with EU MDR 2017/745 and German MPDG laws. It mandates quality team approval for all marketing claims and restricts sales to certified products only. The document outlines training requirements for consultants and establishes workflows for customer contract offers.",
+  "topic_tags": [
+    "Sales Operations",
+    "Regulatory Compliance",
+    "Quality Management",
+    "Medical Devices",
+    "Marketing Policy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate/SOP Sales.docx",
+  "file_size": "11380",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears truncated at section 3.3. Discrepancy between UK startup focus and heavy EU/German regulatory references."
+}

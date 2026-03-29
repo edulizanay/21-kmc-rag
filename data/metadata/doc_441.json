@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_441",
+  "filename": "The case for public sector healthcare organisations.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a strategic business plan for a health-tech startup targeting UK GP practices. It analyzes market segments including the NHS, private equity firms, and new private practices, evaluating business models and potential revenue streams. It highlights risks regarding technology adoption rates and validates the need for further market research.",
+  "topic_tags": [
+    "Strategic Planning",
+    "Market Analysis",
+    "Healthcare Technology",
+    "Business Model",
+    "UK GP Practices"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/The case for public sector healthcare organisations.docx",
+  "file_size": "13263",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document title emphasizes public sector, but content heavily analyzes private equity opportunities. Contains specific revenue projections (£9M/year) and market size estimates."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_001",
+  "filename": "Summary.md",
+  "file_type": "md",
+  "summary": "This document serves as internal resume raw material summarizing KeepMeCompany's AI-powered healthcare platform for NHS GP practices. It details the product suite including intake, follow-up, and crisis detection systems, alongside the specific Python and Voice AI tech stack used. The content outlines regulatory status, operational metrics, and technical architecture for employee reference.",
+  "topic_tags": [
+    "HealthTech",
+    "AI_Voice_Agents",
+    "NHS",
+    "Tech_Stack",
+    "Medical_Device"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/Summary.md",
+  "file_size": "20517",
+  "folder": ".",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document explicitly labeled as 'Resume Raw Material' for employees; contains specific Twilio pricing and Voice IDs which may be sensitive operational data."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_392",
+  "filename": "KeepMeCompany - Pitch Deck.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a pitch deck for KeepMeCompany, an AI-powered phone agent startup addressing senior loneliness. It outlines the problem of healthcare costs due to isolation, the product solution, market size across 9 countries, and the subscription business model. The deck concludes with team backgrounds and specific financial targets for fundraising.",
+  "topic_tags": [
+    "pitch_deck",
+    "elderly_care",
+    "ai_healthcare",
+    "fundraising",
+    "business_model"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks/KeepMeCompany - Pitch Deck.pptx",
+  "file_size": "2084508",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Currency inconsistency observed between USD ($) and GBP (£) across slides (e.g., Slide 2 vs Slide 7). Market scope mentions 9 countries including US, while prompt context emphasizes UK NHS focus."
+}

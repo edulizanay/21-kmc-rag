@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_313",
+  "filename": "SOP Human Resources.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) outlining human resources processes for maintaining employee competence and regulatory compliance. It details employee role assignments, record-keeping requirements, training methodologies, and verification of training effectiveness. Specific sections address regulatory obligations for medical device consultants in Germany and the Person Responsible for Regulatory Compliance (PRRC) under EU regulations.",
+  "topic_tags": [
+    "Human Resources",
+    "Quality Management System",
+    "Regulatory Compliance",
+    "Employee Training",
+    "Medical Device Regulations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Human Resources.docx",
+  "file_size": "11754",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "References specific medical device regulations (German MPDG, EU 2017/745) indicating the company operates as a medical device manufacturer, potentially expanding beyond UK NHS context."
+}

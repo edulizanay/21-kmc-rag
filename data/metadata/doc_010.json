@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_010",
+  "filename": "Marketing Plan.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet serves as a marketing content calendar for KeepMeCompany, detailing weekly themes and targets for outreach to GP practices and clinics. It outlines strategic messaging pillars focused on efficiency, human connection, and senior care quality within the UK healthcare system. Specific topics include the 'Loneliness Prescription' and the distinction between automation and augmentation in medical AI.",
+  "topic_tags": [
+    "Marketing Strategy",
+    "AI Healthcare",
+    "NHS GP Practices",
+    "Content Calendar",
+    "Value Proposition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/6. Marketing/Marketing Plan.xlsx",
+  "file_size": "60375",
+  "folder": "4. Sales/6. Marketing",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains minor typos ('Taget', 'childohod') suggesting draft status; includes external link to Pulse Today."
+}

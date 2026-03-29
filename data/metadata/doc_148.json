@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_148",
+  "filename": "Product - Monitor.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains product monitoring data and detailed conversation logs from AI phone agents. It includes performance metrics, patient PII (names, DOBs, phone numbers), and full transcripts of interactions with both patients and GP partners. The logs reveal the specific scripts and sales pitches used by the AI system.",
+  "topic_tags": [
+    "AI Agents",
+    "Call Logs",
+    "PII",
+    "Product Metrics",
+    "Sales Scripts"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/3. Product for Pilots /Product - Monitor.xlsx",
+  "file_size": "1730896",
+  "folder": "3. Product/3. Product for Pilots ",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains sensitive PII including names, dates of birth, and phone numbers; internal storage URLs present."
+}

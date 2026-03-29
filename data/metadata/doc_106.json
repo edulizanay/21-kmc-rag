@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_106",
+  "filename": "Escalator - A&E Research.docx",
+  "file_type": "docx",
+  "summary": "This document outlines critical emergency protocols for NHS medical receptionists, emphasizing immediate 999 calls for specific triggers like chest pain or stroke signs. It details legal requirements, including CQC compliance and duty of care obligations, alongside mandatory documentation steps for staff. The guidelines stress that questions should only be asked after the emergency call is placed to avoid delays in ambulance dispatch.",
+  "topic_tags": [
+    "Emergency Protocols",
+    "NHS Compliance",
+    "AI Safety",
+    "Medical Triage",
+    "CQC Regulations"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/5. Escalator/Escalator - A&E Research.docx",
+  "file_size": "8416",
+  "folder": "3. Product/5. Escalator",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific legal liability protocols regarding 999 calls and CQC compliance."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_436",
+  "filename": "Center Tasks.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the specific roles and responsibilities within a UK GP practice, ranging from reception and administrative tasks to clinical duties performed by nurses and GPs. It details the workflow of various staff members, including PCN roles like clinical pharmacists and social prescribers. This information provides context for the operational environment where KeepMeCompany's AI agents would be deployed.",
+  "topic_tags": [
+    "GP Operations",
+    "Healthcare Workflows",
+    "Role Definitions",
+    "NHS Structure",
+    "Task Automation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/Center Tasks.docx",
+  "file_size": "9319",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": ""
+}

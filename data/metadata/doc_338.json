@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_338",
+  "filename": "MDR Classification Document.docx",
+  "file_type": "docx",
+  "summary": "This document formally classifies the KeepMeCompany software as a Class I medical device under EU MDR 2017/745 regulations. It provides a justification based on Rule 11, explaining that the software acts as a communication tool without diagnostic or therapeutic decision-making capabilities. The file includes regulatory references, definitions, and sections for signatures and revision history typical of Quality Management System (QMS) documentation.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "EU MDR",
+    "Product Classification",
+    "QMS Documentation",
+    "Health-Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical/MDR Classification Document.docx",
+  "file_size": "15374",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Notable: Justification states software does not interpret data for diagnosis, which may conflict with 'AI-powered' product claims if the AI performs analysis."
+}

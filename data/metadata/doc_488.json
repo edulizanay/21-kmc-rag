@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_488",
+  "filename": "User Interviews - Personas.docx",
+  "file_type": "docx",
+  "summary": "This document outlines three user personas (a grandson, a daughter, and an elderly grandmother) detailing their tech competence, challenges, and motivations regarding elderly care. It further analyzes communication touchpoints such as phone calls, video calls, visits, and messages, highlighting friction points like coordination and tech literacy. Several sections contain placeholders marked with asterisks, indicating this is likely a draft or work-in-progress research artifact.",
+  "topic_tags": [
+    "User Research",
+    "Personas",
+    "Elderly Care",
+    "Product Design",
+    "Communication Needs"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/User Interviews - Personas.docx",
+  "file_size": "8932",
+  "folder": "0. Research/1. Users Interviews",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish despite the startup targeting the UK/NHS market; multiple sections end with '***' indicating incomplete content."
+}

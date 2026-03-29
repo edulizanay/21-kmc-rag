@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_215",
+  "filename": "CE Marking - Software Test Report.docx",
+  "file_type": "docx",
+  "summary": "This document is a Software Test Report detailing performance metrics and compliance results for the AI phone agent product. It highlights specific technical issues regarding transcription accuracy with UK accents and response latency during high traffic. Recommendations include optimizing server resources and integrating broader audio samples for training.",
+  "topic_tags": [
+    "Software Testing",
+    "Regulatory Compliance",
+    "AI Performance",
+    "Product Development",
+    "UK Regulations"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Software Test Report.docx",
+  "file_size": "9282",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Folder path contains typo 'Formly' instead of 'Formerly', suggesting potential administrative disorganization; content confirms UK-specific accent challenges relevant to NHS target market."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_282",
+  "filename": "Software Architecture Checklist.docx",
+  "file_type": "docx",
+  "summary": "This document is a Quality Management System checklist verifying the software architecture for the 'AI Doctor & Patient Consultation Platform'. It confirms the architecture meets risk control and interface requirements, marking the result as acceptable. Most sections for comments, signatures, and revision history remain empty placeholders.",
+  "topic_tags": [
+    "Software Architecture",
+    "QMS",
+    "Compliance",
+    "Health-Tech",
+    "Development Process"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/Software Architecture Checklist.docx",
+  "file_size": "9125",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document structure is largely a template with minimal populated fields; only scope and final approval status contain specific content."
+}

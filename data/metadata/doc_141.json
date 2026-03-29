@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_141",
+  "filename": "Prompts - Psychologist - Seniors V1.docx",
+  "file_type": "docx",
+  "summary": "This document contains Spanish-language testing notes evaluating an AI companion agent's performance regarding latency, noise handling, and conversation flow. It also includes the system prompt instructions for a virtual psychological assistant designed to emulate specific public figures for elderly care in Chile. The instructions define persona traits and interaction rules for the AI.",
+  "topic_tags": [
+    "AI Agent Testing",
+    "System Prompts",
+    "Elderly Care",
+    "Product Development",
+    "Chile Pilot"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials/Prompts - Psychologist - Seniors V1.docx",
+  "file_size": "253227",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References Chilean politician Sebastián Piñera; folder path indicates deprecated status; content is in Spanish despite UK NHS focus."
+}

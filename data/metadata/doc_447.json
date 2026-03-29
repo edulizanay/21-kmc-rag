@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_447",
+  "filename": "Company Plans - Medical Research.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's mission to deploy AI-powered phone agents for NHS GP practices, focusing on elderly care and accessibility. It details the product's differentiation from web-based competitors, market expansion plans, and potential cost savings for healthcare providers. The text also covers regulatory challenges, team background, and future product roadmaps like a GP Co-Pilot.",
+  "topic_tags": [
+    "AI Healthcare",
+    "NHS Integration",
+    "Startup Strategy",
+    "Elderly Care",
+    "Market Analysis"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/Company Plans - Medical Research.docx",
+  "file_size": "36824",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename 'Medical Research' mismatches content which is business strategy; document text truncates abruptly at the end; contains specific financial projections and CEO name."
+}

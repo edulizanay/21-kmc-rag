@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_419",
+  "filename": "KeepMeCompany LTD - Data Sharing Agreement Nov 2024 - Signatures.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a Data Sharing Agreement between KeepMeCompany Ltd and NHS GP practices regarding the processing of patient data through their AI Intake System. It specifies compliance requirements with GDPR and NHS standards, security protocols like encryption, and the respective responsibilities of both parties. Although signed by the CEO, several client-specific fields remain as placeholders, indicating this may be a template or draft agreement.",
+  "topic_tags": [
+    "Legal Compliance",
+    "Data Privacy",
+    "NHS Partnerships",
+    "AI Intake System",
+    "Security Standards"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/13. Implementation/KeepMeCompany LTD - Data Sharing Agreement Nov 2024 - Signatures.docx",
+  "file_size": "735417",
+  "folder": "8. Pilots/13. Implementation",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains placeholders like [GP Practice Name] despite filename indicating signatures; Eduardo Lizana signed but GP side blank; specific NHS standards (DCB1596) referenced."
+}

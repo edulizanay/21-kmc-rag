@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_210",
+  "filename": "CE Marking - Marketing Content.docx",
+  "file_type": "docx",
+  "summary": "This document serves as marketing content for the KeepMeCompany AI Intake Service, detailing its value proposition as a voice-based information gathering tool for medical centres. It outlines safety and compliance statements, including CE marking as a Class I medical device, and defines the target audience as GP practices and elderly patients. The text also includes specific contact information and versioning details for the product documentation.",
+  "topic_tags": [
+    "Product Marketing",
+    "Regulatory Compliance",
+    "AI Healthcare",
+    "CE Marking",
+    "GP Practices"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Marketing Content.docx",
+  "file_size": "9644",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains personal email address (eduardo@keepmecompanyai.com); document is marketing material stored within a regulatory compliance folder."
+}

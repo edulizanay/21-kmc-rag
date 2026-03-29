@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_046",
+  "filename": "Marketing - WebPage.docx",
+  "file_type": "docx",
+  "summary": "This document outlines proposed content and UI structure for a companion web interface, including landing, signup, and login pages. It details user flow elements like buttons, forms, and visual feedback areas intended for family members interacting with the care assistant. The content emphasizes emotional benefits such as warmth and safety alongside technical functionality.",
+  "topic_tags": [
+    "Product Design",
+    "User Interface",
+    "Marketing Strategy",
+    "Deprecated Assets",
+    "Customer Journey"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/Marketing - WebPage.docx",
+  "file_size": "8503",
+  "folder": "4. Sales/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; describes web interface while core product is AI phone agents; contains standard form fields but no actual PII."
+}

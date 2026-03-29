@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_099",
+  "filename": "Demos - Hypetheroidism Oct 21st.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a patient profile template used for product demonstrations, specifically focusing on symptoms of hyperthyroidism. It details medical indicators such as weight loss, anxiety, and palpitations alongside placeholder fields for demographic information. The content serves as a test case to validate the AI agent's ability to process and recognize specific health complaints.",
+  "topic_tags": [
+    "Hyperthyroidism",
+    "Patient Intake",
+    "AI Demo",
+    "Symptom Recognition",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/Demos - Hypetheroidism Oct 21st.docx",
+  "file_size": "7544",
+  "folder": "3. Product/9. Demos",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename contains typo ('Hypetheroidism' instead of Hyperthyroidism); uses placeholder data rather than real patient records."
+}

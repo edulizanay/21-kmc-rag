@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_041",
+  "filename": "Intake Process - Pilot Proposal.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a pilot proposal for an AI-driven patient intake system designed for UK GP practices. It details the background challenges, pilot objectives, success metrics, and expected financial savings for the NHS. The text includes implementation plans and risk mitigation strategies, though some sections appear to be outlines.",
+  "topic_tags": [
+    "AI Intake",
+    "GP Pilot",
+    "NHS",
+    "Healthcare Efficiency",
+    "Sales Proposal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/Intake Process - Pilot Proposal.docx",
+  "file_size": "731175",
+  "folder": "4. Sales/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path indicates 'Deprecated'; several sections (Technical overview, Implementation Plan) contain only placeholder headers without detailed content."
+}

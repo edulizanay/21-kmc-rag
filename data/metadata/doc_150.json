@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_150",
+  "filename": "Product - Goals Architecture.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document outlines the logical architecture and decision flow for an AI agent designed to identify a user's favorite person through a series of clustered questions. It details a step-by-step methodology for handling macro-goals, adjusting micro-goals based on new information, and determining when to terminate a conversation path. The content uses a specific test scenario involving 'Rodrigo' to demonstrate how the agent navigates between general inquiries and specific family member clusters.",
+  "topic_tags": [
+    "AI Agent Logic",
+    "Prompt Engineering",
+    "Product Architecture",
+    "Conversational Flow",
+    "Internal Development"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/10. Agents Prompts Refinement/Product - Goals Architecture.xlsx",
+  "file_size": "55290",
+  "folder": "3. Product/10. Agents Prompts Refinement",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish despite English metadata; contains test persona names (Rodrigo, Frida) likely used for prompt validation rather than real patient data."
+}

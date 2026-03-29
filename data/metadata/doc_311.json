@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_311",
+  "filename": "SOP Document and Record Control.docx",
+  "file_type": "docx",
+  "summary": "This Standard Operating Procedure defines the protocols for managing and controlling documents and records within the company's Quality Management System. It specifies naming conventions using UUIDs, revision tracking, and archiving suffixes for draft, active, and archived files. The document mandates retention periods of at least 10 years for QMS and technical records to ensure compliance with medical device regulatory requirements.",
+  "topic_tags": [
+    "Quality Management System",
+    "Document Control",
+    "Compliance",
+    "Standard Operating Procedure",
+    "Medical Device Regulation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Document and Record Control.docx",
+  "file_size": "222515",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Confirms the startup operates under strict medical device regulatory frameworks requiring long-term record retention."
+}

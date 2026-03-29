@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_021",
+  "filename": "QOF - Business Case.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet listing NHS Quality and Outcomes Framework (QOF) codes relevant to GP practices. It details specific medical tasks, associated points, and performance thresholds, alongside internal notes on implementation strategies like phone-based reviews. The data outlines the metrics that KeepMeCompany's AI agents would likely help practices achieve to secure funding.",
+  "topic_tags": [
+    "NHS",
+    "QOF",
+    "Healthcare Metrics",
+    "Sales",
+    "GP Practices"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/8. QOF/QOF - Business Case.xlsx",
+  "file_size": "16002",
+  "folder": "4. Sales/8. QOF",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename indicates internal 'Business Case' strategy, but content is public NHS data. Contains internal execution notes regarding phone-based reviews and grant opportunities."
+}

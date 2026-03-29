@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_064",
+  "filename": "Brochure Clínicas Privadas España.pptx",
+  "file_type": "pptx",
+  "summary": "This sales brochure targets private clinics in Spain, highlighting clinical adherence metrics and AI agent capabilities for patient follow-up. It includes a sample dialogue script, security compliance details such as ISO 13485 and AES-256 encryption, and contact information for the sales representative. The material emphasizes data privacy and the non-medical advisory role of the AI system.",
+  "topic_tags": [
+    "Sales Materials",
+    "AI Healthcare",
+    "Patient Adherence",
+    "Data Security",
+    "Spain Market"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/4. Sales Materials/6. Brochures/Brochure Clínicas Privadas España.pptx",
+  "file_size": "996143",
+  "folder": "4. Sales/4. Sales Materials/6. Brochures",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "ISO 13845 cited in Slide 1 vs ISO 13485 in Slide 5; target market is Spain despite UK NHS focus."
+}

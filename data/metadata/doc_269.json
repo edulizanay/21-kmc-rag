@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_269",
+  "filename": "Technical File.docx",
+  "file_type": "docx",
+  "summary": "This document serves as the Technical File for KeepMeCompany's AI Doctor & Patient Consultation Platform, detailing its function as an AI-driven phone system for UK GP practices. It specifies the operational workflow, intended user population, and regulatory classification as a Class I medical device under EU MDR 2017/745. The file also lists unique device identifiers and references associated clinical evaluation reports.",
+  "topic_tags": [
+    "Medical Device Regulation",
+    "Product Specification",
+    "AI Telephony",
+    "Compliance",
+    "GP Practice Workflow"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc./Technical File.docx",
+  "file_size": "71986",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/6. Misc.",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific UDI-DI and EMDN codes which are unique identifiers for medical devices. References internal document IDs (e.g., TD-TCD-...) suggesting this is part of a larger Quality Management System."
+}

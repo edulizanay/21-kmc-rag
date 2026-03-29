@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_217",
+  "filename": "CE Marking - Training.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet documents internal training records for KeepMeCompany staff regarding regulatory compliance and quality management systems. It lists specific modules such as Risk Management, GDPR, and ISO 13485, including completion dates and staff initials. The content serves as evidence of the team's adherence to UK health-tech regulatory standards.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Quality Management System",
+    "Employee Training",
+    "UK Healthcare",
+    "Data Security"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Training.xlsx",
+  "file_size": "5900",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains staff initials and internal SOP references; dates show training completed prior to due dates."
+}

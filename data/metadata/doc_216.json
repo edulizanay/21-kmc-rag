@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_216",
+  "filename": "CE Marking - Suppliers.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet evaluates key technology suppliers including OpenAI, Twilio, and Google Cloud for the company's AI phone agent system. It details service descriptions, compliance certifications like GDPR and SOC 2, and performance scores regarding quality and cooperation. The document appears to be a compliance or vendor management record used to track third-party risk and service levels.",
+  "topic_tags": [
+    "Vendor Management",
+    "Compliance",
+    "AI Infrastructure",
+    "Third-Party Risk",
+    "GDPR"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Suppliers.xlsx",
+  "file_size": "7475",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename references CE Marking but content is supplier evaluation; 'Completed By' field contains placeholder text indicating a template or draft status."
+}

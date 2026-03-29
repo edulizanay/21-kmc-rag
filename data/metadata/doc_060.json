@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_060",
+  "filename": "Marketing - Content Strategy.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a deprecated content strategy for marketing articles targeting families of seniors. It details four planned article themes focusing on senior isolation, care alternatives, hiring caregivers, and the impact of quality care including the company's AI solution. The strategy aims to educate audiences on recognizing care needs and guiding them toward the AI companion product.",
+  "topic_tags": [
+    "Marketing Strategy",
+    "Senior Care",
+    "Product Positioning",
+    "Content Planning",
+    "AI Companion"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/1. Articles/Marketing - Content Strategy.docx",
+  "file_size": "8412",
+  "folder": "4. Sales/0. Deprecated/1. Articles",
+  "content_type": "prose",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; content focuses on family caregivers rather than the NHS GP practice focus described in the startup profile."
+}

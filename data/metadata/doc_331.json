@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_331",
+  "filename": "marketing-content.docx",
+  "file_type": "docx",
+  "summary": "This document serves as the official marketing content for KeepMeCompany's AI Doctor & Patient Consultation Platform, detailing its value proposition and features. It explicitly defines the product's scope as an information gathering tool rather than a diagnostic or clinical decision-making system. The file is stored within the Quality Management System as a released document, indicating formal approval of this messaging.",
+  "topic_tags": [
+    "marketing",
+    "product-positioning",
+    "regulatory-compliance",
+    "ai-healthcare",
+    "quality-management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/marketing-content.docx",
+  "file_size": "10521",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in QMS Released Documents folder indicating official approval status; contains specific contact email."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_279",
+  "filename": "SOP Software Development.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) defining the software development lifecycle for medical device products. It outlines compliance with international standards such as IEC 62304 and ISO 14971, covering stages from user needs to design and architecture. The process emphasizes risk management, verification, and validation to ensure safety and intended performance.",
+  "topic_tags": [
+    "Software Development",
+    "Quality Management System",
+    "Medical Device Compliance",
+    "Regulatory Standards",
+    "Engineering Process"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/SOP Software Development.docx",
+  "file_size": "133413",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Explicitly references medical device classification and IEC 62304 standards, confirming regulatory posture for health-tech product."
+}

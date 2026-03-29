@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_048",
+  "filename": "Sales - AI Phone Calls to Admins.docx",
+  "file_type": "docx",
+  "summary": "This document contains a sales script and transcript for an AI agent named 'Steve' targeting UK GP Partners. It outlines value propositions regarding cost savings and patient capacity while listing compliance certifications like GDPR and DTAC. The text includes placeholder variables for personalization and notes mixed English and Spanish value propositions.",
+  "topic_tags": [
+    "Sales Script",
+    "AI Voice Agent",
+    "NHS GP",
+    "Compliance",
+    "Go-to-Market"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/Sales - AI Phone Calls to Admins.docx",
+  "file_size": "8952",
+  "folder": "4. Sales/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; contains mixed English/Spanish value props; email address is a placeholder (XXX@gmail.com)."
+}

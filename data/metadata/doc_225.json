@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_225",
+  "filename": "Deployment and Clinical Safety Maintenance Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the clinical safety and maintenance protocols for KeepMeCompany's AI Intake Service intended for NHS GP practices. It details pre-deployment checklists, go/no-go decision frameworks, change management processes, and specific sign-off requirements for executive leadership. The plan emphasizes regulatory compliance, hazard mitigation, and incident response procedures.",
+  "topic_tags": [
+    "Clinical Safety",
+    "Deployment Strategy",
+    "NHS Compliance",
+    "Risk Management",
+    "Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/Deployment and Clinical Safety Maintenance Plan.docx",
+  "file_size": "9233",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific executive names (CSO, CTO, CEO) and references internal confidential documents like Hazard Log and DPIA."
+}

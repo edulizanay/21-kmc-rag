@@ -1,0 +1,19 @@
+{
+  "doc_id": "doc_276",
+  "filename": "Checklist_ Software Release.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a software release checklist used to verify completion of documentation and processes prior to product version release. It references specific Standard Operating Procedures (SOPs) governing product registration, development plans, and integrated software development. The checklist includes sections for version identification, process verification, and documentation mapping for version 1.0.",
+  "topic_tags": [
+    "Quality Management System",
+    "Software Release",
+    "Compliance",
+    "Process Documentation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/Checklist_ Software Release.docx",
+  "file_size": "10802",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References specific internal SOP IDs and version control protocols."
+}

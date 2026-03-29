@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_109",
+  "filename": "Controller - Test Cases.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains structured test cases for the AI Controller, outlining scenarios like emergency response and medical advice handling. It details conversation histories, expected outputs, and accuracy metrics for AI models 4o and 4o-mini. The data serves as verification for the product's safety logic and interaction protocols.",
+  "topic_tags": [
+    "AI Testing",
+    "Product Safety",
+    "Health-Tech",
+    "Model Evaluation",
+    "Controller Logic"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/4. Controller/Controller - Test Cases.xlsx",
+  "file_size": "83935",
+  "folder": "3. Product/4. Controller",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains simulated medical emergency scenarios; verify data is synthetic before broader distribution."
+}

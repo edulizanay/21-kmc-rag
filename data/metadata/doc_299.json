@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_299",
+  "filename": "Post-Market Clinical Follow-Up Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Post-Market Clinical Follow-Up (PMCF) plan for KeepMeCompany's AI Doctor & Patient Consultation Platform. It details the device's core functionality, technical infrastructure including UK/EU cloud hosting and encryption, and compliance with GDPR and NHS data security standards. The plan also covers implementation processes, user demographics, and security protocols for GP practices.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Product Documentation",
+    "AI Healthcare",
+    "Data Security",
+    "Quality Management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Post-Market Clinical Follow-Up Plan.docx",
+  "file_size": "21290",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document text cuts off mid-sentence at the end ('Conducts regular security au'). Contains specific legal manufacturer address and GDPR article references."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_114",
+  "filename": "Medical Templates - QOF.docx",
+  "file_type": "docx",
+  "summary": "This document outlines internal objectives for mapping NHS Quality and Outcomes Framework (QOF) codes to AI agent workflows. It includes a detailed dialogue script for a childhood immunisation reminder pathway, covering verification, booking, and FAQ handling.",
+  "topic_tags": [
+    "QOF",
+    "AI Scripts",
+    "NHS",
+    "Patient Engagement",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/6. Medical Templates/Medical Templates - QOF.docx",
+  "file_size": "10051",
+  "folder": "3. Product/6. Medical Templates",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains placeholder PII fields (e.g., [Parent/Guardian Name]) but no actual sensitive data; reflects UK NHS clinical compliance requirements."
+}

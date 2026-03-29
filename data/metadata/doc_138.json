@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_138",
+  "filename": "Prompts - Psychologist - Seniors Second Talk V1.docx",
+  "file_type": "docx",
+  "summary": "This document is a deprecated prompt template for an AI psychologist persona named Miguel, written in Spanish. It instructs the AI to conduct a second conversation with a user named Laurine, utilizing specific personal details about her background to personalize the interaction. The prompt emphasizes empathy, active listening, and a Simon Sinek style tone.",
+  "topic_tags": [
+    "AI Persona",
+    "Prompt Engineering",
+    "Deprecated",
+    "Elderly Care",
+    "PII Risk"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/Prompts - Psychologist - Seniors Second Talk V1.docx",
+  "file_size": "7688",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific personal details about a user (Laurine) including nationality, relationship status, and profession. Document is in Spanish despite the company focusing on NHS UK. Located in 'Deprecated' folder. Text appears duplicated within the file."
+}

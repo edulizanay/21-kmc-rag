@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_356",
+  "filename": "Finances - Costs Tracking and Economics.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet tracks operational expenses and costs for the startup, listing vendors like Heroku, OpenAI, and Google Workspace alongside payment amounts and responsible individuals. It includes entries for regulatory applications such as MHRA and ICO, as well as team salaries and travel expenses across multiple months and currencies. The data provides a detailed view of the company's early-stage burn rate, tech stack costs, and compliance efforts.",
+  "topic_tags": [
+    "Financials",
+    "Operational Costs",
+    "Regulatory Compliance",
+    "Vendor Management",
+    "Startup Economics"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/Finances - Costs Tracking and Economics.xlsx",
+  "file_size": "372284",
+  "folder": "5. Finances and VCs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains personal names and salary data; includes informal Spanish language comments within financial notes; lists sensitive regulatory application fees (MHRA, ICO)."
+}

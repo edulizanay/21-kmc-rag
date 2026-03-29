@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_240",
+  "filename": "Lawful Basis Documentation - September 2024.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's GDPR compliance strategy for processing patient data via AI phone agents. It details the lawful bases under Articles 6 and 9, focusing on explicit consent for health information and security measures. Approved by CEO Eduardo Lizana in September 2024, it serves as an internal legal record for data processing activities.",
+  "topic_tags": [
+    "GDPR",
+    "Compliance",
+    "Data Privacy",
+    "Healthcare",
+    "Legal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/Lawful Basis Documentation - September 2024.docx",
+  "file_size": "9014",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains CEO name and specific legal justifications for health data processing. No actual patient data present, but confirms handling of special category data."
+}

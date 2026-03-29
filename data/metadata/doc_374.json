@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_374",
+  "filename": "VCs - Potential of the Market.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel workbook contains market sizing and financial projections for KeepMeCompany's AI elderly care solution. It details potential revenue across multiple countries, dementia care cost structures in the UK, and estimated system savings. The data supports investor pitches by quantifying market opportunity and operational margins.",
+  "topic_tags": [
+    "Market Sizing",
+    "Financial Projections",
+    "Dementia Care",
+    "VC Pitch",
+    "UK Healthcare"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/VCs - Potential of the Market.xlsx",
+  "file_size": "161632",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Mixed currency usage (USD and GBP) within the same financial model."
+}

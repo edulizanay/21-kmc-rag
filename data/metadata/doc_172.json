@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_172",
+  "filename": "Fine Tuning - Talker Oct 6th.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet detailing logic scenarios for fine-tuning the 'Talker' AI agent. It defines conversation archetypes, such as prioritizing direct questions versus primary goals, complete with example inputs, outputs, and explanations for training validation. The data represents internal engineering specifications for prompt behavior and model logic.",
+  "topic_tags": [
+    "AI Fine-Tuning",
+    "Prompt Engineering",
+    "Conversation Logic",
+    "Engineering Documentation",
+    "Talker Agent"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/2. Fine-Tuning Jobs/1. Talker/Fine Tuning - Talker Oct 6th.xlsx",
+  "file_size": "84107",
+  "folder": "1. Engineering/2. Fine-Tuning Jobs/1. Talker",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Examples use generic scenarios (account settings, subscriptions) rather than specific NHS or elderly care contexts, suggesting this may be foundational training data before domain specialization."
+}

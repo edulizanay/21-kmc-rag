@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_077",
+  "filename": "Private Care UK - Sales Script.docx",
+  "file_type": "docx",
+  "summary": "This document is an internal sales script for KeepMeCompany targeting private UK clinics. It details the call flow including greeting, qualification, value proposition, and objection handling strategies. It includes specific staff names and pricing incentives like a free first month.",
+  "topic_tags": [
+    "Sales Strategy",
+    "UK Market",
+    "Script",
+    "Pricing",
+    "Customer Acquisition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/3. Databases/2. UK/1. Private Care/Private Care UK - Sales Script.docx",
+  "file_size": "9207",
+  "folder": "4. Sales/3. Databases/2. UK/1. Private Care",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Target market is private clinics, conflicting with stated NHS focus; contains specific staff names (Alicia, Eduardo); company name misspelled as 'Keeep'."
+}

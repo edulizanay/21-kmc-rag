@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_464",
+  "filename": "Conversation History.docx",
+  "file_type": "docx",
+  "summary": "This document is a test conversation log between an AI health agent and a user named Selena regarding a shoulder injury. The AI inquires about medical history and medications but inappropriately links menstrual cycle regularity to the shoulder pain. The interaction reveals potential logic errors in the AI's triage questioning flow.",
+  "topic_tags": [
+    "AI Testing",
+    "Medical Triage",
+    "Conversation Log",
+    "Product Development",
+    "Health Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/Tests/2. Catalina Munoz/Conversation History.docx",
+  "file_size": "9020",
+  "folder": "0. Research/4. Users Testing/Tests/2. Catalina Munoz",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "AI asks irrelevant medical questions (menstrual cycle vs shoulder pain); user age (29) contradicts elderly care target demographic."
+}

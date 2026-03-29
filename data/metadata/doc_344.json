@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_344",
+  "filename": "Supplier Qualification Checklist.docx",
+  "file_type": "docx",
+  "summary": "This document details the internal Quality Management System (QMS) protocol for evaluating and qualifying third-party suppliers. It specifies technical performance metrics for AI model providers, including uptime and latency targets for the company's patient-facing phone system. The checklist defines criticality assessment criteria based on safety, performance, and regulatory compliance impacts.",
+  "topic_tags": [
+    "Supplier Management",
+    "QMS",
+    "AI Infrastructure",
+    "Compliance",
+    "Third-Party Risk"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate/Supplier Qualification Checklist.docx",
+  "file_size": "13425",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/1. Corporate",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Reveals specific AI infrastructure stack (OpenAI/Microsoft Azure) and confirms real-time patient data processing requirements."
+}

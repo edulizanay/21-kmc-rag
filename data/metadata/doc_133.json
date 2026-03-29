@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_133",
+  "filename": "Model 2 - Building the Experience.docx",
+  "file_type": "docx",
+  "summary": "This document contains a request for guidance on building an AI companion bot for elderly care. It outlines the proposed technical architecture using Google services for audio and ChatGPT for responses. It details specific requirements for API integration, context handling, and personality definition.",
+  "topic_tags": [
+    "AI Development",
+    "Product Design",
+    "Elderly Care",
+    "Technical Architecture",
+    "Prototype"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/1. Model 2/Model 2 - Building the Experience.docx",
+  "file_size": "7136",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design/1. Model 2",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in Deprecated folder; reflects early prototype tech stack (Google/ChatGPT) which may be outdated compared to current production architecture."
+}

@@ -1,0 +1,19 @@
+{
+  "doc_id": "doc_455",
+  "filename": "User Testing - Intake - Tests Summary.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file lists user testing sessions for the AI phone agent, including tester names, roles, and countries. It embeds conversation history logs showing the AI's medical intake dialogue with a user simulating back pain symptoms. The document serves as a record of product validation efforts and highlights specific interaction flows.",
+  "topic_tags": [
+    "User Testing",
+    "AI Conversation",
+    "Medical Intake",
+    "Product Validation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/User Testing - Intake - Tests Summary.xlsx",
+  "file_size": "63665",
+  "folder": "0. Research/4. Users Testing",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "AI shows repetitive responses in dialogue logs; testers are international medical professionals rather than target elderly UK demographic."
+}

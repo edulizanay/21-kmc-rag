@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_115",
+  "filename": "FrontEnd Compilation for Development.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the frontend development strategy for KeepMeCompany's web application, detailing the tech stack (Next.js, Tailwind) and user roles. It specifies the onboarding flow, pricing model (53p per call), and technical implementation phases for managing healthcare practice call peaks. The guide includes code structures, design branding, and validation rules for the PC-based interface.",
+  "topic_tags": [
+    "Product Development",
+    "Frontend Architecture",
+    "Pricing Model",
+    "Healthcare Tech",
+    "Technical Documentation"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/FrontEnd Compilation for Development.docx",
+  "file_size": "224136",
+  "folder": "3. Product/0. Deprecated",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in Deprecated folder; contains specific pricing model (53p/call) and PC-only limitation."
+}

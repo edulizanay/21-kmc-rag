@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_277",
+  "filename": "List of Known Anomalies.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the scope for a software release version 1.0, identifying it as a list of known residual anomalies or bugs. However, the document appears to be a template or incomplete, as the section detailing specific anomalies and other tables are empty. It confirms the existence of a release process but lacks substantive technical details.",
+  "topic_tags": [
+    "QMS",
+    "Software Release",
+    "Version Control",
+    "Bug Tracking",
+    "Internal Documentation"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/List of Known Anomalies.docx",
+  "file_size": "8940",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document appears to be a template or incomplete; the 'Known Residual Anomalies' section is empty despite claiming to list bugs for v1.0 release. This might indicate a process gap or a draft state."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_090",
+  "filename": "Contexto General.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the company's AI communication platform for medical settings, detailing incoming and outgoing call use cases like anamnesis and patient reminders. It specifies unit economics, including cost per minute, target margins, and potential recurring revenue per medical center. The text also describes the business model as credit-based without integration requirements for specialist centers and hospitals.",
+  "topic_tags": [
+    "AI Healthcare",
+    "Unit Economics",
+    "Product Strategy",
+    "Medical Device Certification",
+    "Business Model"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/9. General Information/Contexto General.docx",
+  "file_size": "731338",
+  "folder": "9. General Information",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Currency inconsistencies noted (mix of dollars and euros in financial figures). Document is in Spanish despite UK/NHS focus. Claims Class I Medical Device certification."
+}

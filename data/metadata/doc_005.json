@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_005",
+  "filename": "KeepMeCompany - Commercial Presentation.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a commercial sales presentation outlining KeepMeCompany's AI receptionist service for NHS GP practices. It details the pricing model, operational integration steps, and projected efficiency gains for receptionists. It also includes critical legal disclaimers regarding clinical liability and emergency response protocols.",
+  "topic_tags": [
+    "AI Receptionist",
+    "GP Practice Operations",
+    "Pricing Model",
+    "Legal Disclaimer",
+    "Telephony Integration"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/KeepMeCompany - Commercial Presentation.pptx",
+  "file_size": "921219",
+  "folder": "4. Sales",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific pricing (53p/call) and legal liability waivers regarding clinical decisions. Phone numbers provided appear to be internal setup lines."
+}

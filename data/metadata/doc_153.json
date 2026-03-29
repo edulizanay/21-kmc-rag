@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_153",
+  "filename": "Engineering - Nodes and Paths.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document outlines the conversation flow architecture for the AI phone agent, detailing specific nodes for call reasons, emergency triage, and excluded use cases. It includes structured dialogue questions for assessing conditions like stroke, chest pain, and breathing difficulties, alongside fallback responses for unsupported scenarios. The data serves as the logical backbone for the medical triage capabilities of the KeepMeCompany system.",
+  "topic_tags": [
+    "AI Agent Logic",
+    "Medical Triage",
+    "Conversation Flow",
+    "Engineering",
+    "Product Design"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/Engineering - Nodes and Paths.xlsx",
+  "file_size": "7615",
+  "folder": "1. Engineering",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains medical triage logic which carries liability implications if implemented incorrectly. Explicitly defines safety boundaries where the AI defers to human receptionists."
+}

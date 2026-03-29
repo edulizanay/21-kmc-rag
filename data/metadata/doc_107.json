@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_107",
+  "filename": "Escalator - Diseases Databases.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains the core medical knowledge base and triage protocols used by KeepMeCompany's AI phone agents for NHS GP practices. It details specific conditions like stroke and chest pain, including NHS urgency categories, response targets, and mnemonic-based questioning strategies for escalation. The data outlines critical safety triggers and categorization aligned with NHS emergency standards.",
+  "topic_tags": [
+    "AI Triage",
+    "Medical Protocols",
+    "NHS Standards",
+    "Product Knowledge",
+    "Escalation Logic"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/5. Escalator/Escalator - Diseases Databases.xlsx",
+  "file_size": "109586",
+  "folder": "3. Product/5. Escalator",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains placeholder date values (2024-01-02 00:00:00) in the NHS Category Emergency column for Breathing Difficulty and Major Bleeding rows, indicating potential data entry errors."
+}

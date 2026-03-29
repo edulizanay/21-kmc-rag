@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_317",
+  "filename": "SOP Post-Market Surveillance.docx",
+  "file_type": "docx",
+  "summary": "This Standard Operating Procedure defines the Post-Market Surveillance processes for medical devices within the company's Quality Management System. It specifies requirements for periodic safety reports based on device classification and outlines data collection methods from users and authorities. The document emphasizes adherence to EU regulatory frameworks, including EUDAMED reporting and cooperation with competent bodies.",
+  "topic_tags": [
+    "Quality Management System",
+    "Regulatory Compliance",
+    "Post-Market Surveillance",
+    "Medical Device Regulations",
+    "Standard Operating Procedure"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Post-Market Surveillance.docx",
+  "file_size": "12503",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document references EU regulations (EUDAMED, EU MDR) despite the company focusing on UK NHS GP practices; may indicate EU expansion plans or reliance on EU standards for UK compliance."
+}

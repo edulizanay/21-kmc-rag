@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_427",
+  "filename": "Cases for Dr Justin Hammond.docx",
+  "file_type": "docx",
+  "summary": "This document lists five patient case summaries covering conditions such as back pain, respiratory issues, fever, dizziness, and anxiety. It appears to be reference material from a pilot program involving Dr. Justin Hammond, detailing symptoms, demographics, and medical history for each case. These cases likely serve as test scenarios for the AI phone agent's triage capabilities within the NHS GP practice context.",
+  "topic_tags": [
+    "patient cases",
+    "pilot data",
+    "medical triage",
+    "NHS GP",
+    "AI training"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/2. Interviews/1. The Good Practice/Cases for Dr Justin Hammond.docx",
+  "file_size": "9183",
+  "folder": "8. Pilots/2. Interviews/1. The Good Practice",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific patient names (Richard Thompson) and a doctor's name (Dr Justin Hammond), raising potential privacy concerns despite folder context suggesting pilot data."
+}

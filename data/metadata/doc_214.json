@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_214",
+  "filename": "CE Marking - Software Test Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Software Test Plan for the KeepMeCompany AI phone agent, detailing objectives for quality, latency, and compliance with medical guardrails. It specifies testing environments, tools, and pass criteria for accuracy, response times, and system reliability to support CE Marking requirements. The plan ensures the AI avoids giving medical advice while maintaining high uptime and performance standards.",
+  "topic_tags": [
+    "Software Testing",
+    "Regulatory Compliance",
+    "AI Safety",
+    "Quality Assurance",
+    "CE Marking"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Software Test Plan.docx",
+  "file_size": "10097",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Folder path contains typo 'Formly' instead of 'Formerly'; mentions Heroku infrastructure which may warrant security review for health data."
+}

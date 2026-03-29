@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_140",
+  "filename": "Prompts - SSML Conversion.docx",
+  "file_type": "docx",
+  "summary": "This document outlines prompt engineering strategies for an empathetic AI companion, specifically focusing on SSML tag integration for text-to-speech systems. It details optimization approaches regarding latency and accuracy, alongside specific templates for medication reminders, check-ins, and activity suggestions. The content reflects the technical decision-making process behind the AI agent's conversational design.",
+  "topic_tags": [
+    "Prompt Engineering",
+    "SSML",
+    "AI Agent",
+    "Elderly Care",
+    "Product Development"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/2. SSML Prompts/Prompts - SSML Conversion.docx",
+  "file_size": "8852",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank/2. SSML Prompts",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder, suggesting this prompt strategy or SSML implementation may be outdated or superseded by newer versions."
+}

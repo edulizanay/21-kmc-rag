@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_326",
+  "filename": "Usability Evaluation Protocol.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the usability evaluation protocol for KeepMeCompany's AI phone agent system, detailing intended users such as patients and receptionists within medical practices. It specifies training requirements, support materials like IFUs and security guides, and emphasizes GDPR compliance and NHS data standards. The protocol defines user testing methods to capture performance on hazard-related use scenarios.",
+  "topic_tags": [
+    "Quality Management",
+    "Usability Testing",
+    "Healthcare Compliance",
+    "AI Telephony",
+    "GDPR"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Usability Evaluation Protocol.docx",
+  "file_size": "13663",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document appears truncated at the end of Section 5.1."
+}

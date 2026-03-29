@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_414",
+  "filename": "Well Up North PCN - Pilot Ideas.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a pilot proposal for the Well Up North PCN, detailing how the AI phone agent system will integrate with existing GP workflows. It specifies operational steps where receptionists trigger calls, AI gathers patient information, and data is manually copied into EHRs. The proposal includes commercial terms like free implementation and a lifetime discount in exchange for running the pilot and providing feedback on time savings.",
+  "topic_tags": [
+    "Pilot Program",
+    "NHS GP",
+    "Sales Proposal",
+    "Workflow Integration",
+    "AI Phone Agent"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/Well Up North PCN - Pilot Ideas.docx",
+  "file_size": "7706",
+  "folder": "8. Pilots",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Mentions handling of patient lists and data sharing agreements which requires compliance checks. Specific commercial commitment of 15% lifetime discount noted."
+}

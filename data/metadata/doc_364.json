@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_364",
+  "filename": "Project Plan Appendix (18 months total).docx",
+  "file_type": "docx",
+  "summary": "This document outlines an 18-month project plan divided into six work packages covering clinical research, EHR integration, AI development, and compliance. It details specific milestones, dependencies, and deliverables for each phase, including ethics approval and pilot implementation. The plan serves as an operational roadmap for the startup's product development and NHS integration strategy.",
+  "topic_tags": [
+    "project management",
+    "product roadmap",
+    "clinical validation",
+    "AI development",
+    "compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/3. Grants/Project Plan Appendix (18 months total).docx",
+  "file_size": "9572",
+  "folder": "5. Finances and VCs/3. Grants",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Stored in 'Finances and VCs' folder despite being technical planning; document cuts off after 'Risk Register Matrix' header."
+}

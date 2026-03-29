@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_152",
+  "filename": "Testing Oct 22nd.docx",
+  "file_type": "docx",
+  "summary": "This document contains internal QA testing logs for the AI phone agent, recording call IDs, durations, and specific performance issues. It highlights technical problems such as call loops, latency, transcription errors, and adherence to medical advice boundaries during simulated elderly care interactions. The notes provide direct feedback on user experience and system reliability from test sessions.",
+  "topic_tags": [
+    "AI Testing",
+    "Product QA",
+    "Call Logs",
+    "Health Tech",
+    "System Performance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/2. Testing/Testing Oct 22nd.docx",
+  "file_size": "290786",
+  "folder": "3. Product/2. Testing",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mixed language usage (Spanish and English) suggests bilingual testing or diverse user simulation; some log entries have missing timestamps or durations."
+}

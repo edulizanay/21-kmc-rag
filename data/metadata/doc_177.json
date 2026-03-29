@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_177",
+  "filename": "Engineering - Verify Patients.docx",
+  "file_type": "docx",
+  "summary": "This document outlines technical strategies for verifying patient identities within an AI-powered voice agent system. It details methods to mitigate speech-to-text errors, such as phonetic matching and custom vocabularies, while leveraging NHS IDs and phone numbers for confirmation. The notes also highlight specific examples of transcription failures with diverse names and multilingual considerations.",
+  "topic_tags": [
+    "Patient Verification",
+    "Speech-to-Text",
+    "AI Engineering",
+    "NHS Integration",
+    "Data Privacy"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/1. Patient Verification/Engineering - Verify Patients.docx",
+  "file_size": "10872",
+  "folder": "1. Engineering/1. Patient Verification",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains a sentence in Spanish regarding redirection data; references specific PII fields like NHS Patient ID and phone numbers."
+}

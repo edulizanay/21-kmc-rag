@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_250",
+  "filename": "Medical Device - Regulation Paths.docx",
+  "file_type": "docx",
+  "summary": "This document details regulatory pathways for UKCA and CE marking for medical devices, outlining costs and timelines for Class I and Class IIa classifications. It includes internal strategic notes regarding the company's LLM-based product classification and compliance with MDCG Software as a Medical Device guidelines. The content covers QMS requirements, clinical evaluation steps, and specific product context regarding triage and GP responsibility.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device Regulations",
+    "Cost Estimation",
+    "SaMD",
+    "UKCA/CE Marking"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/4. Medical Device Regulations/Medical Device - Regulation Paths.docx",
+  "file_size": "11495",
+  "folder": "7. Administratives/2. UK Regulations/4. Medical Device Regulations",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains mixed language (Spanish phrase), internal liability disclaimers regarding GP responsibility, and specific regulatory cost estimates."
+}

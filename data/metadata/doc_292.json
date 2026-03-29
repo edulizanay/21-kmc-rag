@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_292",
+  "filename": "Clinical Evaluation Report.docx",
+  "file_type": "docx",
+  "summary": "This document is a Clinical Evaluation Report for the 'AI Doctor & Patient Consultation Platform', outlining regulatory compliance with EU Medical Device Regulations (MDR). It details the device's intended purpose, safety claims, performance testing, and literature review methodology for the AI phone agent system used in GP practices. The report serves as a formal Quality Management System (QMS) record for product validation.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Clinical Evaluation",
+    "Medical Device Software",
+    "Quality Management",
+    "AI Healthcare"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Clinical Evaluation Report.docx",
+  "file_size": "152247",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document text cuts off mid-sentence at the end. References EU MDR 2017/745 despite UK focus (NHS GP practices), suggesting post-Brexit regulatory strategy or dual compliance. Section 17.2 lists CVs which may contain PII."
+}

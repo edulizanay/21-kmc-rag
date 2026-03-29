@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_091",
+  "filename": "KeepmeCompany one pager - ES.docx",
+  "file_type": "docx",
+  "summary": "This Spanish-language one-pager outlines KeepmeCompany as a London-based health-tech platform utilizing AI voice agents for patient communication and administrative efficiency. It details Class I Medical Device certification, GDPR compliance protocols, and specific use cases such as patient admission and follow-up in the UK and Spain. The document concludes with direct contact information for the CEO, Eduardo Lizana.",
+  "topic_tags": [
+    "AI Voice Agents",
+    "Health Tech",
+    "Medical Device Certification",
+    "GDPR Compliance",
+    "Patient Communication"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/9. General Information/KeepmeCompany one pager - ES.docx",
+  "file_size": "43876",
+  "folder": "9. General Information",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document is in Spanish despite UK focus; contains personal contact details (CEO email/phone); claims specific medical device certification."
+}

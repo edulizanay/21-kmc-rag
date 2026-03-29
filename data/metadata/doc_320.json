@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_320",
+  "filename": "SOP Statistical Methods.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) outlining the statistical methods and quality assurance protocols used by KeepMeCompany. It defines responsibilities for product teams, references regulatory standards like ISO 13485 and 21 CFR Part 820, and details procedures for sample size determination and data analysis. The SOP serves as a guideline for ensuring product reliability and process capability during development and manufacturing.",
+  "topic_tags": [
+    "Quality Management System",
+    "Regulatory Compliance",
+    "Standard Operating Procedure",
+    "Statistical Methods",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Statistical Methods.docx",
+  "file_size": "238628",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References to 21 CFR Part 820 and ISO 13485 indicate the software is likely classified as a medical device requiring strict regulatory compliance."
+}

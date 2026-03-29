@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_316",
+  "filename": "SOP Nonconformance of Product and Process.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) outlining the workflow for identifying, evaluating, and disposing of nonconforming products and processes within the company's hardware and software medical devices. It details responsibilities for the QA, Production, and Engineering teams and references key regulatory standards like ISO 13485 and IEC 62304. The procedure ensures patient safety and regulatory compliance through defined disposition mechanisms such as rework, repair, or scrap.",
+  "topic_tags": [
+    "Quality Management",
+    "Medical Devices",
+    "SOP",
+    "Regulatory Compliance",
+    "Software Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Nonconformance of Product and Process.docx",
+  "file_size": "10935",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mentions hardware medical devices and physical components, which may be notable given the company focuses on AI-powered phone agents."
+}

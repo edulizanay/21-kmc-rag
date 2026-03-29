@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_156",
+  "filename": "Inputs_Outputs.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet containing system prompts and conversation logs for an AI voice agent. It details instructions for scheduling dental appointments in Spanish, including specific clinic addresses and operating hours.",
+  "topic_tags": [
+    "prompt-engineering",
+    "voice-ai",
+    "conversation-logs",
+    "client-data",
+    "elevenlabs"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/Inputs_Outputs.xlsx",
+  "file_size": "371220",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Content is in Spanish and references a dental clinic in Chile (Providencia), which conflicts with the UK NHS/Elderly Care focus of the KeepMeCompany project description."
+}

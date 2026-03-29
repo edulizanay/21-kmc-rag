@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_310",
+  "filename": "SOP Cybersecurity.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) establishing cybersecurity controls for Software as a Medical Device (SaMD) and Software in a Medical Device (SimD). It outlines risk management frameworks, design requirements, and premarket submission activities aligned with FDA guidance and ISO standards. The scope covers the entire product lifecycle from development to post-market surveillance.",
+  "topic_tags": [
+    "Cybersecurity",
+    "Medical Device Regulation",
+    "Quality Management System",
+    "Risk Assessment",
+    "Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Cybersecurity.docx",
+  "file_size": "18003",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document references FDA (US) guidance despite the startup focusing on NHS GP practices in the UK, suggesting potential international compliance strategy or template usage."
+}

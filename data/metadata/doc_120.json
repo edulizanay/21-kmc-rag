@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_120",
+  "filename": "Product - Calls Arquitecture.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the deprecated conversation architecture for the AI phone agent, detailing the flow from greeting to decision paths and empathic response generation. It includes specific prompt templates requiring SSML tags for text-to-speech integration and variable management for user interactions.",
+  "topic_tags": [
+    "Product Architecture",
+    "AI Agent",
+    "Deprecated",
+    "Prompt Engineering",
+    "Elderly Care"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/8. Deprecated/Product - Calls Arquitecture.docx",
+  "file_size": "187263",
+  "folder": "3. Product/0. Deprecated/8. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Filename contains spelling error Arquitecture; document is located in Deprecated folder indicating outdated logic"
+}

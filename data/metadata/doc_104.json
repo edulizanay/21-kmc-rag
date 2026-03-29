@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_104",
+  "filename": "Untitled document.docx",
+  "file_type": "docx",
+  "summary": "This document contains a transcript of a demo call between an AI assistant and a patient regarding medical symptoms. The AI collects details like date of birth and anxiety levels to facilitate a GP appointment booking. It serves as a functional example of the KeepMeCompany phone agent's triage capabilities.",
+  "topic_tags": [
+    "AI Agent",
+    "Patient Triage",
+    "Demo Transcript",
+    "Healthcare",
+    "NHS GP"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/3. Demos/Untitled document.docx",
+  "file_size": "7515",
+  "folder": "3. Product/9. Demos/3. Demos",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename is generic ('Untitled document.docx'). Contains PII (Name, DOB). Transcription artifacts ('something somnia')."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_222",
+  "filename": "DTAC - Pending Items.docx",
+  "file_type": "docx",
+  "summary": "This document is an internal compliance checklist tracking pending items for the DTAC (Digital Technology Assessment Criteria) submission. It lists required regulatory documentation such as DCB-0129, DPIA, and Cyber Essentials, noting which are assumed present versus missing. The content includes internal action items and mixed-language notes regarding costs and next steps with bodies like the CQC and MHRA.",
+  "topic_tags": [
+    "DTAC",
+    "Compliance",
+    "Regulatory",
+    "NHS",
+    "Internal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/DTAC - Pending Items.docx",
+  "file_size": "10199",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains mixed English/Spanish notes and admits to answering 'yes' to compliance items that are actually missing ('Assumed we have... but don't'). Includes specific cost figures and staff names."
+}

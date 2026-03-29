@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_112",
+  "filename": "scenarioBuilder.yaml",
+  "file_type": "yaml",
+  "summary": "This YAML file defines a system prompt for generating conversation scenarios that showcase specific logic archetypes for the AI phone agents. It provides detailed instructions on how to structure user-assistant exchanges, including context, analysis, and goal definitions for fine-tuning the assistant's behavior. The content outlines various interaction patterns such as handling direct questions, managing goal transitions, and addressing off-script requests.",
+  "topic_tags": [
+    "AI Fine-tuning",
+    "Conversation Design",
+    "System Prompts",
+    "Product Logic",
+    "Health-tech"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/1. Talker Fine Tuning/scenarioBuilder.yaml",
+  "file_size": "6739",
+  "folder": "3. Product/1. Talker Fine Tuning",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_145",
+  "filename": "Memory Management - Information to Store and How.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the internal strategy for managing AI conversation memory to reduce latency and costs. It details a logic combining conversation summaries with recent textual interactions to maintain traceability and improve senior engagement. It also includes a basic Python snippet for token counting.",
+  "topic_tags": [
+    "AI Architecture",
+    "Product Strategy",
+    "Memory Management",
+    "Cost Optimization",
+    "Technical Documentation"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/3. Memory Management/Memory Management - Information to Store and How.docx",
+  "file_size": "7619",
+  "folder": "3. Product/0. Deprecated/3. Memory Management",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish despite the company operating in the UK/NHS context. Folder path indicates 'Deprecated' status."
+}

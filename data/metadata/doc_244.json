@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_244",
+  "filename": "DPA Responsibility Matrix.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a RACI matrix outlining security and data protection responsibilities between KeepMeCompany and its technology vendors like OpenAI and Salesforce. It details accountability for infrastructure, application security, patient data handling, and compliance with regulations such as GDPR and HIPAA. The matrix clarifies which parties are responsible, accountable, consulted, or informed for various security activities.",
+  "topic_tags": [
+    "Data Protection",
+    "Vendor Management",
+    "Security Compliance",
+    "RACI Matrix",
+    "GDPR"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/1. DPAs/DPA Responsibility Matrix.xlsx",
+  "file_size": "8598",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR/1. DPAs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains HIPAA compliance references despite being filed under UK Regulations for an NHS-focused startup, suggesting a template artifact or US expansion intent."
+}

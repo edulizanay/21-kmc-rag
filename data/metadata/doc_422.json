@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_422",
+  "filename": "appendix-4-sample-data-sharing-agreement.docx",
+  "file_type": "docx",
+  "summary": "This document is a draft template for an NHS England Information Sharing Agreement used during pilot implementations. It outlines legal requirements under GDPR and the NHS Act 2006 for processing and sharing personal data, including special categories like health information. The text includes drafting notes and placeholders for specific organizational details to ensure compliance with data protection laws.",
+  "topic_tags": [
+    "NHS",
+    "Data Sharing",
+    "GDPR",
+    "Compliance",
+    "Legal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/13. Implementation/appendix-4-sample-data-sharing-agreement.docx",
+  "file_size": "82689",
+  "folder": "8. Pilots/13. Implementation",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Standard NHS template with placeholders; contains outdated date (2018) suggesting it may need version checking against current regulations."
+}

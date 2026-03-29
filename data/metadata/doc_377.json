@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_377",
+  "filename": "KeepMeCompany - Preparation for PV.docx",
+  "file_type": "docx",
+  "summary": "This document is a Spanish-language Q&A preparation sheet for an accelerator application, likely Y Combinator, outlining the startup's origin, market strategy, and operational status. It details the problem of elderly loneliness, the AI solution, revenue projections, competitor landscape, and founder equity splits. The content reveals the team's background, current prototype stage, and lack of current revenue.",
+  "topic_tags": [
+    "Founder Story",
+    "Market Strategy",
+    "Competitor Analysis",
+    "Equity Structure",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/1. Accelerators/KeepMeCompany - Preparation for PV.docx",
+  "file_size": "15617",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/1. Accelerators",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish with LatAm references (Cornershop, 'polola') despite the company targeting UK NHS GP practices, suggesting a potential origin or pivot point."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_443",
+  "filename": "Company Plans - Financial Forecast.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains two sheets detailing the company's operational and financial planning. The first sheet outlines a 12-week client implementation plan with specific stages like EHR integration and staff training, while the second sheet projects sales growth, call volumes, and pricing per call over a 12-month period.",
+  "topic_tags": [
+    "Financial Forecast",
+    "Implementation Plan",
+    "Sales Strategy",
+    "Pricing Model",
+    "Operational Timeline"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/Company Plans - Financial Forecast.xlsx",
+  "file_size": "236382",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": ""
+}

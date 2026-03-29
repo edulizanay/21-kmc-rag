@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_134",
+  "filename": "Model 2 - Notes for Better Prompting.docx",
+  "file_type": "docx",
+  "summary": "This document outlines general prompt engineering best practices alongside specific design requirements for the AI model's memory architecture. It distinguishes between static user data (name, profession) and dynamic health variables (e.g., having a cold) that should expire over time. Located in a deprecated prototype folder, it reflects early product design decisions regarding user data handling.",
+  "topic_tags": [
+    "Prompt Engineering",
+    "AI Architecture",
+    "User Data Management",
+    "Product Design",
+    "Health Tech"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/1. Model 2/Model 2 - Notes for Better Prompting.docx",
+  "file_size": "731281",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design/1. Model 2",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is located in a 'Deprecated' folder, indicating this design logic may be outdated or superseded by current versions."
+}

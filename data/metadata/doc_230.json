@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_230",
+  "filename": "mermaid-history-2024-11-01-122053.json",
+  "file_type": "json",
+  "summary": "This document contains Mermaid.js flowchart definitions detailing the operational workflow of the AI phone agent system. It outlines patient interaction phases including identity verification via DOB and name matching, consent management, and the handoff process to triaging staff and GPs. The diagrams illustrate the technical logic for symptom gathering and EHR integration within the NHS GP practice context.",
+  "topic_tags": [
+    "AI Agent Workflow",
+    "Patient Verification",
+    "NHS Integration",
+    "Clinical Triage",
+    "System Architecture"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents/mermaid-history-2024-11-01-122053.json",
+  "file_size": "161840",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "File stored in 'Compliance Documents' folder but contains technical design artifacts rather than legal text. Describes handling of patient identity and health data without explicit encryption standards. Document content appears truncated mid-string in the final diagram definition."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_096",
+  "filename": "Geovictoria - Flujo Capacitaciones.docx",
+  "file_type": "docx",
+  "summary": "This document contains a transcript of an AI assistant named Sofía scheduling a training session for a client named María. It demonstrates the conversational flow of the AI agent, including slot selection and data collection for appointment booking. The interaction is conducted in Spanish with a Chilean email domain.",
+  "topic_tags": [
+    "AI Agent Script",
+    "Conversational Flow",
+    "Customer Onboarding",
+    "Product Documentation",
+    "PII"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/11. Geovictoria Flow/Geovictoria - Flujo Capacitaciones.docx",
+  "file_size": "7315",
+  "folder": "3. Product/11. Geovictoria Flow",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "References 'Geovictoria' and a Chilean email domain (.cl), which contrasts with the UK/NHS focus of KeepMeCompany. Contains real PII (name, email)."
+}

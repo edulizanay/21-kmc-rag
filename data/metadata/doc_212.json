@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_212",
+  "filename": "CE Marking - Risk Analysis.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet details the risk analysis required for CE Marking compliance of the AI phone agent system. It outlines specific software and cybersecurity hazards, associated probabilities, and mitigating controls like encryption and data retention policies. The document includes breakdowns of risk factors and reasoning for acceptability within the UK healthcare regulatory context.",
+  "topic_tags": [
+    "Risk Analysis",
+    "CE Marking",
+    "Cybersecurity",
+    "Regulatory Compliance",
+    "Data Privacy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Risk Analysis.xlsx",
+  "file_size": "13995",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific security control details and risk probability calculations relevant to medical device regulation."
+}

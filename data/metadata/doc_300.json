@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_300",
+  "filename": "Post-Market Surveillance Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Post-Market Surveillance Plan for the AI Doctor & Patient Consultation Platform, detailing data collection sources and reporting procedures. It specifies how the company monitors device safety through vigilance databases, complaint systems, and incident tracking in compliance with medical device regulations. The plan defines the workflow for analyzing trends and implementing corrective actions to ensure ongoing patient safety.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Quality Management System",
+    "Medical Device Safety",
+    "Post-Market Surveillance",
+    "Risk Management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Post-Market Surveillance Plan.docx",
+  "file_size": "11649",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "References FDA and Swissmedic databases despite being a UK-focused NHS startup; lists competitor names (Ada Health, Doctolib) as vigilance keywords."
+}

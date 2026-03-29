@@ -1,0 +1,19 @@
+{
+  "doc_id": "doc_171",
+  "filename": "Fine Tuning - Talker Oct 6th - Outputs.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains training data and logic definitions for the Talker AI agent's fine-tuning process. It outlines specific conversation archetypes, goals, and prompt structures used to guide the AI's responses to user queries. The document details how the model transitions between goals and handles subscription-related interactions.",
+  "topic_tags": [
+    "AI Fine-Tuning",
+    "Conversation Archetypes",
+    "Engineering",
+    "Product Logic"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/2. Fine-Tuning Jobs/1. Talker/Fine Tuning - Talker Oct 6th - Outputs.xlsx",
+  "file_size": "373424",
+  "folder": "1. Engineering/2. Fine-Tuning Jobs/1. Talker",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Internal engineering artifact in private folder structure; contains subscription IDs that may require redaction if shared externally."
+}

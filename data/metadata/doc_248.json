@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_248",
+  "filename": "data-processing-addendum (Salesforce_Heroku).pdf",
+  "file_type": "pdf",
+  "summary": "This document is a Salesforce Data Processing Addendum (DPA) dated November 2023, serving as a legal contract for data processing compliance. It defines terms for handling personal data between Salesforce and the customer to align with GDPR and UK regulations. The text outlines execution procedures, definitions of data roles, and references to Standard Contractual Clauses.",
+  "topic_tags": [
+    "GDPR",
+    "Data Privacy",
+    "Legal Compliance",
+    "Salesforce",
+    "UK Regulations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/1. DPAs/data-processing-addendum (Salesforce_Heroku).pdf",
+  "file_size": "913508",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR/1. DPAs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename indicates Heroku integration; folder path confirms UK GDPR compliance focus."
+}

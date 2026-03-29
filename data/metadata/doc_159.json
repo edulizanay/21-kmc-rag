@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_159",
+  "filename": "Caché Messages Architecture.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the deprecated architecture for caching AI voice responses within the KeepMeCompany backend system. It details strategies for fine-tuning filler words and implementing a TTS layer that prioritizes cached audio over generation to improve efficiency. The notes also describe a continuous improvement loop for comparing LLM responses and identifying deviations.",
+  "topic_tags": [
+    "AI Architecture",
+    "Voice Technology",
+    "Engineering",
+    "Caching",
+    "Deprecated"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated/Caché Messages Architecture.docx",
+  "file_size": "7422",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document marked as Deprecated in folder path; content mixes English and Spanish technical terminology."
+}

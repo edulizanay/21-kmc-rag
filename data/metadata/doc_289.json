@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_289",
+  "filename": "Software of Unknown Provenance (SOUP) List.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the scope and structure for tracking Software of Unknown Provenance (SOUP) within the AI Doctor & Patient Consultation Platform. It serves as a Quality Management System record to manage third-party software risks and architecture locations. The file indicates the startup's adherence to regulatory standards for medical device software development.",
+  "topic_tags": [
+    "QMS",
+    "Software Compliance",
+    "Medical Device",
+    "Third-Party Software",
+    "Architecture"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/Software of Unknown Provenance (SOUP) List.docx",
+  "file_size": "12199",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Content appears truncated; only headers and scope are visible, lacking the actual software inventory list."
+}

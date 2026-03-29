@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_053",
+  "filename": "GP Partners Letters.docx",
+  "file_type": "docx",
+  "summary": "This document is a draft outreach letter from founder Eduardo Lizana to GP partners proposing a free pilot of an AI-powered phone agent system. It outlines the value proposition of reducing repetitive tasks for GPs and requests feedback in exchange for a future discounted rate.",
+  "topic_tags": [
+    "Sales Strategy",
+    "Founder Outreach",
+    "Pilot Program",
+    "Value Proposition",
+    "GP Partners"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/0. Deprecated/4. Letters/GP Partners Letters.docx",
+  "file_size": "7346",
+  "folder": "4. Sales/0. Deprecated/4. Letters",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path indicates 'Deprecated', suggesting this outreach strategy may be outdated. Contains personal PII (phone/email)."
+}

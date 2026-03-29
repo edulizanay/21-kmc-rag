@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_121",
+  "filename": "Product - Steps to Product-Market Fit.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the historical product development strategy for KeepMeCompany, detailing steps from idea validation to achieving product-market fit. It highlights key strategic decisions such as targeting seniors via voice technology and planning a subscription business model. The content is located in a deprecated folder, suggesting it represents an earlier iteration of the product roadmap.",
+  "topic_tags": [
+    "Product Strategy",
+    "Market Validation",
+    "AI Voice Technology",
+    "Startup Roadmap",
+    "Elderly Care"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/8. Deprecated/Product - Steps to Product-Market Fit.docx",
+  "file_size": "9177",
+  "folder": "3. Product/0. Deprecated/8. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is located in a 'Deprecated' folder path, indicating this strategy may be outdated or superseded by current product iterations."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_304",
+  "filename": "Risk Assessment.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the risk assessment framework for the AI Doctor & Patient Consultation Platform, adhering to ISO 14971:2019 and IEC 62304:2006 standards. It classifies the software as Safety Class A and describes the process for identifying, analyzing, and controlling risks related to intended use and cybersecurity. The conclusion states that residual risks have been evaluated and deemed acceptable for the device.",
+  "topic_tags": [
+    "Risk Management",
+    "Compliance",
+    "ISO Standards",
+    "Quality Assurance",
+    "Medical Device Software"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Risk Assessment.docx",
+  "file_size": "28229",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Claims software safety Class A (no injury possible) for a medical consultation platform, which is a significant regulatory assertion. The document appears to be a high-level framework summary rather than a detailed risk register with specific hazard entries, and signature tables are empty."
+}

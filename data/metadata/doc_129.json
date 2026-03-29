@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_129",
+  "filename": "Product Design - Features Ideas.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet outlines a list of development ideas and features for an AI phone agent product during its prototype phase. It categorizes items such as speech recognition, user interface, and privacy, indicating their status across Prototype, MVP, and Final Product stages. Specific technical requirements include accent compatibility, latency reduction, and accessibility for elderly users.",
+  "topic_tags": [
+    "Product Roadmap",
+    "Feature Specification",
+    "AI Development",
+    "Healthcare Tech",
+    "Prototype Design"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/Product Design - Features Ideas.xlsx",
+  "file_size": "61316",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Marked as 'Deprecated' in folder path; contains minor typos in descriptions ('repply', 'unlt')."
+}

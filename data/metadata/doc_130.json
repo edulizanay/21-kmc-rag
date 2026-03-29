@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_130",
+  "filename": "Product Research - Psycologist Research.docx",
+  "file_type": "docx",
+  "summary": "This document outlines psychological principles and engagement techniques for designing an AI conversational agent focused on mental health and care. It details specific strategies like open-ended questioning, active listening, and ethical boundaries regarding diagnosis and crisis intervention. The notes also suggest the need for professional oversight and accessibility in the user experience.",
+  "topic_tags": [
+    "AI Ethics",
+    "Product Design",
+    "Mental Health",
+    "User Engagement",
+    "Healthcare AI"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/Product Research - Psycologist Research.docx",
+  "file_size": "12907",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; filename contains typo ('Psycologist'); mentions 'Potential Founders' suggesting early-stage brainstorming."
+}

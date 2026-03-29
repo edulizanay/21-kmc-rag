@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_431",
+  "filename": "Checklist to Share a Spreadsheet for the Pilot.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a compliance checklist for sharing sensitive patient data via Google Sheets during a pilot program. It details security requirements such as DCB1596 standards, 2FA, encryption, and legal protocols like Data Sharing Agreements and NDAs. The guide emphasizes staff training and audit logging to ensure GDPR and NHS Digital compliance.",
+  "topic_tags": [
+    "NHS Compliance",
+    "Data Security",
+    "Pilot Operations",
+    "GDPR",
+    "Healthcare Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/0. Deprecated/Checklist to Share a Spreadsheet for the Pilot.docx",
+  "file_size": "9743",
+  "folder": "8. Pilots/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in 'Deprecated' folder, indicating this specific workflow (Google Sheets for patient data) may no longer be current best practice."
+}

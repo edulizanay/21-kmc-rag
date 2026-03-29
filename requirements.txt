@@ -1,0 +1,32 @@
+# Document loading & processing
+langchain-core
+langchain-community
+langchain-text-splitters
+pypdf
+python-docx
+openpyxl
+unstructured
+
+# Vector store & retrieval
+langchain-chroma
+chromadb
+rank-bm25
+
+# Embeddings (local)
+sentence-transformers
+
+# LLM (runtime via OpenRouter)
+openai
+
+# Orchestration
+langgraph
+
+# Evaluation
+ragas
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+pandas

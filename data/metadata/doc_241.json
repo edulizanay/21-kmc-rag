@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_241",
+  "filename": "Privacy by Design and Security Measures Documentation - November 2024.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's Privacy by Design and Security Measures documentation versioned for November 2024. It details GDPR compliance strategies including data minimization, encryption protocols, and security testing schedules for their AI-powered phone agents. The document includes implementation phases and sign-offs from the DPO, CTO, and CEO.",
+  "topic_tags": [
+    "GDPR Compliance",
+    "Data Security",
+    "Privacy by Design",
+    "Health-Tech",
+    "Internal Policy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/Privacy by Design and Security Measures Documentation - November 2024.docx",
+  "file_size": "10138",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific executive names (CEO, DPO) and admits some security testing is 'to be implemented when company scales', indicating potential gaps in current maturity."
+}

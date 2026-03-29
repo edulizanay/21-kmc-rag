@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_393",
+  "filename": "KeepMeCompany - Value Proposition HIN.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a pitch deck presenting KeepMeCompany's AI voice assistant solution designed to support elderly patients in NHS GP practices. It outlines the problem of digital exclusion, the proposed technical and compliance framework, and specific financial savings projections for healthcare providers. The deck concludes with a call to action for pilot programs and competitive analysis.",
+  "topic_tags": [
+    "AI Healthcare",
+    "NHS GP",
+    "Pitch Deck",
+    "Value Proposition",
+    "Elderly Care"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks/KeepMeCompany - Value Proposition HIN.pptx",
+  "file_size": "2294334",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/2. Pitch Decks",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific financial projections (£13.2m/year savings) and contact email. Folder path suggests internal VC relations. YC 25' mention indicates current startup stage."
+}

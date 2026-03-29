@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_309",
+  "filename": "SOP Corrective and Preventive Action.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Standard Operating Procedure for Corrective and Preventive Actions (CAPA) within the company's Quality Management System. It details the qualification process, scoring criteria, and root cause analysis methods like the Five Whys for addressing non-conformities in software or marketing. The procedure emphasizes compliance with medical device regulatory requirements and safety performance standards.",
+  "topic_tags": [
+    "Quality Management",
+    "CAPA",
+    "Regulatory Compliance",
+    "Medical Device",
+    "Internal Process"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Corrective and Preventive Action.docx",
+  "file_size": "11990",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document text cuts off mid-sentence at the end. Explicitly references 'medical device' regulatory requirements, confirming product classification."
+}

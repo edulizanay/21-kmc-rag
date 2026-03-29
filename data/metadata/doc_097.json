@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_097",
+  "filename": "Demo - Intake Patient - Cough.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains a simulated conversation transcript between an AI GP agent and a patient named Edward regarding hay fever symptoms. It details the dialogue flow alongside the agent's internal clinical reasoning for triaging symptoms like sneezing and congestion. The document serves as a demo script illustrating the product's patient intake logic.",
+  "topic_tags": [
+    "AI Agent Demo",
+    "Clinical Triage",
+    "Patient Intake",
+    "NHS GP",
+    "Product Logic"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/Demo - Intake Patient - Cough.xlsx",
+  "file_size": "54385",
+  "folder": "3. Product/9. Demos",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename indicates 'Cough' but content is 'Hayfever'; contains simulated patient PII and medical reasoning data."
+}

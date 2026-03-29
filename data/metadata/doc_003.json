@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_003",
+  "filename": "Cold email templates.docx",
+  "file_type": "docx",
+  "summary": "This document contains a collection of cold email templates designed for selling AI-driven voice services to private clinics and dental practices. It outlines value propositions focused on patient loyalty, reduced admin burden, and includes a brief case study about a dentist named Emma. The text ends abruptly, suggesting it may be a draft or incomplete export.",
+  "topic_tags": [
+    "sales-templates",
+    "AI-voice",
+    "private-healthcare",
+    "cold-outreach",
+    "value-proposition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/Cold email templates.docx",
+  "file_size": "14383",
+  "folder": "4. Sales",
+  "content_type": "prose",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Target market (private dentists) differs from stated startup focus (NHS GP/Elderly care), indicating potential pivot or broader testing. Document text cuts off mid-sentence at the end."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_502",
+  "filename": "Close Relatives First Contacts - Luz María Lizana Walsen.docx",
+  "file_type": "docx",
+  "summary": "This document is a transcript of a user interview with a family member in Chile regarding elderly care needs and decision-making processes. It details the elderly person's health deterioration, current caregiver arrangements, and family pain points regarding coordination, safety, and costs. The interviewee discusses preferences for caregiver traits and communication protocols with family.",
+  "topic_tags": [
+    "elderly care",
+    "user interviews",
+    "family dynamics",
+    "caregiving challenges",
+    "market research"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/1. Close Relatives/Close Relatives First Contacts - Luz María Lizana Walsen.docx",
+  "file_size": "11084",
+  "folder": "0. Research/1. Users Interviews/1. Close Relatives",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains PII (full name, age, location) and specific financial figures in Chilean currency. Context is Chilean (Santiago) while startup targets UK NHS, indicating potential geographic data drift."
+}

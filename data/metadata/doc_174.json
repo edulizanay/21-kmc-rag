@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_174",
+  "filename": "output.csv",
+  "file_type": "csv",
+  "summary": "This CSV file contains fine-tuning training data for an AI conversation model, specifically defining the \"Answer Direct Question\" logic archetype. It provides structured scenarios involving students, tourists, and patients to illustrate how the AI should prioritize direct user inquiries before addressing broader goals. The data serves as a guideline for engineering the conversational behavior of the startup's AI agents.",
+  "topic_tags": [
+    "AI Fine-Tuning",
+    "Conversation Logic",
+    "Training Data",
+    "Healthcare Scenarios",
+    "Engineering"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/2. Fine-Tuning Jobs/1. Talker/output.csv",
+  "file_size": "345536",
+  "folder": "1. Engineering/2. Fine-Tuning Jobs/1. Talker",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Synthetic training data rather than real user interactions; generic scenarios (tourist/student) mixed with healthcare context (pharmacist)."
+}

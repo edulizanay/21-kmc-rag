@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_151",
+  "filename": "Product - Prompts Refinement.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet containing system prompts for the AI phone agents used in elderly care. It details the instructions for the Talker and Supervisor roles, defining conversation styles, objectives like learning names and hobbies, and logic for managing interaction flow.",
+  "topic_tags": [
+    "AI Prompts",
+    "Product Development",
+    "Elderly Care",
+    "Conversation Design",
+    "Internal Documentation"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/10. Agents Prompts Refinement/Product - Prompts Refinement.xlsx",
+  "file_size": "739035",
+  "folder": "3. Product/10. Agents Prompts Refinement",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Sheet name references 'SergioFamily', suggesting a specific test persona or anonymized case study rather than generic template data."
+}

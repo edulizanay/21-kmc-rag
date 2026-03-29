@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_466",
+  "filename": "Discovery - EHRs Research.docx",
+  "file_type": "docx",
+  "summary": "This document provides a research overview of Electronic Health Record (EHR) systems, defining key concepts like interoperability and data standards. It outlines eight functional modules of EHRs, such as clinical documentation and billing, while highlighting UK-specific compliance requirements like the NHS Data Security and Protection Toolkit. The content serves as foundational knowledge for integrating AI agents into NHS GP practice workflows.",
+  "topic_tags": [
+    "EHR",
+    "NHS Compliance",
+    "Healthcare IT",
+    "Interoperability",
+    "Clinical Workflows"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/3. EHRs Research/Discovery - EHRs Research.docx",
+  "file_size": "16917",
+  "folder": "0. Research/3. EHRs Research",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Text truncates mid-word at the end ('improv'). Contains internal planning language ('We need to comply') regarding legal certification."
+}

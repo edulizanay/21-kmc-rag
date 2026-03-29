@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_319",
+  "filename": "SOP Risk Management.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Standard Operating Procedure for managing risks associated with the company's standalone software medical device. It defines responsibilities for management and quality teams while ensuring compliance with ISO 14971:2019 standards throughout the product lifecycle. The text details specific procedures for risk assessment, acceptance matrices, and maintaining a risk management file.",
+  "topic_tags": [
+    "Risk Management",
+    "QMS",
+    "ISO 14971",
+    "Compliance",
+    "Medical Device Software"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Risk Management.docx",
+  "file_size": "13184",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Standard QMS document structure; references ISO 14971 regulatory compliance."
+}

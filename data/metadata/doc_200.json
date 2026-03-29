@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_200",
+  "filename": "Records Management Policy.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Records Management Policy for KeepMeCompany's AI Intake Service, establishing frameworks for data lifecycle management and compliance with UK regulations. It details roles and responsibilities for the DPO, CTO, and CSO, alongside technical security measures like AES-256 encryption and NHS Data Security standards. The policy covers retention, audit trails, and incident management procedures to ensure patient data safety within the NHS GP practice context.",
+  "topic_tags": [
+    "Compliance",
+    "Data Protection",
+    "NHS",
+    "Security Policy",
+    "AI Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Records Management Policy.docx",
+  "file_size": "9632",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document marked Confidential; lists specific executive names (Rodrigo Orpis, Eduardo Lizana, Catalina Muñoz); claims specific technical retention limits (deletion within minutes)."
+}

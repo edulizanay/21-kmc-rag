@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_412",
+  "filename": "Product Line - Sept 23rd.pptx",
+  "file_type": "pptx",
+  "summary": "This slide outlines the KeepMeCompany AI Co-Pilot workflow within NHS GP practices, detailing how the agent handles intake, EHR logging, and follow-up calls. It illustrates time-saving metrics for receptionists and GPs while highlighting features like prescription monitoring and referral actions.",
+  "topic_tags": [
+    "AI Agents",
+    "NHS GP",
+    "Product Workflow",
+    "EHR Integration",
+    "Elderly Care"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/Product Line - Sept 23rd.pptx",
+  "file_size": "832119",
+  "folder": "8. Pilots",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains a patient name 'Aziz' in a hypothetical dialogue example."
+}

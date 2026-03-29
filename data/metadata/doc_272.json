@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_272",
+  "filename": "EU Declaration of Conformity.docx",
+  "file_type": "docx",
+  "summary": "This document is a formal EU Declaration of Conformity issued by KeepMeCompany Ltd for its AI Doctor & Patient Consultation Platform. It certifies the software as a Class I medical device under EU MDR 2017/745, justifying the classification based on its function as a data collection tool rather than a diagnostic aid. The declaration is signed by CEO Eduardo Lizana and references applicable technical standards in Annex A.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device Regulation",
+    "Product Classification",
+    "Legal Documentation",
+    "EU MDR"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/2. Product/EU Declaration of Conformity.docx",
+  "file_size": "12026",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/2. Product",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains a potential typo citing Regulation (EU) 2017/45 instead of 2017/745 in the Notified Body section. The Class I classification claim is critical for regulatory risk assessment given the AI nature of the product."
+}

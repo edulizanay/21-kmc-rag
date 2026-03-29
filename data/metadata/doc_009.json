@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_009",
+  "filename": "Brand & Marketing Strategy.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the brand and marketing strategy for KeepMeCompany, positioning AI as an extension of human healthcare capabilities rather than a replacement. It defines target audiences including NHS decision-makers and practice managers, along with tone guidelines and a phased content evolution plan. The strategy establishes specific value propositions regarding efficiency and patient engagement for both public and private healthcare sectors.",
+  "topic_tags": [
+    "Brand Strategy",
+    "Marketing",
+    "NHS",
+    "Healthcare AI",
+    "Value Proposition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/6. Marketing/Brand & Marketing Strategy.docx",
+  "file_size": "11546",
+  "folder": "4. Sales/6. Marketing",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Notable specific ROI claims (25% time savings, 15% revenue boost) and explicit NHS focus."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_175",
+  "filename": "output.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel sheet detailing logic archetypes for fine-tuning AI conversational agents. It utilizes a fictional wedding planner scenario to demonstrate how the system prioritizes direct user questions, primary goals, and transitions between objectives. The content outlines specific interaction flows and assistant goals intended to guide the AI's response behavior.",
+  "topic_tags": [
+    "AI Architecture",
+    "Fine-Tuning",
+    "Conversational Logic",
+    "Engineering",
+    "Prompt Engineering"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/2. Fine-Tuning Jobs/1. Talker/output.xlsx",
+  "file_size": "93820",
+  "folder": "1. Engineering/2. Fine-Tuning Jobs/1. Talker",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Uses generic wedding planner scenarios instead of healthcare-specific examples; content appears truncated at the end of the third archetype description."
+}

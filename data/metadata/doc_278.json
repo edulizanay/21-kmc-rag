@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_278",
+  "filename": "SOP Deployment.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) detailing the deployment, installation, and integration processes for the company's medical device software. It outlines infrastructure qualification requirements, mandates signed sales contracts before installation, and defines monitoring activities to ensure device performance and safety. The procedure emphasizes compliance controls and version management within the Quality Management System.",
+  "topic_tags": [
+    "QMS",
+    "Deployment",
+    "Medical Device",
+    "Compliance",
+    "Operations"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/SOP Deployment.docx",
+  "file_size": "10805",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document text cuts off mid-sentence at the end ('ensure that the devic'). Folder path indicates strict Quality Management System (QMS) hierarchy."
+}

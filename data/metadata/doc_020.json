@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_020",
+  "filename": "Tablas Playbook - Spanish Private Market.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document outlines a sales playbook detailing specific use cases for AI agents across various medical specialties within the Spanish private market. It categorizes capabilities into appointment reminders, post-consultation follow-ups, and recurrent monitoring for providers like dentists, dermatologists, and general practitioners. The table serves as a reference for positioning the product's value proposition in non-NHS healthcare settings.",
+  "topic_tags": [
+    "Sales Playbook",
+    "Use Cases",
+    "Spanish Market",
+    "Medical Specialties",
+    "Product Strategy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/5. Spanish Private Market/Tablas Playbook - Spanish Private Market.xlsx",
+  "file_size": "5619",
+  "folder": "4. Sales/5. Spanish Private Market",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Discrepancy between startup focus (UK NHS elderly care) and document content (Spanish Private Market, diverse specialties like Dentistry/Dermatology)."
+}

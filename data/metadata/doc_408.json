@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_408",
+  "filename": "Analytics - Streaming Call Tests.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains performance test results comparing streaming versus non-streaming AI call responses, including latency and word count metrics. It also includes a conversation history log detailing the system prompt persona (a compassionate psychologist) and a sample dialogue in Spanish regarding a user's relationship. The data reflects internal engineering testing of the AI agent's latency and conversational capabilities.",
+  "topic_tags": [
+    "AI Performance Testing",
+    "System Prompts",
+    "Latency Metrics",
+    "Conversation Logs",
+    "Model Persona"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/2. Performance Tests/Analytics - Streaming Call Tests.xlsx",
+  "file_size": "83105",
+  "folder": "6. Analytics/2. Performance Tests",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Conversation is in Spanish despite the UK/NHS context; system prompt specifies Simon Sinek tone; appears to be synthetic test data rather than real patient records."
+}

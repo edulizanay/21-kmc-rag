@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_176",
+  "filename": "Engineering - Sandbox Example.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a deprecated engineering spreadsheet outlining the prompt architecture for KeepMeCompany's AI agent system. It defines specific roles for the Talker, Supervisor, and Goalstracker agents, including their objectives and decision-making logic for interacting with elderly users. The content serves as a sandbox example for testing conversation flows and goal management within the health-tech application.",
+  "topic_tags": [
+    "AI Agents",
+    "Prompt Engineering",
+    "Elderly Care",
+    "Deprecated",
+    "System Architecture"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/0. Deprecated/Engineering - Sandbox Example.xlsx",
+  "file_size": "373605",
+  "folder": "1. Engineering/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in Deprecated folder; contains internal prompt logic for multi-agent system."
+}

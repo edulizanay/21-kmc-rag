@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_189",
+  "filename": "Administratives - Letter Employer.docx",
+  "file_type": "docx",
+  "summary": "This document is a certification letter from Eduardo Lizana dated September 2024, confirming the accuracy of information provided in an application. It states that KeepMeCompany is not yet incorporated but is in discussions with legal counsel, while noting that technological development is already advanced. The letter expresses a desire for guidance on next steps regarding the company's establishment.",
+  "topic_tags": [
+    "Legal Status",
+    "Incorporation",
+    "Founder",
+    "Early Stage",
+    "Administrative"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/Administratives - Letter Employer.docx",
+  "file_size": "7095",
+  "folder": "7. Administratives/2. UK Regulations",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename implies employment context but content concerns company incorporation. Contact details show Chilean address and French phone number despite folder labeled \"UK Regulations\"."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_325",
+  "filename": "Usability Evaluation Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Usability Evaluation Plan for a medical device, detailing procedures for formative and summative evaluations prior to release. It defines critical tasks, hazard-related use scenarios, and compliance requirements based on ISO 14971 risk management standards. The plan specifies how user testing will be conducted to validate safety and usability of the user interface.",
+  "topic_tags": [
+    "Quality Management",
+    "Usability Testing",
+    "Medical Device Compliance",
+    "Risk Management",
+    "Product Development"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Usability Evaluation Plan.docx",
+  "file_size": "11129",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Indicates the startup is treating their AI software as a regulated medical device (SaMD) subject to strict QMS and ISO 14971 compliance."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_186",
+  "filename": "Finances - Financial Forecast.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a financial forecast spreadsheet detailing the startup's initial economic assumptions and 36-month cash flow projections. It includes specific parameters for revenue, variable costs, salaries, and setup expenses like visas and incorporation, with comments explaining the founders' strategic choices. The file is located in a deprecated folder, indicating these figures may no longer reflect current operations.",
+  "topic_tags": [
+    "Financial Forecast",
+    "Startup Economics",
+    "Founder Details",
+    "Cash Flow",
+    "Deprecated"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/0.Deprecated/Finances - Financial Forecast.xlsx",
+  "file_size": "437193",
+  "folder": "7. Administratives/0.Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Deprecated folder; contains PII (founder names) and sensitive visa/financial data; data likely outdated."
+}

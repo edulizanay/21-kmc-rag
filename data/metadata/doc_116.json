@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_116",
+  "filename": "Product - Developments Prioritization.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a deprecated product prioritization spreadsheet outlining development tasks, technical architecture decisions, and company setup requirements. It details specific features like UI improvements, latency reduction, and payment integration while noting strategic constraints on expansion. The content reveals internal planning regarding accelerator applications and legal structuring.",
+  "topic_tags": [
+    "Product Roadmap",
+    "Technical Architecture",
+    "Company Setup",
+    "Deprecated",
+    "Internal Strategy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/Product - Developments Prioritization.xlsx",
+  "file_size": "235445",
+  "folder": "3. Product/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Folder path indicates 'Deprecated' status, suggesting this planning data may be outdated. Contains references to investor applications (YC, Platanus) and legal agreements which require careful handling."
+}

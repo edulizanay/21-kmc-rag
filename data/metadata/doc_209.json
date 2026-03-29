@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_209",
+  "filename": "CE Marking - Instructions for Use.docx",
+  "file_type": "docx",
+  "summary": "This document serves as a patient-facing guide for the KeepMeCompany AI Intake Service, explaining how to interact with the AI phone agent for appointment requests. It outlines safety protocols, identity verification steps, and data protection measures including encryption and deletion policies. The text concludes with support contact details and version information.",
+  "topic_tags": [
+    "AI Phone Agent",
+    "Patient Instructions",
+    "Data Protection",
+    "Medical Compliance",
+    "User Guide"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Instructions for Use.docx",
+  "file_size": "9087",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename references CE Marking but content is a simplified patient guide rather than a formal regulatory IFU. Personal email address used for support contact. Folder path contains typo 'Formly Backups'."
+}

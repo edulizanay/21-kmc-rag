@@ -1,0 +1,19 @@
+{
+  "doc_id": "doc_168",
+  "filename": "External Services - Cost Mapping - Vendors.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a spreadsheet mapping external service vendors and their associated costs for the company's engineering infrastructure. It details pricing tiers, usage quotas, and specific service names for providers such as Twilio, OpenAI, Heroku, and Firebase. The data includes estimated costs per minute or month and links to vendor documentation.",
+  "topic_tags": [
+    "Engineering",
+    "Vendor Management",
+    "Cost Analysis",
+    "Tech Stack"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/4. External Services/External Services - Cost Mapping - Vendors.xlsx",
+  "file_size": "31559",
+  "folder": "1. Engineering/4. External Services",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains mixed language notes (Spanish snippet at bottom) and some incomplete data fields (TBD, dashes)."
+}

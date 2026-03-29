@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_132",
+  "filename": "Protype Design - Audio to Text Vendors List.xlsx",
+  "file_type": "xlsx",
+  "summary": "This spreadsheet compares multiple speech-to-text API vendors, detailing features such as accuracy, pricing, language support, and compliance standards. It includes qualitative testing notes in Spanish regarding performance with specific accents and usability issues. The document represents historical prototype research used to evaluate technology infrastructure for the startup's product.",
+  "topic_tags": [
+    "Speech-to-Text",
+    "Vendor Selection",
+    "Product Development",
+    "Compliance",
+    "Prototype Research"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/Protype Design - Audio to Text Vendors List.xlsx",
+  "file_size": "101370",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains Spanish testing notes despite UK NHS focus; filename contains typo ('Protype'); marked as deprecated prototype data."
+}

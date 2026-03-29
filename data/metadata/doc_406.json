@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_406",
+  "filename": "Analythics - Therapists Conversations.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a deprecated Excel spreadsheet containing conversation logs between an AI life coach agent and a user named Gabriela. It details the system prompt instructions, including the chain-of-thought structure (Thought, Action, Response) used to guide the AI's interactions. The content illustrates the early prompting strategy for empathetic coaching conversations.",
+  "topic_tags": [
+    "AI Agent",
+    "Prompt Engineering",
+    "Deprecated",
+    "Conversation Logs",
+    "Mental Health"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/0. Deprecated/Analythics - Therapists Conversations.xlsx",
+  "file_size": "60113",
+  "folder": "6. Analytics/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "File located in Deprecated folder; contains user name (Gabriela) and health-related personal data; filename typo 'Analythics'."
+}

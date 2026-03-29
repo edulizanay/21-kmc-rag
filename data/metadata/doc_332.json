@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_332",
+  "filename": "other-languages-translated-ifus.docx",
+  "file_type": "docx",
+  "summary": "This document is a Spanish-language Instructions for Use (IFU) for KeepMeCompany's AI Admission Service. It outlines the intended use for primary care appointment requests, safety warnings regarding emergencies, and step-by-step instructions for patient interaction. It also details data protection measures, encryption standards, and contact information for support.",
+  "topic_tags": [
+    "AI Phone Agents",
+    "Patient Admission",
+    "Data Protection",
+    "User Instructions",
+    "Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/other-languages-translated-ifus.docx",
+  "file_size": "9833",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document is in Spanish despite UK focus; contains personal email address (eduardo@keepmecompanyai.com); claims automatic data deletion after transmission."
+}

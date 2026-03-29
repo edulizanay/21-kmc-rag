@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_007",
+  "filename": "KeepMeCompany vs Competition Table.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a competitive analysis spreadsheet comparing KeepMeCompany against a competitor named Voice Connect. It outlines key differentiators, certifications, and quantified metrics regarding time and cost savings for GP practices. The table includes specific financial figures for monthly costs and net savings per month.",
+  "topic_tags": [
+    "Competitive Analysis",
+    "Sales Metrics",
+    "Financial Data",
+    "Healthcare Compliance",
+    "Value Proposition"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/KeepMeCompany vs Competition Table.xlsx",
+  "file_size": "5882",
+  "folder": "4. Sales",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific pricing and cost-saving figures that could be sensitive commercial information."
+}

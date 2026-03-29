@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_437",
+  "filename": "OS for Healthcare - Business Strategy.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the business strategy for 'OS for Healthcare,' proposing an AI-driven operational model for UK GP practices to improve efficiency and profitability. It details the solution of automating processes via an AI orchestrator and defines a revenue model based on profit sharing and advertising. The text also analyzes the market opportunity, comparing the potential disruption to Revolut's impact on banking.",
+  "topic_tags": [
+    "Business Strategy",
+    "AI Healthcare",
+    "GP Practices",
+    "Revenue Model",
+    "Market Analysis"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/OS for Healthcare - Business Strategy.docx",
+  "file_size": "15495",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document cuts off mid-sentence at the end. Financial projections and profit-sharing revenue model are included."
+}

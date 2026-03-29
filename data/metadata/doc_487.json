@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_487",
+  "filename": "User Interviews - Activities List.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a structured spreadsheet listing daily activities and care requirements for elderly individuals based on user interviews. It highlights specific limitations like mobility and vision issues, alongside the financial costs of hiring caregivers in a specific market. The data also details medical tasks and safety concerns such as medication management and kitchen safety.",
+  "topic_tags": [
+    "elderly care",
+    "user research",
+    "caregiving costs",
+    "daily activities",
+    "pain points"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/User Interviews - Activities List.xlsx",
+  "file_size": "54962",
+  "folder": "0. Research/1. Users Interviews",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Currency slang (lucas) indicates Chilean market data rather than UK NHS context. Contains sensitive personal anecdotes regarding safety risks (stove left on) and health conditions."
+}

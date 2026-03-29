@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_228",
+  "filename": "Internal Clinical Safety Audit Framework.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the internal Clinical Safety Audit Framework for KeepMeCompany's AI Intake Service, detailing audit schedules, scope, and processes. It specifies compliance requirements with UK standards like DCB0129 and defines roles such as the CSO and CTO responsible for oversight. The framework includes templates for audit records and mandates a 10-year retention policy for documentation.",
+  "topic_tags": [
+    "Clinical Safety",
+    "Compliance",
+    "UK Regulations",
+    "Audit Framework",
+    "Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents/Internal Clinical Safety Audit Framework.docx",
+  "file_size": "9734",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific personnel name (Catalina Muñoz) and references internal document titles; clearly marked as internal compliance material."
+}

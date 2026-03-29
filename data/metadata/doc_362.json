@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_362",
+  "filename": "Application Grant Info for LLMs (Innovate UK Smart grants_ November 2024).docx",
+  "file_type": "docx",
+  "summary": "This document is a draft Innovate UK Smart grant application submitted by KeepMeCompany Ltd to fund an AI-powered phone system for GP practices. It details the project scope, timeline, and technical integration plans, emphasizing GDPR compliance and NHS efficiency improvements. The text includes both internal project details and a public-facing description of the research phases.",
+  "topic_tags": [
+    "Grant Application",
+    "AI Healthcare",
+    "NHS",
+    "Product Roadmap",
+    "Funding Strategy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/3. Grants/Application Grant Info for LLMs (Innovate UK Smart grants_ November 2024).docx",
+  "file_size": "27773",
+  "folder": "5. Finances and VCs/3. Grants",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename explicitly references 'LLMs' which aligns with the company's AI focus; document contains future-dated project start times (July 2025)."
+}

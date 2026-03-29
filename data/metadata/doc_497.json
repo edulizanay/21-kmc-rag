@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_497",
+  "filename": "Seniors First Contacts - Alicia Walsen.docx",
+  "file_type": "docx",
+  "summary": "This document is a user interview guide and notes from a session with a senior citizen, detailing physical impediments and daily living challenges. It captures current care solutions, financial constraints, and specific pain points regarding independence and assistance. The notes include personal health details and contact information for future research participants in a Spanish-speaking context.",
+  "topic_tags": [
+    "user research",
+    "elderly care",
+    "interview notes",
+    "market validation",
+    "pain points"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/3. Seniors/Seniors First Contacts - Alicia Walsen.docx",
+  "file_size": "10031",
+  "folder": "0. Research/1. Users Interviews/3. Seniors",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Geographic mismatch (Spanish/Chile context vs UK NHS target), contains PII (names/contacts) and sensitive health data."
+}

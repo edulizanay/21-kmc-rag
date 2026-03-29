@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_236",
+  "filename": "DPIA-Feb 2025.docx",
+  "file_type": "docx",
+  "summary": "This document is a Data Protection Impact Assessment (DPIA) outlining the risk management and compliance process for the AI Doctor & Patient Consultation Platform. It confirms adherence to ISO standards, NHS DSPT, and GDPR, stating that residual risks are acceptable for clinical operation. The text details the verification of risk control measures and lists required industry certifications.",
+  "topic_tags": [
+    "GDPR",
+    "Risk Management",
+    "Medical Device Compliance",
+    "NHS DSPT",
+    "Data Protection"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/DPIA-Feb 2025.docx",
+  "file_size": "35528",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Claims specific regulatory certifications (NHS DSPT, CE Marking) which are critical for due diligence verification."
+}

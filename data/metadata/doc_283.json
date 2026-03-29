@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_283",
+  "filename": "Software Architecture.docx",
+  "file_type": "docx",
+  "summary": "This document defines the software architecture for the AI Doctor & Patient Consultation Platform in compliance with IEC 62304:2006 medical device standards. It outlines system decomposition, security protocols including encryption and access control, and backup procedures across Heroku and Google Cloud services. Additionally, it specifies minimum user requirements, noting that patients only need a working telephone line.",
+  "topic_tags": [
+    "Software Architecture",
+    "IEC 62304",
+    "Data Security",
+    "Cloud Infrastructure",
+    "Medical Device Compliance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/Software Architecture.docx",
+  "file_size": "125048",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "References IEC 62304 medical device standard; specific cloud stack disclosed (Heroku, Google Cloud); Revision History section appears empty in snippet."
+}

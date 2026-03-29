@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_220",
+  "filename": "DCB-0129-compliance-assessment-v5.0.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel-based compliance assessment template for DCB 0129, a UK standard for clinical risk management in health IT systems. It outlines the project metadata for the AI Driven Intake system and includes version control records signed off by the CTO and CEO. The file serves as an audit record to demonstrate regulatory adherence to NHS England requirements.",
+  "topic_tags": [
+    "DCB 0129",
+    "Compliance",
+    "NHS Regulations",
+    "Clinical Risk Management",
+    "Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/DCB-0129-compliance-assessment-v5.0.xlsx",
+  "file_size": "545516",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains instruction text indicating blue text must be deleted; includes specific executive names and project metadata."
+}

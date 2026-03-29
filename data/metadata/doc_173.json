@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_173",
+  "filename": "Fine Tuning Talker - Raw_Data.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document outlines specific AI conversation archetypes used for fine-tuning the 'Talker' agent, including rules for answering questions and managing goals. It provides structured examples and explanations for behaviors like addressing primary goals or breaking down complex tasks. The content serves as technical documentation for the engineering team regarding the AI's interaction logic.",
+  "topic_tags": [
+    "AI Fine-Tuning",
+    "Engineering",
+    "Prompt Engineering",
+    "Agent Behavior",
+    "Product Logic"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/2. Fine-Tuning Jobs/1. Talker/Fine Tuning Talker - Raw_Data.xlsx",
+  "file_size": "18811",
+  "folder": "1. Engineering/2. Fine-Tuning Jobs/1. Talker",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Synthetic training data examples; verify if any real customer data was inadvertently included in the raw dataset."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_203",
+  "filename": "Unsupported Software Management and Remediation Plan.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's internal policy for managing unsupported software and implementing a patch management strategy to ensure IT security compliance. It lists specific outdated software versions identified in their environment, along with prioritized remediation steps and deadlines for upgrades or removals. The plan also details monitoring procedures and reporting requirements for senior management regarding security patch deployment.",
+  "topic_tags": [
+    "IT Security",
+    "Compliance",
+    "Patch Management",
+    "Risk Mitigation",
+    "Data Protection"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Unsupported Software Management and Remediation Plan.docx",
+  "file_size": "9964",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Lists extremely outdated software versions (e.g., Mac OS X El Capitan 2018, Java 8 2016, Adobe Flash Player) for a modern health-tech startup, suggesting potential technical debt or outdated documentation."
+}

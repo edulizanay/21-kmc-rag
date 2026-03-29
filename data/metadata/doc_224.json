@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_224",
+  "filename": "Declaration of Conformity with DCB0129.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a formal Declaration of Conformity issued by KeepMeCompany confirming that their AI Intake Service meets the DCB0129 standard for Clinical Risk Management of Health IT Systems. It references supporting clinical safety documentation and bears signatures from the Clinical Safety Officer and CEO dated November 1st, 2024. This record validates the startup's regulatory compliance for NHS-facing health technology deployments.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Clinical Safety",
+    "DCB0129",
+    "UK Healthcare",
+    "Product Certification"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/Declaration of Conformity with DCB0129.pdf",
+  "file_size": "77355",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains full names of executives and officers; standard legal declaration format."
+}

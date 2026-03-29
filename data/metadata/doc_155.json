@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_155",
+  "filename": "Cached Chunks - ElevenLabs Massive Call.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel export of cached conversation chunks from the ElevenLabs AI phone agent system. It contains fragmented dialogue snippets in English, Spanish, and Italian, demonstrating symptom intake (e.g., headaches, pain ratings) and routing instructions to medical centers.",
+  "topic_tags": [
+    "AI Agent Dialogue",
+    "Multilingual Support",
+    "Patient Intake",
+    "Engineering Logs",
+    "Healthcare Tech"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/Cached Chunks - ElevenLabs Massive Call.xlsx",
+  "file_size": "1301550",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains placeholder phone numbers (123-456-789) and mixed language test data; folder path indicates internal engineering cache."
+}

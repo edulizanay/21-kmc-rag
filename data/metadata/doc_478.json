@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_478",
+  "filename": "Markets - UK_ES Comparison.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a comparative market analysis spreadsheet between the UK and Spanish healthcare sectors. It outlines differences in ownership structures, procurement processes, staffing costs, and technology vendors. Internal notes regarding procurement margins and tender efficiency are also included in the financial section.",
+  "topic_tags": [
+    "Market Research",
+    "UK Healthcare",
+    "Spain Healthcare",
+    "Procurement",
+    "Financials"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/5. Markets/Markets - UK_ES Comparison.xlsx",
+  "file_size": "55855",
+  "folder": "0. Research/5. Markets",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains internal strategic commentary on pricing margins; mixed currency units (GBP/€) require verification."
+}

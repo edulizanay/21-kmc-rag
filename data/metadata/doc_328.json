@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_328",
+  "filename": "additional-software-test-plans.pdf",
+  "file_type": "pdf",
+  "summary": "This document outlines the software testing plan for the AI phone agent system, focusing on quality assurance, latency, and compliance with medical guardrails. It details the test environment using Google Cloud and Heroku, along with specific acceptance criteria such as 95% accuracy and sub-2-second latency. The plan covers phases for quality, performance, and reliability testing to ensure system resilience in a healthcare context.",
+  "topic_tags": [
+    "Quality Assurance",
+    "AI Testing",
+    "Healthcare Compliance",
+    "Technical Documentation",
+    "System Reliability"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/additional-software-test-plans.pdf",
+  "file_size": "59674",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Text contains significant spacing errors (e.g., 'QualityAssurance', 'Validatethat'), indicating potential OCR issues or poor PDF formatting."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_147",
+  "filename": "Copy of Product - Current Issues.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains internal product tracking sheets listing technical issues like Google STT timeouts and voicemail costs, alongside a backlog of feature ideas such as latency reduction and long-term memory management. The content outlines development priorities for the AI phone agent, including specific implementation plans and quality logging requirements. Some entries contain Spanish terminology indicating a mixed-language development team or context.",
+  "topic_tags": [
+    "Product Backlog",
+    "Technical Constraints",
+    "AI Development",
+    "Feature Roadmap",
+    "Pilot Phase"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/3. Product for Pilots /Copy of Product - Current Issues.xlsx",
+  "file_size": "122007",
+  "folder": "3. Product/3. Product for Pilots ",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Mixed English and Spanish terminology (e.g., 'weonas', 'Higiénica'); filename indicates a duplicate copy; significant number of empty rows in the issues sheet."
+}

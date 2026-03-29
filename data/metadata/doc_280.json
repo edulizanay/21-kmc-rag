@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_280",
+  "filename": "SOP Software Problem Resolution.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the Standard Operating Procedure for resolving software problems within the company's quality management system. It details the workflow for reporting, investigating, and verifying issues related to medical device software, emphasizing patient safety and risk management compliance. The process covers problem classification, root cause analysis, and annual trend reviews to update risk files.",
+  "topic_tags": [
+    "Software Development",
+    "Quality Management System",
+    "Medical Device Compliance",
+    "Risk Management",
+    "Standard Operating Procedure"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/4. Software/SOP Software Problem Resolution.docx",
+  "file_size": "10010",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/4. Software",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Explicitly references medical device regulations and patient safety protocols. Notes tracking via Email initially but later mentions ticketing system."
+}

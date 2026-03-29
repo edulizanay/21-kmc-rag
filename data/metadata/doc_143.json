@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_143",
+  "filename": "Prompts - Psychologist - Seniors V3.docx",
+  "file_type": "docx",
+  "summary": "This document contains user feedback notes and system prompts for an AI psychologist agent designed for elderly care. It includes specific instructions on tone, response length, and conversation flow, alongside qualitative feedback on translation accuracy and latency from trial sessions.",
+  "topic_tags": [
+    "Prompt Engineering",
+    "User Feedback",
+    "AI Persona",
+    "Elderly Care",
+    "Product Iteration"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials/Prompts - Psychologist - Seniors V3.docx",
+  "file_size": "266471",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank/1. Seniors First Trials",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; feedback is in Spanish while startup targets UK NHS, suggesting international testing or specific user segment trials; reveals specific brand voice strategy (Simon Sinek style)."
+}

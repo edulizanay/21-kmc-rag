@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_411",
+  "filename": "Pilot Proposals - Charts.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document contains financial and operational data from pilot proposals, including ROI calculations showing a 4.2x return and weekly time commitment tracking for receptionists and GPs. It also outlines a comprehensive risk mitigation table addressing clinical safety, adoption barriers, and data security measures for the AI phone agent system.",
+  "topic_tags": [
+    "ROI Analysis",
+    "Pilot Metrics",
+    "Risk Mitigation",
+    "NHS Operations",
+    "Financial Modeling"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/Pilot Proposals - Charts.xlsx",
+  "file_size": "151448",
+  "folder": "8. Pilots",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_367",
+  "filename": "KeepMeCompany - Financial Forecast Grants.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is an Excel spreadsheet containing unit economics parameters and an 18-month cash flow forecast for KeepMeCompany. It outlines variable and fixed operational costs, employee headcount projections, and customer acquisition metrics over two years. The data reflects financial assumptions likely prepared for accelerator or venture capital discussions.",
+  "topic_tags": [
+    "financial_modeling",
+    "unit_economics",
+    "cash_flow",
+    "operational_costs",
+    "startup_metrics"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/KeepMeCompany - Financial Forecast Grants.xlsx",
+  "file_size": "218045",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Data storage cost listed as £80k/month and server costs at £20k per tier appear unusually high for an early-stage startup. There is a discrepancy between monthly employee counts (capping at 4) and a summary row showing 53 total employees. Revenue is projected at zero for the first six months."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_131",
+  "filename": "Product Research - Things to Validate on the Prototype and MVP.docx",
+  "file_type": "docx",
+  "summary": "This document outlines validation criteria and user testing questions for the KeepMeCompany AI prototype and MVP. It covers technical usability, content relevance, emotional impact, and accessibility specifically tailored for elderly users. The content serves as a guide for product teams to assess bot performance and user experience during the development phase.",
+  "topic_tags": [
+    "Product Validation",
+    "User Testing",
+    "AI Agent",
+    "Elderly Care",
+    "MVP Design"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/1. Prototype Design/Product Research - Things to Validate on the Prototype and MVP.docx",
+  "file_size": "8660",
+  "folder": "3. Product/0. Deprecated/1. Prototype Design",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document located in deprecated folder, indicates historical prototype design phase."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_333",
+  "filename": "physicians-handbook.docx",
+  "file_type": "docx",
+  "summary": "This document is a physician's handbook detailing the usage guidelines and clinical responsibilities for the KeepMeCompany AI consultation platform. It explicitly states that the system does not make clinical decisions and emphasizes that final medical judgments remain with qualified professionals. Additionally, it outlines quality assurance protocols and provides technical support contact information.",
+  "topic_tags": [
+    "AI Healthcare",
+    "Clinical Workflow",
+    "Quality Management",
+    "Liability",
+    "Product Documentation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/physicians-handbook.docx",
+  "file_size": "9793",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific staff email address; emphasizes legal liability separation between AI and human doctors."
+}

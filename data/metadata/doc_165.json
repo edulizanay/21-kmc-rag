@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_165",
+  "filename": "chunked_conversations.csv",
+  "file_type": "csv",
+  "summary": "This CSV file contains conversation chunks from a deprecated ElevenLabs cache, simulating patient interactions with an AI triage agent. It includes symptom descriptions, pain ratings, and standard medical intake questions in multiple languages.",
+  "topic_tags": [
+    "AI Triage",
+    "Conversation Data",
+    "Deprecated",
+    "Health Tech",
+    "ElevenLabs"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated/chunked_conversations.csv",
+  "file_size": "135783",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "File located in 'Deprecated' engineering folder; contains simulated medical symptom data which may trigger privacy flags despite being dummy data."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_239",
+  "filename": "GDPR Checklist and Links.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet contains a detailed GDPR compliance checklist tracking the status of regulatory requirements such as Data Processing Agreements and Security Measures. It lists specific third-party vendors like OpenAI and Google Cloud Platform alongside technical security standards like AES-256 encryption and ISO 27001 compliance. The document serves as an internal tracker for legal documentation and data protection activities relevant to the startup's operations.",
+  "topic_tags": [
+    "GDPR",
+    "Compliance",
+    "Data Security",
+    "Vendor Management",
+    "Regulatory"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/3. GDPR/GDPR Checklist and Links.xlsx",
+  "file_size": "47795",
+  "folder": "7. Administratives/2. UK Regulations/3. GDPR",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Confirms use of specific AI and cloud vendors (OpenAI, Twilio) for the phone agent infrastructure; indicates high maturity in compliance tracking with many items marked Done."
+}

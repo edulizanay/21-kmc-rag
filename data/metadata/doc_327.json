@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_327",
+  "filename": "Usability Evaluation Report.docx",
+  "file_type": "docx",
+  "summary": "This Quality Management System document outlines formative usability evaluations conducted on an AI-driven phone system. It details feedback gathered from healthcare professionals across the UK, Spain, Chile, and Germany regarding interface design, clinical workflow integration, and prompt clarity. The report highlights specific UI refinements made to support elderly care and reduce administrative burden for GP practices.",
+  "topic_tags": [
+    "Usability Testing",
+    "Quality Management",
+    "AI Development",
+    "Healthcare Integration",
+    "User Feedback"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Usability Evaluation Report.docx",
+  "file_size": "14095",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Refers to software as a 'device' multiple times; mentions testing in Spain, Chile, and Germany despite UK NHS focus; text cuts off abruptly at the end."
+}

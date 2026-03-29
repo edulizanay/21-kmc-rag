@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_438",
+  "filename": "Private vs Public Summary.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a strategic plan for managing medical centers, comparing public and private sector approaches to automate operations and centralize back-office functions. It details a franchise business model targeting young GPs, including revenue structures like initial fees and royalties, alongside a go-to-market strategy. The text highlights the company's vision to reduce practice complexity while expanding globally through a network of self-run small practices.",
+  "topic_tags": [
+    "strategic planning",
+    "healthcare operations",
+    "business model",
+    "GP practices",
+    "franchise strategy"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/Private vs Public Summary.docx",
+  "file_size": "8989",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Significant text repetition between Public and Private sections; placeholders like '$I' and 'R%' suggest an unfinished draft; dangling 'D' under '3 things we need to believe'; mentions specific contact name 'Neil Paul'."
+}

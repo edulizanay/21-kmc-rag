@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_137",
+  "filename": "Prompts - Psychologist - Senior Welcome.docx",
+  "file_type": "docx",
+  "summary": "This document contains system prompts for an AI psychologist agent designed to interact with elderly users in both English and Spanish. It defines the agent's persona as a compassionate professional with a Simon Sinek tone, outlining the specific flow for initial welcome interactions. The file is located in a deprecated folder, indicating this was an earlier iteration of the product's conversational design.",
+  "topic_tags": [
+    "AI Persona",
+    "Product Development",
+    "Deprecated",
+    "Conversational AI",
+    "Elderly Care"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/Prompts - Psychologist - Senior Welcome.docx",
+  "file_size": "290188",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Located in 'Deprecated' folder; prompts include Spanish version despite UK NHS focus; persona name 'Miguel/Mike' specified."
+}

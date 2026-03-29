@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_191",
+  "filename": "Registration Certificate - ICO.pdf",
+  "file_type": "pdf",
+  "summary": "This document is an official Data Protection Registration Certificate issued by the UK Information Commissioner's Office (ICO) to Keepmecompany Ltd. It confirms the company's registration reference ZB747795 and validity period from October 2024 to October 2025. The certificate verifies compliance with UK data protection regulations required for processing personal data.",
+  "topic_tags": [
+    "Data Protection",
+    "ICO",
+    "UK Regulations",
+    "Compliance",
+    "Legal"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/Registration Certificate - ICO.pdf",
+  "file_size": "192105",
+  "folder": "7. Administratives/2. UK Regulations",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "The 'Issued by' section containing ICO contact details is duplicated in the text."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_195",
+  "filename": "Data Toolkit - Pending Items.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a compliance checklist for data protection processes and technical infrastructure standards required by the organization. It covers individual data rights, records management, incident response planning, and specific security configurations such as disabling AutoRun. The content aligns with UK regulatory frameworks, specifically resembling the NHS Data Security and Protection Toolkit requirements.",
+  "topic_tags": [
+    "Data Protection",
+    "Compliance",
+    "NHS Regulations",
+    "Security Infrastructure",
+    "Governance"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/Data Toolkit - Pending Items.docx",
+  "file_size": "7772",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document title indicates pending compliance items. Mentions Board-level approval for incident press material, suggesting high governance oversight."
+}

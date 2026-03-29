@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_111",
+  "filename": "evaluated_conversations.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel file contains evaluation data for AI conversation fine-tuning, specifically focusing on how the assistant handles off-script or unexpected user requests. It includes structured conversation logs across various scenarios, such as healthcare and home renovation, along with scoring metrics for logic and response quality. The document serves as a record of quality assurance testing for the AI agent's safety and boundary adherence.",
+  "topic_tags": [
+    "AI Fine-Tuning",
+    "Conversation Evaluation",
+    "Safety Guardrails",
+    "Product Development",
+    "Talker"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/1. Talker Fine Tuning/evaluated_conversations.xlsx",
+  "file_size": "58356",
+  "folder": "3. Product/1. Talker Fine Tuning",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Examples are generic (interior design, fitness) rather than specific to the NHS/elderly care domain, suggesting general safety testing rather than domain-specific training data."
+}

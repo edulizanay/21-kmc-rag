@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_213",
+  "filename": "CE Marking - Similar Devices.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet presents a competitive analysis matrix used for CE Marking regulatory submissions, comparing four existing medical software solutions against the startup's proposed device. It details MDR Class I classifications and contrasts features such as voice interaction, data integration, and user interface requirements. The document highlights unique value propositions to justify the new product's market positioning in the UK.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Competitive Analysis",
+    "Medical Devices",
+    "Product Differentiation",
+    "UK Healthcare"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Similar Devices.xlsx",
+  "file_size": "5455",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Folder path contains typos 'Administratives' and 'Formly'; competitor device names are public, but the startup's own device is not explicitly listed in the rows."
+}

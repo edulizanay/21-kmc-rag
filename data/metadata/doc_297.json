@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_297",
+  "filename": "List of Regulatory Requirements.docx",
+  "file_type": "docx",
+  "summary": "This document defines the scope for a Quality Management System list of regulatory requirements applicable to a medical device. It references an internal SOP for updating regulations but the specific sections for laws, standards, and guidance appear to be placeholders. The content confirms the product is classified as a medical device within the QMS framework.",
+  "topic_tags": [
+    "Quality Management System",
+    "Regulatory Compliance",
+    "Medical Device",
+    "Internal Documentation",
+    "UK Healthcare"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/List of Regulatory Requirements.docx",
+  "file_size": "12417",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Sections 2-5 and signature tables appear to be empty templates without specific regulatory data populated."
+}

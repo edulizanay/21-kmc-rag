@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_495",
+  "filename": "User Interviews - HCP First Contacts.docx",
+  "file_type": "docx",
+  "summary": "This document is a structured interview guide designed for conducting research with Healthcare Professionals working with seniors. It outlines specific questions regarding their motivations, daily activities, challenges, and effective practices in elderly care. The content details the research objectives and methodology used to validate problem spaces for the AI phone agent product.",
+  "topic_tags": [
+    "User Research",
+    "Healthcare Professionals",
+    "Elderly Care",
+    "Interview Guide",
+    "Product Discovery"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/1. Users Interviews/2. Healthcare Professionals/User Interviews - HCP First Contacts.docx",
+  "file_size": "9255",
+  "folder": "0. Research/1. Users Interviews/2. Healthcare Professionals",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Contains a typo in the 'Next Contacts' section ('wne' instead of 'we'), indicating a draft state."
+}

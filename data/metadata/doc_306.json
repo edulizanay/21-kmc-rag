@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_306",
+  "filename": "Risk Management Report.docx",
+  "file_type": "docx",
+  "summary": "This document is a formal Risk Management Report outlining the risk assessment activities for the AI Doctor & Patient Consultation Platform. It details the risk control measures implemented, confirms that overall residual risks are acceptable, and references related Standard Operating Procedures for software development and clinical evaluation. The report serves as evidence of compliance with quality management systems for medical device development.",
+  "topic_tags": [
+    "Risk Management",
+    "Quality Management System",
+    "Medical Device Compliance",
+    "Product Safety",
+    "Regulatory Affairs"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/Risk Management Report.docx",
+  "file_size": "10343",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Claims zero unacceptable risks remaining; references 'medical device' classification implying strict regulatory oversight."
+}

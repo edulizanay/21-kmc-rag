@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_144",
+  "filename": "Prompts - Psychologist - Seniors Welcome V1.docx",
+  "file_type": "docx",
+  "summary": "This document contains performance feedback notes in Spanish regarding AI latency, translation errors, and interaction quality, alongside a deprecated system prompt for a psychologist persona named Joaquin. The prompt instructs the AI to adopt a warm, Simon Sinek-inspired style and share fictional personal details to build rapport with elderly users. It outlines specific interaction rules such as asking one question at a time to avoid overwhelming the user.",
+  "topic_tags": [
+    "Prompt Engineering",
+    "AI Persona",
+    "Product Feedback",
+    "Deprecated Assets",
+    "Elderly Care"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/2. Prompts Bank/0. Deprecated Bank/Prompts - Psychologist - Seniors Welcome V1.docx",
+  "file_size": "115226",
+  "folder": "3. Product/0. Deprecated/2. Prompts Bank/0. Deprecated Bank",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Persona details reference 'Providencia' and 'Icha', suggesting a Latin American test market origin rather than the current UK/NHS focus; folder path explicitly marks this as deprecated."
+}

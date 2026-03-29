@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_346",
+  "filename": "Audit Report.docx",
+  "file_type": "docx",
+  "summary": "This document is an Audit Report for the AI Phone Intake Service confirming compliance with the ISO 13485:2016 standard. It states that no major or minor nonconformities were found and no corrective actions are required at this time. The report concludes that the quality management system is effectively implemented and maintained.",
+  "topic_tags": [
+    "ISO 13485",
+    "Quality Management System",
+    "Regulatory Compliance",
+    "AI Phone Intake Service",
+    "Audit Report"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/7. Post Market (Templates)/Audit Report.docx",
+  "file_size": "10627",
+  "folder": "7. Administratives/3. QMS Documentation/7. Post Market (Templates)",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document path indicates 'Templates' but content appears to be a finalized conclusion; however, specific finding sections (2.1-2.3) are marked 'PENDING', suggesting a potential draft or template inconsistency."
+}

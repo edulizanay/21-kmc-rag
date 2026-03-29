@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_231",
+  "filename": "nhs_digital_clinical_risk_management_system_template.docx",
+  "file_type": "docx",
+  "summary": "This document outlines a Clinical Risk Management System (CRMS) template designed to ensure healthcare IT safety within the organization. It defines key roles such as the Clinical Safety Officer and CEO, and establishes governance frameworks aligned with NHS Digital standards like DCB0129 and DCB0160. The policy details the processes for risk management, audit, and compliance regarding patient safety in IT systems.",
+  "topic_tags": [
+    "Clinical Safety",
+    "NHS Compliance",
+    "Risk Management",
+    "Governance",
+    "Healthcare IT"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents/nhs_digital_clinical_risk_management_system_template.docx",
+  "file_size": "219061",
+  "folder": "7. Administratives/2. UK Regulations/2. DTAC/1. Compliance Documents",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific executive names (Eduardo Lizana, Rodrigo Orpis) and placeholder citations [1, 2, 3, 4] indicating it is a draft template."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_442",
+  "filename": "The case for the private sector.docx",
+  "file_type": "docx",
+  "summary": "This document outlines an internal strategic proposal for a business model where the company manages operations for independent doctors to create private clinics. It details the value proposition for clinicians seeking autonomy, the proposed tech-enabled back office solution, and comparisons against large clinic systems. The text highlights strategic uncertainties regarding long-term value and operational challenges like scheduling and insurance.",
+  "topic_tags": [
+    "Business Model",
+    "Strategic Planning",
+    "Healthcare Operations",
+    "Private Practice",
+    "AI Automation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/3. OS for Healthcare/The case for the private sector.docx",
+  "file_size": "18353",
+  "folder": "2. Company Plans/3. OS for Healthcare",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Notable context mismatch: Document discusses private sector clinics and uses 'dollars' despite UK/NHS context (CQC, GP). Suggests potential pivot or outdated draft. Placeholder typo 'd' under Team section."
+}

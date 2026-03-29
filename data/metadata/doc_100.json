@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_100",
+  "filename": "Demos - Patient_s Profiles.docx",
+  "file_type": "docx",
+  "summary": "This document outlines three fictional patient case studies used for product demonstrations, detailing symptoms, history, and diagnostic reasoning. Each profile includes structured medical data such as age, occupation, and specific health complaints alongside AI-generated differential diagnoses. The content illustrates the AI agent's capability to analyze symptoms and suggest conditions like IBS, COPD, or Rheumatoid Arthritis.",
+  "topic_tags": [
+    "Product Demo",
+    "Medical Triage",
+    "AI Diagnostics",
+    "Patient Cases",
+    "Health Tech"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/Demos - Patient_s Profiles.docx",
+  "file_size": "9782",
+  "folder": "3. Product/9. Demos",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains names and medical details that mimic real patient data; likely synthetic but requires verification that these are not real patient records before ingestion."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_418",
+  "filename": "Implementation Playbook.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the operational and legal implementation playbook for deploying AI phone agents at NHS GP practices. It details internal setup steps like patient list management, telephony integration with Surgery Connect, and required legal agreements such as NDAs and Data Sharing Agreements. It also includes action items for creating FAQs and onboarding outlines for clients.",
+  "topic_tags": [
+    "Implementation",
+    "Legal Compliance",
+    "Operational Procedures",
+    "NHS Integration",
+    "Data Security"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/8. Pilots/13. Implementation/Implementation Playbook.docx",
+  "file_size": "8185",
+  "folder": "8. Pilots/13. Implementation",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains mixed English and Spanish instructions; references handling of patient PII (full name, date of birth)."
+}

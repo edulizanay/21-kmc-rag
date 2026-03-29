@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_336",
+  "filename": "Instructions for Use.docx",
+  "file_type": "docx",
+  "summary": "This document is the Instructions for Use (IFU) for the AI Doctor & Patient Consultation Platform, detailing its intended purpose within UK GP practices. It outlines the device's functionality, including voice-based patient verification and data transmission, along with safety warnings and compliance with NHS and GDPR standards. The text specifies that the system is software-only, does not replace medical professionals, and is designed to assist with appointment requests and health information collection.",
+  "topic_tags": [
+    "Medical Device Software",
+    "GDPR Compliance",
+    "AI Healthcare",
+    "Product Instructions",
+    "NHS Standards"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical/Instructions for Use.docx",
+  "file_size": "60138",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/5. Technical",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Release date is November 2024, which may be future-dated; claims 'No contraindications' for an AI medical tool which is a significant legal statement."
+}

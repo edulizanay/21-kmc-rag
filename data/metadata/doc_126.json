@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_126",
+  "filename": "Families UX_UI - Features and Channels Prioritization.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel document outlines feature prioritization for the Families UX/UI, mapping capabilities like emotional signaling and usage tracking across communication channels such as WhatsApp and Email. It includes specific message templates for notifying caregivers about senior well-being and contains sample data tables tracking weekly usage minutes and emotional trends for a user named Sergio. The file details the logic for automated notifications based on AI-detected emotions and call duration.",
+  "topic_tags": [
+    "Product Roadmap",
+    "UX/UI Design",
+    "Caregiver Features",
+    "AI Logic",
+    "Deprecated Assets"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/7. Families UX-UI/Families UX_UI - Features and Channels Prioritization.xlsx",
+  "file_size": "188011",
+  "folder": "3. Product/0. Deprecated/7. Families UX-UI",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific internal email addresses and names (Sergio, Eduardo) within sample data tables; located in a deprecated folder suggesting outdated product logic."
+}

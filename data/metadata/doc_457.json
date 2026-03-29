@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_457",
+  "filename": "Conversation History.docx",
+  "file_type": "docx",
+  "summary": "This document contains a raw conversation log between an AI health agent and a user named Cristina during a testing phase. The AI attempts to triage stomach pain symptoms, asking for medical history and medication details, while the user provides fragmented responses. It highlights the current capabilities and interaction patterns of the KeepMeCompany AI agent.",
+  "topic_tags": [
+    "AI Testing",
+    "Healthcare",
+    "User Interaction",
+    "Symptom Triage",
+    "Product Development"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/Tests/1. Cristina Clavero/Conversation History.docx",
+  "file_size": "8929",
+  "folder": "0. Research/4. Users Testing/Tests/1. Cristina Clavero",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains PII (name, age) and PHI (symptoms, meds). User is 32 years old despite target demographic being elderly care. AI responses show repetition and potential hallucination on medication names."
+}

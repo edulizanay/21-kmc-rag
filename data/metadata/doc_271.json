@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_271",
+  "filename": "EU Declaration of Conformity - 1_13_25, 12_56 PM.pdf",
+  "file_type": "pdf",
+  "summary": "This document is an EU Declaration of Conformity certifying KeepMeCompany's AI Doctor & Patient Consultation Platform as a Class I medical device under MDR 2017/745. It details the regulatory justification for the classification, lists applicable technical standards, and includes signature details from the CEO and regulatory contacts. The document confirms the software functions solely as a communication tool without diagnostic decision-making capabilities.",
+  "topic_tags": [
+    "Regulatory Compliance",
+    "Medical Device Regulation",
+    "Quality Management System",
+    "Product Classification",
+    "Legal Documentation"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/2. Product/EU Declaration of Conformity - 1_13_25, 12_56 PM.pdf",
+  "file_size": "146570",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/2. Product",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Regulatory contact email uses formly.ai domain while manufacturer is keepmecompanyltd; document dated January 2025."
+}

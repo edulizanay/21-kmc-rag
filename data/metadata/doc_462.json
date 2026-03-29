@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_462",
+  "filename": "Conversation History.docx",
+  "file_type": "docx",
+  "summary": "This document contains a raw conversation log between a user named Javier and the KeepMeCompany AI agent during a testing phase. The interaction simulates a medical consultation regarding back pain, highlighting the AI's information gathering process and response patterns. It reveals repetitive phrasing in the AI's responses during the simulated triage.",
+  "topic_tags": [
+    "AI Testing",
+    "Medical Triage",
+    "Conversation Log",
+    "User Experience",
+    "Health Tech"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/4. Users Testing/Tests/0. Javier Robles/Conversation History.docx",
+  "file_size": "9100",
+  "folder": "0. Research/4. Users Testing/Tests/0. Javier Robles",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "AI exhibits repetitive looping behavior; contains PII (Name, Age) and PHI (Medical symptoms) despite being a test file."
+}

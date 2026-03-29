@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_002",
+  "filename": "Cold Call Script – GP Practices (Manchester).docx",
+  "file_type": "docx",
+  "summary": "The document outlines a cold calling script for contacting GP practices in Manchester to pitch KeepMeCompany's AI anamnesis service, including specific dialogue for handling receptionists. It also lists interview questions for a Sales & Business Development role, focusing on industry knowledge, tech aptitude, and resilience. This material reflects the company's go-to-market strategy and hiring criteria for expanding into NHS practices.",
+  "topic_tags": [
+    "Sales Strategy",
+    "Hiring",
+    "NHS Outreach",
+    "AI Value Proposition",
+    "Cold Calling"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/Cold Call Script – GP Practices (Manchester).docx",
+  "file_size": "8798",
+  "folder": "4. Sales",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific NHS email address (uumeadi@nhs.net) which is PII. Reveals specific sales tactics and target location."
+}

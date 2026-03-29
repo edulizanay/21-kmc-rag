@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_475",
+  "filename": "Pre-Diagnosis Competition - Mediktor Cough.docx",
+  "file_type": "docx",
+  "summary": "This document contains internal notes and a symptom checklist from a 'Pre-Diagnosis Competition' involving respiratory issues. It includes mixed-language commentary on patient behavior and system output quality, alongside specific clinical indicators like fever and wheezing. The content reflects the testing phase of an AI triage tool intended for GP practices.",
+  "topic_tags": [
+    "symptom-triage",
+    "clinical-notes",
+    "product-feedback",
+    "ai-development",
+    "nhs-pilot"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/10. Research/1. Intake Competition/Pre-Diagnosis Competition - Mediktor Cough.docx",
+  "file_size": "22187",
+  "folder": "0. Research/10. Research/1. Intake Competition",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Mixed Spanish and English text in a UK NHS context document; filename suggests a specific pilot or competition event."
+}

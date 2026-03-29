@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_401",
+  "filename": "Untitled spreadsheet.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a spreadsheet export containing call logs and the system prompt for an AI agent named 'goalsTracker'. It details the instructions used to analyze conversation progress against specific goals, including examples of expected output formats in Spanish. The content reveals the internal prompt engineering logic for tracking user interactions within the elderly care application.",
+  "topic_tags": [
+    "AI Agent",
+    "Prompt Engineering",
+    "Conversation Analytics",
+    "HealthTech",
+    "System Instructions"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/Untitled spreadsheet.xlsx",
+  "file_size": "66721",
+  "folder": "6. Analytics",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "System prompt instructions are in Spanish despite the startup targeting UK NHS practices; filename is generic ('Untitled spreadsheet.xlsx')."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_382",
+  "filename": "Company Plans - Financial Forecast for Redstone.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a financial forecast spreadsheet detailing projected sales progression and revenue for KeepMeCompany's services. It outlines unit economics including average price per call, monthly call volumes, and growth assumptions for both direct centers and Integrated Care Boards over a multi-year timeline. The data includes specific monthly revenue figures in millions of pounds and signup targets.",
+  "topic_tags": [
+    "Financial Forecast",
+    "Unit Economics",
+    "Revenue Projections",
+    "Business Strategy",
+    "Deprecated"
+  ],
+  "audience": "investors/internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/2. Accelerators-VCs/0. Deprecated/Company Plans - Financial Forecast for Redstone.xlsx",
+  "file_size": "234949",
+  "folder": "5. Finances and VCs/2. Accelerators-VCs/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Located in 'Deprecated' folder; filename references 'Redstone' which may be a project codename."
+}

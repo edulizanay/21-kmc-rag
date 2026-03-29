@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_315",
+  "filename": "SOP Manufacturing.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure outlining the process for transferring product designs to manufacturing sites, whether internal or via contract manufacturers. It details the responsibilities of various teams including Quality, Regulatory Affairs, and Manufacturing Engineering, along with a phase-gate system for managing transfer activities. The SOP ensures compliance with regulatory requirements and maintains design intent during the transition to production.",
+  "topic_tags": [
+    "Quality Management System",
+    "Manufacturing Operations",
+    "Regulatory Compliance",
+    "Supply Chain",
+    "Standard Operating Procedure"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Manufacturing.docx",
+  "file_size": "15183",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document appears truncated mid-sentence at the end; indicates physical hardware manufacturing (BOM, ATE, DMR) which contrasts with the 'AI phone agents' software description."
+}

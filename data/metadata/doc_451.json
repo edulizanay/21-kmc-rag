@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_451",
+  "filename": "KeepMeCompany UK Deck.pptx",
+  "file_type": "pptx",
+  "summary": "This document is a pitch deck outlining KeepMeCompany's AI-powered phone agent solution for UK GP practices. It details the problem of GP capacity decline, the proposed technical solution for symptom gathering and EHR integration, and projected financial savings for the NHS. The deck concludes with the business model based on savings sharing and introduces the founding team.",
+  "topic_tags": [
+    "AI Healthcare",
+    "NHS GP",
+    "Business Model",
+    "Pitch Deck",
+    "Elderly Care"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/2. Phone Calls/KeepMeCompany UK Deck.pptx",
+  "file_size": "1779646",
+  "folder": "2. Company Plans/2. Phone Calls",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains specific financial projections and revenue share model (25% of savings) which may be sensitive."
+}

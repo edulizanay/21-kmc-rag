@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_307",
+  "filename": "SOP Change Management.docx",
+  "file_type": "docx",
+  "summary": "This document is a Standard Operating Procedure (SOP) defining the change management process for released software products within the company. It details the classification of changes into bug fixes or change requests and outlines the evaluation workflow involving product, quality, and software teams to ensure regulatory compliance and risk management. The procedure mandates involvement of a Notified Body for significant changes affecting device safety.",
+  "topic_tags": [
+    "Quality Management System",
+    "Change Management",
+    "Medical Device Regulation",
+    "Software Lifecycle",
+    "Risk Assessment"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance/SOP Change Management.docx",
+  "file_size": "11265",
+  "folder": "7. Administratives/3. QMS Documentation/1. Released Documents/3. Quality Management and Assurance",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Confirms the company treats its AI agents as regulated medical devices requiring Notified Body approval for significant changes."
+}

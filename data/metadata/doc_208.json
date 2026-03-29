@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_208",
+  "filename": "CE Marking - Instructions for Use - ES Translation.docx",
+  "file_type": "docx",
+  "summary": "This document is a Spanish-language user manual for KeepMeCompany's AI Admission Service, detailing how patients interact with the phone agent for appointment scheduling. It outlines safety protocols, emphasizing that the system is not for emergencies, and describes the data encryption and deletion processes used to protect patient information. The document also provides specific contact information for support and notes the version history.",
+  "topic_tags": [
+    "Product Documentation",
+    "AI Voice Agent",
+    "Data Protection",
+    "Healthcare Compliance",
+    "User Instructions"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)/CE Marking - Instructions for Use - ES Translation.docx",
+  "file_size": "9189",
+  "folder": "7. Administratives/2. UK Regulations/5. CE Marking (Formly Backups)",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Filename references UK Regulations but document is CE Marking (EU) and in Spanish; contains specific employee email address."
+}

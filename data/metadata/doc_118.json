@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_118",
+  "filename": "Product - Supervisor Planning.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the technical architecture for the AI agent's supervisor flow, defining inputs and outputs for components like the Supervisor, Prompter, and Talker. It includes developer notes on latency concerns and requirements for parametrizing response extraction functions. Although located in a deprecated folder, it captures early architectural decisions regarding the phone agent system.",
+  "topic_tags": [
+    "AI Architecture",
+    "Product Development",
+    "Technical Planning",
+    "Deprecated",
+    "Agent Workflow"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/0. Deprecated/6. Supervisor Flow/Product - Supervisor Planning.docx",
+  "file_size": "7298",
+  "folder": "3. Product/0. Deprecated/6. Supervisor Flow",
+  "content_type": "mixed",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in a deprecated folder; contains incomplete syntax and placeholder questions indicating early-stage drafting."
+}

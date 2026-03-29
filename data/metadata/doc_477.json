@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_477",
+  "filename": "ES Market - Depth Research.docx",
+  "file_type": "docx",
+  "summary": "This document provides a comprehensive market analysis of the General Practitioner industry in Spain, covering healthcare system structure, funding, and workforce demographics. It details specific financial metrics such as GP salaries, capitation payments, and consultation costs within the Spanish National Health System. The report compares Spanish models to other EU countries but focuses primarily on the Spanish regulatory and operational landscape.",
+  "topic_tags": [
+    "Spain Healthcare",
+    "GP Market Research",
+    "Primary Care",
+    "Health Economics",
+    "European Healthcare"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/0. Research/5. Markets/ES Market - Depth Research.docx",
+  "file_size": "391958",
+  "folder": "0. Research/5. Markets",
+  "content_type": "mixed",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document focuses on Spain (ES) while KeepMeCompany targets UK NHS; financial data specific to Spanish system may not apply to UK operations."
+}

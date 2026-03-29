@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_201",
+  "filename": "Software Asset and Configuration Management.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's internal policies for tracking software assets and managing configurations to ensure data security. It details processes for inventory maintenance, vulnerability assessment, and regular compliance audits. The text emphasizes the role of the IT Asset Management team in maintaining system integrity.",
+  "topic_tags": [
+    "IT Security",
+    "Compliance",
+    "Software Asset Management",
+    "Internal Policy",
+    "Vulnerability Management"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Software Asset and Configuration Management.docx",
+  "file_size": "8571",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Folder categorization implies data protection focus, but content is general IT asset management."
+}

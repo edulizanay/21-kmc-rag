@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_161",
+  "filename": "Inputs_Outputs.xlsx",
+  "file_type": "xlsx",
+  "summary": "This document is a deprecated engineering spreadsheet containing system prompts and conversation logs for an AI voice agent. It outlines specific logic for appointment scheduling and user interaction constraints in Spanish, using a dental clinic scenario as an example.",
+  "topic_tags": [
+    "prompt-engineering",
+    "voice-ai",
+    "engineering-data",
+    "conversation-flow",
+    "deprecated"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated/Inputs_Outputs.xlsx",
+  "file_size": "246623",
+  "folder": "1. Engineering/5. ElevenLabs Cached Messages/0. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Content is in Spanish and references a Chilean address (Providencia) rather than UK NHS context; located in deprecated folder."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_359",
+  "filename": "freeland-coworking--f2024-0489-pdf_1442953337.pdf",
+  "file_type": "pdf",
+  "summary": "This document is a simplified invoice from Freeland Studio, SL for coworking desk rental addressed to Eduardo Lizana. It details the billing period from October to November 2024, totaling 115.00 EUR including VAT, and confirms payment via RectificadaCard. The footer includes legal compliance information regarding data protection and company registration.",
+  "topic_tags": [
+    "invoices",
+    "operational-expenses",
+    "coworking",
+    "spain",
+    "finance"
+  ],
+  "audience": "investors",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/5. Finances and VCs/1. Facturas/freeland-coworking--f2024-0489-pdf_1442953337.pdf",
+  "file_size": "49766",
+  "folder": "5. Finances and VCs/1. Facturas",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Invoice is in Spanish from Madrid, while startup focuses on UK NHS; indicates founder location or remote setup."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_063",
+  "filename": "Brochure Clínicas Privadas España - Para Imprimir.pptx",
+  "file_type": "pptx",
+  "summary": "This sales brochure targets private clinics in Spain, outlining KeepMeCompany's AI phone agent value proposition and clinical outcome metrics. It details security protocols such as ISO 13485 compliance and AES-256 encryption while emphasizing physician control over AI interactions. Contact information for a sales representative and a free trial offer are also provided.",
+  "topic_tags": [
+    "Sales Materials",
+    "AI Healthcare",
+    "Data Security",
+    "Spain Market",
+    "Clinical Metrics"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/4. Sales/4. Sales Materials/6. Brochures/Brochure Clínicas Privadas España - Para Imprimir.pptx",
+  "file_size": "981938",
+  "folder": "4. Sales/4. Sales Materials/6. Brochures",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document targets Spain private clinics, conflicting with UK NHS focus in system prompt. Contains PII (email and phone number)."
+}

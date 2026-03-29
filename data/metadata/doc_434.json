@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_434",
+  "filename": "Company Plans - Building the Mission and the Vision.docx",
+  "file_type": "docx",
+  "summary": "This document outlines the deprecated mission and vision for KeepMeCompany, originally drafted in Spanish. It defines the target audience as families of elderly relatives and proposes a platform to increase interaction touchpoints. Long-term goals include global expansion and additional services like caregiver coordination and gift delivery.",
+  "topic_tags": [
+    "mission",
+    "vision",
+    "strategy",
+    "elderly care",
+    "deprecated"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/2. Company Plans/1. Deprecated/Company Plans - Building the Mission and the Vision.docx",
+  "file_size": "729277",
+  "folder": "2. Company Plans/1. Deprecated",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document is in Spanish despite the startup focusing on UK NHS GP practices; located in 'Deprecated' folder indicating superseded strategy."
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_199",
+  "filename": "Operational Services and Dependencies.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's core AI-driven patient intake services and their technical dependencies, including cloud infrastructure and telephony integration. It details the potential impact of service disruptions on GP practices and outlines mitigation strategies such as redundancy and disaster recovery plans. The analysis serves as an internal overview of operational reliability and security measures for the healthcare platform.",
+  "topic_tags": [
+    "AI Healthcare",
+    "Operational Risk",
+    "Business Continuity",
+    "Tech Stack",
+    "UK Healthcare"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Operational Services and Dependencies.docx",
+  "file_size": "10154",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "structured",
+  "sensitivity_flag": "no",
+  "sniff_test_notes": "Document stored in Compliance/Data Protection folder but content focuses on operational dependencies and business continuity rather than specific legal or regulatory text."
+}

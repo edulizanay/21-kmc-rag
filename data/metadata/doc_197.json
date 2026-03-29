@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_197",
+  "filename": "Data Security Assurance Process for Medical Devices.docx",
+  "file_type": "docx",
+  "summary": "This document outlines KeepMeCompany's data security assurance process for their AI-driven Patient Intake Solution running on Google Cloud. It details policies covering development, deployment, operation, and decommissioning to ensure compliance with GDPR and NHS Data Security Toolkit standards. The text defines roles, responsibilities, and training requirements for maintaining patient data integrity and security.",
+  "topic_tags": [
+    "Data Security",
+    "Compliance",
+    "NHS Regulations",
+    "AI Healthcare",
+    "Google Cloud"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents/Data Security Assurance Process for Medical Devices.docx",
+  "file_size": "9725",
+  "folder": "7. Administratives/2. UK Regulations/1. Data Protection Toolkit/1. Compliance Documents",
+  "content_type": "prose",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Document text appears truncated at the end ('Continuous Improv')."
+}

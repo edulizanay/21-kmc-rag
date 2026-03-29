@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_101",
+  "filename": "Edward Collison - Aug 27th, 2024.docx",
+  "file_type": "docx",
+  "summary": "This document contains two nearly identical patient intake records for a 32-year-old male named Edward, detailing symptoms of Seasonal Allergic Rhinitis. It outlines triggers, patterns, and recommended treatments, likely serving as a test case or demo script for the AI agent's diagnostic capabilities.",
+  "topic_tags": [
+    "Patient Intake",
+    "AI Demo",
+    "Symptom Analysis",
+    "Health Records",
+    "Product Testing"
+  ],
+  "audience": "technical",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/3. Product/9. Demos/Edward Collison - Aug 27th, 2024.docx",
+  "file_size": "7786",
+  "folder": "3. Product/9. Demos",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Patient age (32) contradicts core focus on elderly care; content is duplicated almost verbatim suggesting a template error or test data reuse."
+}

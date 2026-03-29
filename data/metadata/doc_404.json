@@ -1,0 +1,20 @@
+{
+  "doc_id": "doc_404",
+  "filename": "Analythics - Intakes and Triages Market Estimations.xlsx",
+  "file_type": "xlsx",
+  "summary": "This Excel spreadsheet details unit economics and market estimations for KeepMeCompany's AI phone agents within NHS GP practices. It compares labor costs and time savings between human receptionists and the AI Co-Pilot, outlining specific pricing strategies and margin targets. The document includes mixed-language notes regarding cost assumptions and revenue capture goals.",
+  "topic_tags": [
+    "Unit Economics",
+    "Pricing Strategy",
+    "NHS",
+    "Financial Modeling",
+    "AI Agents"
+  ],
+  "audience": "internal",
+  "path_to_original": "/Users/eduardolizana/Documents/6. Companies /1. Companies with Rodrigo/KeepMeCompany/6. Analytics/1. Economic Analysis/Analythics - Intakes and Triages Market Estimations.xlsx",
+  "file_size": "168512",
+  "folder": "6. Analytics/1. Economic Analysis",
+  "content_type": "structured",
+  "sensitivity_flag": "yes",
+  "sniff_test_notes": "Contains mixed English and Spanish internal notes; filename has typo 'Analythics'; margin calculations appear low (8%) suggesting early-stage pricing strategy."
+}
