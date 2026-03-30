@@ -404,5 +404,224 @@
     ],
     "hits": [],
     "misses": []
+  },
+  {
+    "question": "What is the key functional limitation of KeepMeCompany's platform stated in the EU Declaration of Conformity?",
+    "difficulty": "precise",
+    "status": "PASS",
+    "expected": [
+      "doc_271"
+    ],
+    "retrieved": [
+      "doc_188",
+      "doc_200",
+      "doc_223",
+      "doc_245",
+      "doc_254",
+      "doc_269",
+      "doc_271",
+      "doc_272",
+      "doc_479"
+    ],
+    "hits": [
+      "doc_271"
+    ],
+    "misses": []
+  },
+  {
+    "question": "What AI infrastructure providers did KeepMeCompany use according to the Supplier Qualification Checklist?",
+    "difficulty": "precise",
+    "status": "PASS",
+    "expected": [
+      "doc_344"
+    ],
+    "retrieved": [
+      "doc_001",
+      "doc_244",
+      "doc_293",
+      "doc_319",
+      "doc_342",
+      "doc_344",
+      "doc_394",
+      "doc_415"
+    ],
+    "hits": [
+      "doc_344"
+    ],
+    "misses": []
+  },
+  {
+    "question": "How many seniors had tested the KeepMeCompany prototype according to early VC outreach emails?",
+    "difficulty": "precise",
+    "status": "PASS",
+    "expected": [
+      "doc_383"
+    ],
+    "retrieved": [
+      "doc_001",
+      "doc_128",
+      "doc_131",
+      "doc_376",
+      "doc_380",
+      "doc_383",
+      "doc_392",
+      "doc_450"
+    ],
+    "hits": [
+      "doc_383"
+    ],
+    "misses": []
+  },
+  {
+    "question": "What specific NHS access metric example is cited in the ICB sales strategy document?",
+    "difficulty": "precise",
+    "status": "PASS",
+    "expected": [
+      "doc_049"
+    ],
+    "retrieved": [
+      "doc_049",
+      "doc_192",
+      "doc_362",
+      "doc_404",
+      "doc_437",
+      "doc_443"
+    ],
+    "hits": [
+      "doc_049"
+    ],
+    "misses": []
+  },
+  {
+    "question": "What was the name of the AI assistant used in the Madrid city council demo?",
+    "difficulty": "precise",
+    "status": "PASS",
+    "expected": [
+      "doc_098"
+    ],
+    "retrieved": [
+      "doc_098",
+      "doc_111",
+      "doc_156",
+      "doc_164",
+      "doc_180",
+      "doc_330",
+      "doc_458"
+    ],
+    "hits": [
+      "doc_098"
+    ],
+    "misses": []
+  },
+  {
+    "question": "What were the pilot results KeepMeCompany achieved and what did their QOF business case project as additional income for an average practice?",
+    "difficulty": "cross-doc",
+    "status": "PASS",
+    "expected": [
+      "doc_001",
+      "doc_021"
+    ],
+    "retrieved": [
+      "doc_001",
+      "doc_002",
+      "doc_171",
+      "doc_184",
+      "doc_255",
+      "doc_257",
+      "doc_378",
+      "doc_383",
+      "doc_442"
+    ],
+    "hits": [
+      "doc_001"
+    ],
+    "misses": [
+      "doc_021"
+    ]
+  },
+  {
+    "question": "What diseases did the Escalator system monitor for, and which specific disease database document details these conditions?",
+    "difficulty": "cross-doc",
+    "status": "PASS",
+    "expected": [
+      "doc_001",
+      "doc_107"
+    ],
+    "retrieved": [
+      "doc_001",
+      "doc_107",
+      "doc_108",
+      "doc_114",
+      "doc_157"
+    ],
+    "hits": [
+      "doc_001",
+      "doc_107"
+    ],
+    "misses": []
+  },
+  {
+    "question": "What were the founders' backgrounds and how did they describe the problem in their pitch deck?",
+    "difficulty": "cross-doc",
+    "status": "PASS",
+    "expected": [
+      "doc_001",
+      "doc_392"
+    ],
+    "retrieved": [
+      "doc_002",
+      "doc_309",
+      "doc_376",
+      "doc_378",
+      "doc_392",
+      "doc_396",
+      "doc_450",
+      "doc_468",
+      "doc_499"
+    ],
+    "hits": [
+      "doc_392"
+    ],
+    "misses": [
+      "doc_001"
+    ]
+  },
+  {
+    "question": "What was KeepMeCompany's Series B fundraising target?",
+    "difficulty": "unanswerable",
+    "status": "SKIP (unanswerable)",
+    "expected": [],
+    "retrieved": [
+      "doc_131",
+      "doc_188",
+      "doc_255",
+      "doc_330",
+      "doc_367",
+      "doc_383",
+      "doc_392",
+      "doc_397",
+      "doc_446"
+    ],
+    "hits": [],
+    "misses": []
+  },
+  {
+    "question": "Who were KMC's competitors in the US market?",
+    "difficulty": "unanswerable",
+    "status": "SKIP (unanswerable)",
+    "expected": [],
+    "retrieved": [
+      "doc_122",
+      "doc_235",
+      "doc_257",
+      "doc_376",
+      "doc_387",
+      "doc_396",
+      "doc_437",
+      "doc_439",
+      "doc_479"
+    ],
+    "hits": [],
+    "misses": []
   }
 ]

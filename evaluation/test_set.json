@@ -138,5 +138,145 @@
     "expected_answer_contains": [],
     "difficulty": "unanswerable",
     "notes": "KMC never IPO'd. Should trigger 'I don't know'."
+  },
+  {
+    "question": "What is the key functional limitation of KeepMeCompany's platform stated in the EU Declaration of Conformity?",
+    "expected_doc_ids": ["doc_271"],
+    "expected_answer_contains": ["communication", "diagnostic"],
+    "difficulty": "precise",
+    "notes": "EU Declaration explicitly states the platform is a communication tool only, no diagnostic decision-making."
+  },
+  {
+    "question": "What AI infrastructure providers did KeepMeCompany use according to the Supplier Qualification Checklist?",
+    "expected_doc_ids": ["doc_344"],
+    "expected_answer_contains": ["OpenAI", "Azure"],
+    "difficulty": "precise",
+    "notes": "Supplier Qualification Checklist names OpenAI and Microsoft Azure as key providers."
+  },
+  {
+    "question": "How many seniors had tested the KeepMeCompany prototype according to early VC outreach emails?",
+    "expected_doc_ids": ["doc_383"],
+    "expected_answer_contains": ["eight", "8"],
+    "difficulty": "precise",
+    "notes": "VC outreach email states eight seniors tested the prototype."
+  },
+  {
+    "question": "What specific NHS access metric example is cited in the ICB sales strategy document?",
+    "expected_doc_ids": ["doc_049"],
+    "expected_answer_contains": ["54", "Norfolk"],
+    "difficulty": "precise",
+    "notes": "Sales - Reaching ICBs.docx mentions Norfolk and Waveney ICB at 54% access."
+  },
+  {
+    "question": "What was the name of the AI assistant used in the Madrid city council demo?",
+    "expected_doc_ids": ["doc_098"],
+    "expected_answer_contains": ["Sofía", "Sofia"],
+    "difficulty": "precise",
+    "notes": "Demo transcript names the AI assistant Sofía in the Ayuntamiento Madrid demo."
+  },
+  {
+    "question": "What were the pilot results KeepMeCompany achieved and what did their QOF business case project as additional income for an average practice?",
+    "expected_doc_ids": ["doc_001", "doc_021"],
+    "expected_answer_contains": ["87", "16,000"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc: doc_001 has pilot results (87% completion), doc_021 has QOF model projecting £16k additional income."
+  },
+  {
+    "question": "What diseases did the Escalator system monitor for, and which specific disease database document details these conditions?",
+    "expected_doc_ids": ["doc_001", "doc_107"],
+    "expected_answer_contains": ["chest pain", "stroke"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc: doc_001 describes the Escalator system, doc_107 is the diseases database with specific conditions."
+  },
+  {
+    "question": "What were the founders' backgrounds and how did they describe the problem in their pitch deck?",
+    "expected_doc_ids": ["doc_001", "doc_392"],
+    "expected_answer_contains": ["Cornershop", "isolation"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc synthesis: doc_001 has founder bios, doc_392 pitch deck frames the loneliness/isolation problem."
+  },
+  {
+    "question": "What was KeepMeCompany's Series B fundraising target?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "KMC was at pre-seed stage, no Series B. Should trigger 'I don't know'."
+  },
+  {
+    "question": "Who were KMC's competitors in the US market?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "KMC focused on UK/European markets only. US competitor analysis doesn't exist in the corpus."
+  },
+  {
+    "question": "What data retention and deletion policy did KeepMeCompany commit to in its CE marking documentation?",
+    "expected_doc_ids": ["doc_209"],
+    "expected_answer_contains": ["delete", "retention"],
+    "difficulty": "precise",
+    "notes": "CE Marking instructions doc covers data handling obligations including deletion policies."
+  },
+  {
+    "question": "What was KeepMeCompany's revenue status at the time of the PV accelerator application?",
+    "expected_doc_ids": ["doc_376"],
+    "expected_answer_contains": ["revenue", "pre-revenue"],
+    "difficulty": "precise",
+    "notes": "PV accelerator preparation doc states KMC was pre-revenue at time of application."
+  },
+  {
+    "question": "What were the specific chest pain and stroke warning signs the Escalator system monitored for?",
+    "expected_doc_ids": ["doc_107"],
+    "expected_answer_contains": ["chest pain", "stroke"],
+    "difficulty": "precise",
+    "notes": "Escalator diseases database (doc_107) lists the specific conditions and warning symptoms monitored."
+  },
+  {
+    "question": "What companies are cited as examples in the NICE Evidence Standards Framework spreadsheet?",
+    "expected_doc_ids": ["doc_194"],
+    "expected_answer_contains": ["Edwards", "Abbott"],
+    "difficulty": "precise",
+    "notes": "ESF spreadsheet uses real MedTech companies (Edwards Lifesciences, Abbott) as classification examples."
+  },
+  {
+    "question": "What objection-handling language did KeepMeCompany's sales team use for cost-conscious GP practices?",
+    "expected_doc_ids": ["doc_051"],
+    "expected_answer_contains": ["QOF", "cost"],
+    "difficulty": "precise",
+    "notes": "Sell Sell Sell sales doc includes objection-handling scripts framing KMC around QOF income and cost savings."
+  },
+  {
+    "question": "What were KeepMeCompany's pilot results, and what disease conditions did the Escalator system monitor for?",
+    "expected_doc_ids": ["doc_001", "doc_107"],
+    "expected_answer_contains": ["87", "chest pain"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc: doc_001 has pilot completion rates, doc_107 has the specific Escalator conditions list."
+  },
+  {
+    "question": "How did KeepMeCompany's EU regulatory classification compare to the NICE ESF tier system for digital health?",
+    "expected_doc_ids": ["doc_271", "doc_194"],
+    "expected_answer_contains": ["Class I", "tier"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc synthesis: doc_271 has EU MDR Class I classification, doc_194 has NICE ESF tier framework — both govern KMC's regulatory positioning."
+  },
+  {
+    "question": "What KeepMeCompany features did the pitch deck highlight, and what specific QOF codes would those features support?",
+    "expected_doc_ids": ["doc_392", "doc_021"],
+    "expected_answer_contains": ["review", "QOF"],
+    "difficulty": "cross-doc",
+    "notes": "Cross-doc synthesis: doc_392 describes the product features (check-ins, reviews), doc_021 maps those to specific QOF codes that generate income."
+  },
+  {
+    "question": "What was KeepMeCompany's carbon footprint reduction plan?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "No environmental/sustainability documents in the corpus. Should trigger 'I don't know'."
+  },
+  {
+    "question": "What were KeepMeCompany's GDPR data processing agreements with third-party vendors?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "No DPA documents in the corpus. Supplier Qualification Checklist mentions GDPR compliance requirement but no actual DPAs are included."
   }
 ]

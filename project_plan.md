@@ -94,9 +94,7 @@ No paid services needed: no LangGraph Platform, no LangSmith Plus, no Pinecone/W
 │
 ├── evaluation/
 │   ├── test_set.json             # evaluation questions with expected answers
-│   ├── retrieval_log.csv         # structured log of tuning experiments + KPIs
-│   ├── ragas_results/            # RAGAS output per evaluation run
-│   └── retrieval_tuning_plan.md  # methodology for weight tuning
+│   └── ragas_results/            # RAGAS output per evaluation run
 │
 └── tests/                        # unit + integration tests
 ```
@@ -201,16 +199,6 @@ EnsembleRetriever returns top-k Documents:
 ```
 
 The router agent receives these, evaluates quality, and either generates an answer or calls the doc specialist for more detail.
-
-### Experiments log (`evaluation/retrieval_log.csv`)
-
-| experiment_id | timestamp | vector_weight | bm25_weight | k | embedding_model | chunk_size | chunk_overlap | faithfulness | answer_relevancy | context_precision | context_recall | notes |
-|--------------|-----------|---------------|-------------|---|-----------------|------------|---------------|-------------|-----------------|-------------------|----------------|-------|
-| exp_001 | 2026-03-29 | 0.6 | 0.4 | 5 | all-MiniLM-L6-v2 | 512 | 50 | 0.82 | 0.79 | 0.71 | 0.68 | baseline |
-| exp_002 | 2026-03-29 | 0.7 | 0.3 | 5 | all-MiniLM-L6-v2 | 512 | 50 | 0.85 | 0.81 | 0.74 | 0.65 | better precision, slight recall drop |
-| exp_003 | 2026-03-30 | 0.7 | 0.3 | 8 | all-MiniLM-L6-v2 | 512 | 50 | 0.83 | 0.80 | 0.72 | 0.75 | more chunks helped recall |
-
-This is the interview artifact — shows systematic improvement and parameter sensitivity.
 
 ---
 
@@ -373,26 +361,10 @@ This phase has two parts: initial setup, then an iteration loop.
 
 ### Part C — Tuning loop (dedicated agent)
 
-6. **Spawn a dedicated tuning agent.** This is a separate Claude Code agent with a specific mandate and loop:
-
-   **Agent instructions:**
-   - You have access to the test set (`evaluation/test_set.json`) and the retrieval pipeline
-   - Run the full test set against the current config
-   - For each failed/poor retrieval, analyze WHY it failed (wrong chunks returned? right chunks ranked too low? chunk too broad? too narrow?)
-   - Focus on the 80/20: find the most common failure patterns first
-   - Hypothesize a fix (adjust weights? change k? need different chunk size?)
-   - Apply the fix and re-run
-   - Log every experiment to `evaluation/retrieval_log.csv` with params + metrics + analysis
-   - Repeat until metrics plateau or reach acceptable levels
-
-   **Parameter priority (cheap first, expensive last):**
-   - **Cheap** (no re-chunking): `k`, `vector_weight`/`bm25_weight`, metadata filters → just change config and re-run
-   - **Expensive** (re-run Phase 3→4A): `chunk_size`, `chunk_overlap` → only if cheap params aren't enough
-
-   **Detailed methodology in `evaluation/retrieval_tuning_plan.md`.**
+6. **Tuning.** Done iteratively — all decisions and experiments logged in `architectural_decisions.md`. Tuning covered: MMR vs similarity, cross-encoder reranking (reverted), three-stage pipeline (reverted), header stripping fix, section-aware prefixes. Current best: MMR-only hybrid at 87%.
 
 ### Output
-A working, tuned hybrid retrieval system. Experiment log with KPIs and failure analysis for interview discussion.
+A working, tuned hybrid retrieval system. Decisions and experiments logged in `architectural_decisions.md` for interview discussion.
 
 ---
 
