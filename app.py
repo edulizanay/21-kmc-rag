@@ -3,7 +3,10 @@
 
 import json
 import os
+import threading
+import time
 from pathlib import Path
+from queue import Empty, Queue
 
 import pandas as pd
 import streamlit as st
@@ -14,7 +17,7 @@ try:
 except Exception:
     pass
 
-from src.agent import ask_with_sources, get_retriever
+from src.agent import get_retriever, stream_with_sources
 from src.call_cap import check_and_increment
 
 # --- Page config ---
@@ -128,24 +131,89 @@ with chat_tab:
             else:
                 # Call the agent
                 with st.chat_message("assistant"):
-                    with st.spinner("Thinking..."):
-                        result = ask_with_sources(
-                            user_input, st.session_state.messages[:-1]
-                        )
+                    placeholder = st.empty()
+                    placeholder.markdown("*Thinking...*")
 
-                    st.markdown(result["answer"])
-                    if result["sources"]:
+                    event_queue = Queue()
+                    agent_error = [None]
+                    chat_history = st.session_state.messages[:-1]
+
+                    def _run_agent():
+                        try:
+                            for event in stream_with_sources(user_input, chat_history):
+                                event_queue.put(event)
+                        except Exception as exc:
+                            agent_error[0] = exc
+                        finally:
+                            event_queue.put(None)
+
+                    thread = threading.Thread(target=_run_agent, daemon=True)
+                    thread.start()
+
+                    sources = []
+                    source_idx = 0
+                    result = None
+                    done = False
+
+                    while not done:
+                        # Drain all available events
+                        try:
+                            while True:
+                                ev = event_queue.get_nowait()
+                                if ev is None:
+                                    done = True
+                                    break
+                                if ev["type"] == "sources":
+                                    sources = ev["sources"]
+                                elif ev["type"] == "answer":
+                                    result = ev
+                                    done = True
+                                    break
+                        except Empty:
+                            pass
+
+                        if done:
+                            break
+
+                        # Cycle through source filenames in the placeholder
+                        if sources:
+                            name = sources[source_idx % len(sources)]
+                            placeholder.markdown(f"*{name}*")
+                            source_idx += 1
+
+                        time.sleep(0.6)
+
+                    thread.join()
+
+                    # Drain any remaining events after thread finishes
+                    while not event_queue.empty():
+                        ev = event_queue.get_nowait()
+                        if ev is not None and ev["type"] == "answer":
+                            result = ev
+
+                    placeholder.empty()
+
+                    if agent_error[0]:
+                        raise agent_error[0]
+
+                    answer = (
+                        result["answer"] if result else "Sorry, something went wrong."
+                    )
+                    answer_sources = result["sources"] if result else []
+
+                    st.markdown(answer)
+                    if answer_sources:
                         with st.expander("Sources"):
-                            for src in result["sources"]:
+                            for src in answer_sources:
                                 st.markdown(f"- {src}")
 
-                st.session_state.messages.append(
-                    {
-                        "role": "assistant",
-                        "content": result["answer"],
-                        "sources": result["sources"],
-                    }
-                )
+                    st.session_state.messages.append(
+                        {
+                            "role": "assistant",
+                            "content": answer,
+                            "sources": answer_sources,
+                        }
+                    )
 
 # ── Tab 2: Architecture ────────────────────────────────────────────────────────
 
