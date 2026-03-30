@@ -3,6 +3,7 @@
 
 import json
 import os
+import time
 from pathlib import Path
 
 import pandas as pd
@@ -138,16 +139,39 @@ with chat_tab:
                     chat_history = st.session_state.messages[:-1]
                     result = None
 
+                    import threading
                     import time
+                    from queue import Empty, Queue
 
-                    for event in stream_with_sources(user_input, chat_history):
-                        if event["type"] == "sources":
-                            placeholder.markdown(f"*{event['sources'][0]}*")
-                            time.sleep(
-                                1
-                            )  # yield to Tornado event loop to flush websocket update
-                        elif event["type"] == "answer":
-                            result = event
+                    event_queue = Queue()
+
+                    def _run_agent():
+                        try:
+                            for event in stream_with_sources(user_input, chat_history):
+                                event_queue.put(event)
+                        finally:
+                            event_queue.put(None)
+
+                    threading.Thread(target=_run_agent, daemon=True).start()
+
+                    done = False
+                    while not done:
+                        try:
+                            while True:
+                                ev = event_queue.get_nowait()
+                                if ev is None:
+                                    done = True
+                                    break
+                                if ev["type"] == "sources":
+                                    placeholder.markdown(f"*{ev['sources'][0]}*")
+                                elif ev["type"] == "answer":
+                                    result = ev
+                                    done = True
+                                    break
+                        except Empty:
+                            pass
+                        if not done:
+                            time.sleep(0.5)
 
                     placeholder.empty()
 
