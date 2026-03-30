@@ -243,6 +243,15 @@ def ask(question: str) -> str:
     return result["messages"][-1].content
 
 
+def _build_messages(question: str, chat_history: list | None = None) -> list:
+    """Convert chat history + new question into LangGraph message tuples."""
+    MAX_HISTORY_TURNS = 10
+    recent_history = (chat_history or [])[-MAX_HISTORY_TURNS * 2 :]
+    messages = [(msg["role"], msg["content"]) for msg in recent_history]
+    messages.append(("user", question))
+    return messages
+
+
 def ask_with_sources(question: str, chat_history: list | None = None) -> dict:
     """Ask the agent a question and return the answer with source documents.
 
@@ -254,15 +263,7 @@ def ask_with_sources(question: str, chat_history: list | None = None) -> dict:
     """
     import re
 
-    # Keep only the last 10 exchanges to avoid exceeding the LLM context window
-    MAX_HISTORY_TURNS = 10
-    recent_history = (chat_history or [])[-MAX_HISTORY_TURNS * 2 :]
-
-    messages = []
-    for msg in recent_history:
-        messages.append((msg["role"], msg["content"]))
-    messages.append(("user", question))
-
+    messages = _build_messages(question, chat_history)
     result = agent.invoke({"messages": messages})
     answer = result["messages"][-1].content
 
@@ -273,6 +274,39 @@ def ask_with_sources(question: str, chat_history: list | None = None) -> dict:
             sources.extend(re.findall(r"\[Source:\s*([^\]]+)\]", msg.content))
 
     return {"answer": answer, "sources": list(dict.fromkeys(sources))}
+
+
+def stream_with_sources(question: str, chat_history: list | None = None):
+    """Stream agent events, yielding sources as they're found and the final answer.
+
+    Yields dicts of two types:
+      {"type": "sources", "sources": [...]}   — after each tool call with source tags
+      {"type": "answer",  "answer": str, "sources": [...]}  — final result
+    """
+    import re
+
+    messages = _build_messages(question, chat_history)
+    sources = []
+
+    for event in agent.stream({"messages": messages}):
+        for node_name, node_output in event.items():
+            if node_name == "tool_node":
+                for msg in node_output["messages"]:
+                    if isinstance(msg, ToolMessage):
+                        sources.extend(
+                            re.findall(r"\[Source:\s*([^\]]+)\]", msg.content)
+                        )
+                unique = list(dict.fromkeys(sources))
+                if unique:
+                    yield {"type": "sources", "sources": unique}
+            elif node_name == "router":
+                last_msg = node_output["messages"][-1]
+                if not last_msg.tool_calls:
+                    yield {
+                        "type": "answer",
+                        "answer": last_msg.content,
+                        "sources": list(dict.fromkeys(sources)),
+                    }
 
 
 if __name__ == "__main__":

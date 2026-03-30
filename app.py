@@ -3,10 +3,7 @@
 
 import json
 import os
-import threading
-import time
 from pathlib import Path
-from queue import Empty, Queue
 
 import pandas as pd
 import streamlit as st
@@ -17,6 +14,7 @@ try:
 except Exception:
     pass
 
+import src.agent as _agent_mod
 from src.agent import get_retriever, stream_with_sources
 from src.call_cap import check_and_increment
 
@@ -48,6 +46,9 @@ if not st.session_state.get("_retriever_ready"):
     _init_placeholder.empty()
 else:
     _warm_retriever()
+
+# Re-set the module global on every script rerun so it survives module reimports
+_agent_mod._retriever = _warm_retriever()
 
 # --- Constants ---
 
@@ -134,67 +135,16 @@ with chat_tab:
                     placeholder = st.empty()
                     placeholder.markdown("*Thinking...*")
 
-                    event_queue = Queue()
-                    agent_error = [None]
                     chat_history = st.session_state.messages[:-1]
-
-                    def _run_agent():
-                        try:
-                            for event in stream_with_sources(user_input, chat_history):
-                                event_queue.put(event)
-                        except Exception as exc:
-                            agent_error[0] = exc
-                        finally:
-                            event_queue.put(None)
-
-                    thread = threading.Thread(target=_run_agent, daemon=True)
-                    thread.start()
-
-                    sources = []
-                    source_idx = 0
                     result = None
-                    done = False
 
-                    while not done:
-                        # Drain all available events
-                        try:
-                            while True:
-                                ev = event_queue.get_nowait()
-                                if ev is None:
-                                    done = True
-                                    break
-                                if ev["type"] == "sources":
-                                    sources = ev["sources"]
-                                elif ev["type"] == "answer":
-                                    result = ev
-                                    done = True
-                                    break
-                        except Empty:
-                            pass
-
-                        if done:
-                            break
-
-                        # Cycle through source filenames in the placeholder
-                        if sources:
-                            name = sources[source_idx % len(sources)]
-                            placeholder.markdown(f"*{name}*")
-                            source_idx += 1
-
-                        time.sleep(0.6)
-
-                    thread.join()
-
-                    # Drain any remaining events after thread finishes
-                    while not event_queue.empty():
-                        ev = event_queue.get_nowait()
-                        if ev is not None and ev["type"] == "answer":
-                            result = ev
+                    for event in stream_with_sources(user_input, chat_history):
+                        if event["type"] == "sources":
+                            placeholder.markdown(f"*{event['sources'][0]}*")
+                        elif event["type"] == "answer":
+                            result = event
 
                     placeholder.empty()
-
-                    if agent_error[0]:
-                        raise agent_error[0]
 
                     answer = (
                         result["answer"] if result else "Sorry, something went wrong."
