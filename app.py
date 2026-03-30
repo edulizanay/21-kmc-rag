@@ -2,10 +2,17 @@
 # ABOUTME: Three tabs: Chat, Architecture (Graphviz diagrams), and Evaluation (retrieval benchmarks).
 
 import json
+import os
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+
+# Inject Streamlit Cloud secrets into os.environ so downstream code can use os.getenv()
+if hasattr(st, "secrets"):
+    for key, value in st.secrets.items():
+        if isinstance(value, str):
+            os.environ.setdefault(key, value)
 
 from src.agent import ask_with_sources, get_retriever
 from src.call_cap import check_and_increment
