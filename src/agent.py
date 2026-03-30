@@ -201,6 +201,21 @@ def ask(question: str) -> str:
     return result["messages"][-1].content
 
 
+def ask_with_sources(question: str) -> dict:
+    """Ask the agent a question and return the answer with parsed sources.
+
+    Returns {"answer": str, "sources": list[str]} where answer has
+    [Source: ...] tags stripped and sources is a deduplicated list.
+    """
+    import re
+
+    result = agent.invoke({"messages": [("user", question)]})
+    raw = result["messages"][-1].content
+    sources = re.findall(r"\[Source:\s*([^\]]+)\]", raw)
+    clean_answer = re.sub(r"\[Source:\s*[^\]]+\]", "", raw).strip()
+    return {"answer": clean_answer, "sources": list(dict.fromkeys(sources))}
+
+
 if __name__ == "__main__":
     import sys
 

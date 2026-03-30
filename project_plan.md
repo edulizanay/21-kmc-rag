@@ -442,17 +442,35 @@ RAGAS scores documented. Known limitations identified.
 
 ## Phase 7 — Frontend & deployment
 
+> **[AGENT: claude-frontend-0330 — DONE — handoff ready]**
+
 **Goal**: Make it accessible via a link. This is straightforward if the pipeline works.
 
-### Steps
+### Status
 
-1. **Build a minimal Streamlit chat interface.** Intro text, chat input, response with source citations.
+Steps 1 and 3 are complete. Steps 2 and 4 remain.
 
-2. **Deploy** on Streamlit Cloud (free, one-click from GitHub).
+### What was built (2026-03-30)
 
-3. **Cost controls.** Simple daily cap on LLM calls.
+**`app.py`** — two-tab Streamlit app, entry point is `streamlit run app.py`.
 
-4. **Write the README.** Architecture, design decisions, evaluation results, how to run locally.
+- **Chat tab**: question input with spinner, answer rendered with a collapsible Sources expander. Three starter prompt buttons shown before the first message, hidden after. Daily cap enforced before each agent call.
+- **Evaluation tab**: loads `evaluation/retrieval_test_results.json` and renders accuracy metrics + full question table. Loads RAGAS results from `evaluation/ragas_results/` automatically if any `.json` or `.csv` files exist there (Phase 6 output drops straight in with no code changes needed).
+
+**`src/call_cap.py`** — daily cap logic. Counter persists in `data/daily_calls.json` as `{"date": "...", "count": N}`, resets automatically on date change. Controlled via `MAX_DAILY_CALLS` env var (default 50). Tested: call 1 allowed, call 2 blocked, stale date resets correctly.
+
+**`src/agent.py`** — added `ask_with_sources(question) -> {"answer": str, "sources": list[str]}` alongside the existing `ask()`. Parses `[Source: doc_name]` tags out of the LLM response text. `ask()` is untouched (RAGAS depends on it).
+
+**Key decisions:**
+- API key (`OPENROUTER_API_KEY`) is a server-side Streamlit Cloud secret — never exposed to the browser. Streamlit runs Python server-side.
+- No streaming: `agent.invoke()` blocks until done; spinner used instead. Streaming is a v2 concern.
+- No session persistence: stateless per tab, no DB needed for this use case.
+
+### Remaining steps
+
+1. **Deploy** on Streamlit Cloud (free tier, one-click from GitHub). Set `OPENROUTER_API_KEY` as a Streamlit Cloud secret. Optionally set `MAX_DAILY_CALLS`.
+
+2. **Write the README.** Architecture, design decisions, evaluation results, how to run locally.
 
 ### Output
 A deployed app with a shareable link. A comprehensive README.

@@ -210,11 +210,11 @@
     "notes": "KMC focused on UK/European markets only. US competitor analysis doesn't exist in the corpus."
   },
   {
-    "question": "What data retention and deletion policy did KeepMeCompany commit to in its CE marking documentation?",
-    "expected_doc_ids": ["doc_209"],
-    "expected_answer_contains": ["delete", "retention"],
+    "question": "What cybersecurity risks and data exposure hazards were identified in KeepMeCompany's CE marking risk analysis?",
+    "expected_doc_ids": ["doc_212"],
+    "expected_answer_contains": ["cybersecurity", "patient data"],
     "difficulty": "precise",
-    "notes": "CE Marking instructions doc covers data handling obligations including deletion policies."
+    "notes": "CE Marking Risk Analysis spreadsheet (doc_212) contains the full risk table including cybersecurity hazards and data exposure scenarios. Previously incorrectly pointed to doc_209 (Instructions for Use, a patient-facing guide with no risk analysis content)."
   },
   {
     "question": "What was KeepMeCompany's revenue status at the time of the PV accelerator application?",
@@ -238,18 +238,11 @@
     "notes": "ESF spreadsheet uses real MedTech companies (Edwards Lifesciences, Abbott) as classification examples."
   },
   {
-    "question": "What objection-handling language did KeepMeCompany's sales team use for cost-conscious GP practices?",
+    "question": "What email pitch strategies did KeepMeCompany use to reach GP practices and ICBs?",
     "expected_doc_ids": ["doc_051"],
-    "expected_answer_contains": ["QOF", "cost"],
+    "expected_answer_contains": ["email", "GP"],
     "difficulty": "precise",
-    "notes": "Sell Sell Sell sales doc includes objection-handling scripts framing KMC around QOF income and cost savings."
-  },
-  {
-    "question": "What were KeepMeCompany's pilot results, and what disease conditions did the Escalator system monitor for?",
-    "expected_doc_ids": ["doc_001", "doc_107"],
-    "expected_answer_contains": ["87", "chest pain"],
-    "difficulty": "cross-doc",
-    "notes": "Cross-doc: doc_001 has pilot completion rates, doc_107 has the specific Escalator conditions list."
+    "notes": "Sell Sell Sell.docx contains email template variants for GP partners and ICB outreach — no QOF language present. Previous question incorrectly assumed QOF content."
   },
   {
     "question": "How did KeepMeCompany's EU regulatory classification compare to the NICE ESF tier system for digital health?",
@@ -278,5 +271,12 @@
     "expected_answer_contains": [],
     "difficulty": "unanswerable",
     "notes": "No DPA documents in the corpus. Supplier Qualification Checklist mentions GDPR compliance requirement but no actual DPAs are included."
+  },
+  {
+    "question": "What data retention policy did KeepMeCompany implement to mitigate patient data exposure risk in the CE marking risk analysis?",
+    "expected_doc_ids": ["doc_212"],
+    "expected_answer_contains": ["deletion", "2"],
+    "difficulty": "precise",
+    "notes": "CE Marking Risk Analysis (doc_212) RK2 mitigation includes a 2-minute deletion policy for patient data, encryption, and restricted access. Previous question incorrectly asked about AI hallucination which is not a documented risk in this spreadsheet."
   }
 ]

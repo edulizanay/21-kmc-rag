@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What was KeepMeCompany's regulatory classification as a medical device?",
+    "ground_truth": "KeepMeCompany was classified as a Class I Medical Device under EU MDR 2017/745, justified under Rule 11 of Annex VIII — software that merely collects and transmits data without diagnostic or therapeutic decisions. The product held both CE Mark and UKCA Mark approval. Product: \"AI Doctor & Patient Consultation Platform,\" version 1.0, Basic UDI-DI 05070003432004."
+  },
+  {
+    "question": "What is the manufacturer address listed on the EU Declaration of Conformity?",
+    "ground_truth": "The manufacturer address listed on the EU Declaration of Conformity is 3rd Floor, 86-90 Paul Street, London, England, United Kingdom, EC2A 4NE. The legal manufacturer is KeepMeCompany Ltd."
+  },
+  {
+    "question": "Who was responsible for regulatory compliance at KeepMeCompany?",
+    "ground_truth": "Severin Hoegl was the person responsible for regulatory compliance (severin@formly.ai). Rodrigo Orpis served as the authorised representative (rodrigo@keepmecompanyai.com, +34672021492). The document was created by Rodrigo Orpis on 2024-11-11 and approved by Eduardo Lizana and Catalina Munoz on 2025-01-04."
+  },
+  {
+    "question": "How much did non-medical GP visits by lonely seniors cost the UK healthcare system annually?",
+    "ground_truth": "According to the pitch deck, one in five GP visits by seniors are non-medical (social reasons), costing the UK healthcare system $4 billion per year."
+  },
+  {
+    "question": "What was KeepMeCompany's subscription price and expected margin?",
+    "ground_truth": "KeepMeCompany planned to charge £20/month per senior, with expected margins of 65%. They targeted 37 million seniors across 9 countries for an £8.9 billion total annual revenue opportunity."
+  },
+  {
+    "question": "What tech stack did KeepMeCompany use for their backend?",
+    "ground_truth": "KeepMeCompany used Python with Django 4.2 and Django REST Framework for the backend, Django Channels 4 with Daphne for ASGI/WebSocket support, Redis as message broker, Firebase/Firestore as primary database, Google Cloud Storage for blob storage, and Heroku with Docker for deployment."
+  },
+  {
+    "question": "What was the Escalator system and how did it handle medical emergencies?",
+    "ground_truth": "The Escalator was a real-time crisis detection system running during every call. It used two-stage detection (symptom identification then crisis confirmation). Triggers included chest pain, stroke (FAST), breathing difficulty, loss of consciousness, major bleeding, and severe allergic reactions. Actions included Priority-1 goal injection, pausing non-critical goals, disabling GoalsGenerator, and structured clinical handoff. It was CQC-compliant and could call 999 directly."
+  },
+  {
+    "question": "What QOF codes were relevant for asthma patient reviews?",
+    "ground_truth": "AST007 was the relevant QOF code for asthma patient reviews, worth 20 points with thresholds of 45-70%. It requires an annual review including a validated asthma control questionnaire, exacerbation count, inhaler technique assessment, and a written personalised action plan."
+  },
+  {
+    "question": "What service availability target was required for OpenAI's API in the supplier qualification?",
+    "ground_truth": "The Supplier Qualification Checklist specified >= 99.5% uptime for OpenAI's API (via Microsoft Azure Deployment), measured via service status and API logs. The latency target was <= 150ms average. OpenAI was classified as a critical supplier."
+  },
+  {
+    "question": "How did KeepMeCompany's AI companion interact with lonely seniors in Madrid?",
+    "ground_truth": "The AI assistant \"Sofia\" called senior \"Sergio\" on behalf of Ayuntamiento de Madrid. It was a follow-up from a previous call — the assistant asked about social contact, outdoor activity, and attendance at a day centre at Calle Atocha 70. The interaction was entirely in Spanish, with both scripted objectives and ad-hoc responses."
+  },
+  {
+    "question": "What was KeepMeCompany's brochure pitch for private clinics in Spain?",
+    "ground_truth": "The Spanish-language brochure pitched clinician-designed follow-up calls to increase treatment adherence (20% increase) and consultation consistency (30% greater). The model was: clinician defines the plan, AI calls the patient with clinical questions, clinician decides next steps. The first 5 calls were offered free."
+  },
+  {
+    "question": "What is the NICE Evidence Standards Framework classification system for digital health technologies?",
+    "ground_truth": "The NICE ESF uses 8 classifications across 3 tiers. Tier A covers system services (cost savings, no direct patient outcomes). Tier B covers communicating about health, health and care diaries, and promoting good health (self-management). Tier C covers inform, drive, treat, and diagnose (clinical management, likely regulated devices)."
+  },
+  {
+    "question": "How many seniors live alone across the targeted European countries?",
+    "ground_truth": "37 million seniors live alone across 9 targeted countries (US, Germany, France, Italy, UK, Spain, Belgium, Netherlands, Austria). In the UK specifically, 3.3 million seniors live alone out of 11 million total, and over 1 million go months without speaking to anyone."
+  },
+  {
+    "question": "What were the founders' backgrounds before KeepMeCompany?",
+    "ground_truth": "Eduardo Lizana (CEO) was an Industrial Engineer who worked at Cornershop by Uber and Uber in the Americas, with his last role as General Manager leading a 100-person organization turnaround. Rodrigo Orpis (CTO) was a Computer Scientist and Industrial Engineer who worked at Cornershop by Uber and then Deliveroo, launching projects in Europe, Middle East and Asia, ranked in the top 3% of engineering talent. They had over 40 projects together before KMC."
+  },
+  {
+    "question": "What improvements did the AI intake system achieve for patient wait times?",
+    "ground_truth": "The AI intake system reduced patient wait times from 30+ minutes to seconds, achieved 100% call capture, and saved approximately 2 minutes per GP consultation."
+  },
+  {
+    "question": "What was the dementia care QOF code threshold range?",
+    "ground_truth": "The dementia care QOF code DEM004 had a threshold range of 35-70% and was worth 14 points. It required a dementia care plan review."
+  },
+  {
+    "question": "What diseases did the Mediktor assessment identify for a patient with runny nose?",
+    "ground_truth": "The Mediktor assessment identified 8 diseases: Common cold (High probability), COVID Omicron variant (Moderate), Bronchial hyperresponsiveness, Laryngitis, Allergic rhinitis (Low), and Bronchitis, COVID-19, Common cough (Very low probability)."
+  },
+  {
+    "question": "What was KeepMeCompany's adoption strategy for getting customers?",
+    "ground_truth": "KeepMeCompany used a two-phase adoption strategy. First, families pay (20% of market, driven by emotion and convenience). Then, the healthcare system distributes to the remaining 80%, because it is 95% cheaper than treating the symptoms of loneliness."
+  },
+  {
+    "question": "How does quantum computing relate to KeepMeCompany's technology?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. The company's technology documentation does not mention quantum computing."
+  },
+  {
+    "question": "What was KeepMeCompany's IPO valuation?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. KeepMeCompany was an early-stage startup that did not undergo an IPO."
+  },
+  {
+    "question": "What is the key functional limitation of KeepMeCompany's platform stated in the EU Declaration of Conformity?",
+    "ground_truth": "The EU Declaration of Conformity states that the platform does not interpret, analyze, or provide recommendations — it solely collects and transmits patient data. It was classified as Class I under Rule 11."
+  },
+  {
+    "question": "What AI infrastructure providers did KeepMeCompany use according to the Supplier Qualification Checklist?",
+    "ground_truth": "According to the Supplier Qualification Checklist, KeepMeCompany used OpenAI via Microsoft Azure Deployment, classified as a critical supplier, with targets of 99.5% uptime and 150ms latency."
+  },
+  {
+    "question": "How many seniors had tested the KeepMeCompany prototype according to early VC outreach emails?",
+    "ground_truth": "The VC outreach emails mention 4 centres wanting to pilot the system. The emails reference seniors testing the prototype but do not specify an exact number of individual seniors who tested it."
+  },
+  {
+    "question": "What specific NHS access metric example is cited in the ICB sales strategy document?",
+    "ground_truth": "The ICB sales strategy document cites NHS Norfolk and Waveney ICB, which scored only 54% in ease of phone access (July 2024), with 43 GP Practices scoring below 50%."
+  },
+  {
+    "question": "What was the name of the AI assistant used in the Madrid city council demo?",
+    "ground_truth": "The AI assistant used in the Madrid city council (Ayuntamiento de Madrid) demo was named Sofia (\"Sofia, la asistente virtual\")."
+  },
+  {
+    "question": "What were the pilot results KeepMeCompany achieved and what did their QOF business case project as additional income for an average practice?",
+    "ground_truth": "KeepMeCompany processed over 2,000 real patient calls in pilots. The QOF business case projected £56,980 annual revenue from 259 achievable QOF points, with net savings of £50,353 per year and an 8.6x ROI for a 10,000-patient practice."
+  },
+  {
+    "question": "What diseases did the Escalator system monitor for, and which specific disease database document details these conditions?",
+    "ground_truth": "The Escalator system monitored 6 emergency conditions: chest pain, stroke, breathing difficulty, loss of consciousness, major bleeding, and severe allergic reactions. The Escalator Diseases Database (doc_107) details these with structured protocols: FAST (stroke), TIME (chest pain), AIR (breathing), ALERT (consciousness), RED (bleeding), and AVPU (allergic reactions)."
+  },
+  {
+    "question": "What were the founders' backgrounds and how did they describe the problem in their pitch deck?",
+    "ground_truth": "The founders were Eduardo Lizana (CEO), an Industrial Engineer who worked at Cornershop by Uber and Uber in North and South America with his last role as General Manager in charge of a turnaround, and Rodrigo Orpis (CTO), a Computer Scientist and Industrial Engineer who worked at Cornershop by Uber and Deliveroo launching projects in Europe, Middle East and Asia. They had over 40 projects together. The pitch deck described the problem as: lonely seniors get sick faster, families spend money, time and energy when that happens, and one in five GP visits by seniors are non-medical (social reasons), costing the UK healthcare system $4 billion per year."
+  },
+  {
+    "question": "What was KeepMeCompany's Series B fundraising target?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. The company was at an early stage seeking initial investment, with no Series B fundraising documented."
+  },
+  {
+    "question": "Who were KMC's competitors in the US market?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. The company focused on UK and European markets, and no US market competitor analysis exists in the corpus."
+  },
+  {
+    "question": "What cybersecurity risks and data exposure hazards were identified in KeepMeCompany's CE marking risk analysis?",
+    "ground_truth": "The CE marking risk analysis identified two cybersecurity-related risks: RK2 — unauthorized access to patient data due to cybersecurity vulnerabilities, leading to exposure of sensitive patient data and breach of patient confidentiality (probability 1 in 100,000, mitigated by encryption, a two-person team, and 2-minute data deletion policy); and RK4 — data corruption during transmission, where incorrect patient data received by the medical center could lead to misdiagnosis or inappropriate treatment (probability 1 in 1 billion). RK5 addressed failure in automatic data deletion combined with a cyber attack within the retention window, rated at 1 in 10 billion probability."
+  },
+  {
+    "question": "What was KeepMeCompany's revenue status at the time of the PV accelerator application?",
+    "ground_truth": "KeepMeCompany had no revenue at the time of the PV accelerator application. When asked 'Does your startup currently have revenue?' the answer was 'No.' They were seeking $310K in funding for 18 months of financing to reach approximately 9,800 monthly recurring users, which would generate £2.3M ARR."
+  },
+  {
+    "question": "What were the specific chest pain and stroke warning signs the Escalator system monitored for?",
+    "ground_truth": "For chest pain, the Escalator system used the TIME protocol monitoring for: Time ('When did it start?'), Intensity ('How severe?'), Movement ('Does it move anywhere?'), and Extras ('Any other symptoms?'), with immediate 999 triggers for any chest pain, associated breathlessness, or pain spreading to arm/jaw/back. For suspected stroke, it used the FAST protocol: Face ('Can they smile normally?'), Arms ('Can they lift both arms?'), Speech ('Is speech normal?'), Time ('When did it start?'), with 999 triggers for any single FAST symptom, any loss of consciousness, or when time since symptoms started is known."
+  },
+  {
+    "question": "What companies are cited as examples in the NICE Evidence Standards Framework spreadsheet?",
+    "ground_truth": "The NICE ESF spreadsheet lists over 100 example technologies classified across three tiers. Examples include: Tier A system services like eScription One (Nuance Communications) and PowerMic Mobile (Nuance); Tier B technologies like NHS App, Headspace, Evergreen Life, Celo, Baby Buddy (Best Beginnings), and Calm Harm (Stem4); and Tier C technologies like Acumen IQ (Edwards Lifesciences), HeartFlow FFRCT, Sleepio (Big Health), Bluestar (Welldoc), EyeArt (Eyenuk), RapidAI (iSchemaView), and Kardia Mobile (AliveCor)."
+  },
+  {
+    "question": "What objection-handling language did KeepMeCompany's sales team use for cost-conscious GP practices?",
+    "ground_truth": "The sales documents emphasized pay-as-you-go with no commitment required, 15-minute setup time, specific calculated savings per practice (e.g., 'AI can save [practice_name] ~[monthly_savings] per month'), the framing that 'GPs are your biggest expense today,' and the claim that AI could make GPs approximately 40% more productive. Emails also used NHS survey data showing below-average phone access scores to create urgency."
+  },
+  {
+    "question": "How did KeepMeCompany's EU regulatory classification compare to the NICE ESF tier system for digital health?",
+    "ground_truth": "KeepMeCompany was classified as a Class I Medical Device under EU MDR 2017/745 Rule 11, justified because the software merely collects, stores, and transmits patient data without providing diagnostic or therapeutic recommendations. Under the NICE ESF tier system, this would align most closely with Tier A ('System services') or Tier B ('Communicating about health and care'). Higher-risk Tier C classifications like 'Drive clinical management' or 'Treat specific condition' would correspond to higher EU MDR classes (IIa, IIb, or III)."
+  },
+  {
+    "question": "What KeepMeCompany features did the pitch deck highlight, and what specific QOF codes would those features support?",
+    "ground_truth": "The pitch deck highlighted three main features: daily phone calls to seniors, family notifications keeping families informed, and hospital pre-appointment calls on behalf of healthcare providers. The QOF codes document maps 19 applicable codes including AF006 (Atrial Fibrillation, 12 pts), AST007 (Asthma reviews, 20 pts), SMOK002/SMOK005 (Smoking status, 25 pts each), DEM004 (Dementia care, 14 pts), DEP004 (Depression follow-up, 10 pts), and BP002 (Blood pressure, 15 pts), totaling 259 achievable points worth £56,980 annually per 10,000-patient practice."
+  },
+  {
+    "question": "What was KeepMeCompany's carbon footprint reduction plan?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. No environmental or sustainability documentation exists in the corpus."
+  },
+  {
+    "question": "What were KeepMeCompany's GDPR data processing agreements with third-party vendors?",
+    "ground_truth": "This information is not available in KeepMeCompany's documents. While the Supplier Qualification Checklist mentions GDPR compliance requirements, no actual Data Processing Agreements are included in the corpus."
+  },
+  {
+    "question": "What risk mitigation measures did KeepMeCompany define for AI hallucination in the CE marking process?",
+    "ground_truth": "The CE marking risk analysis does not specifically address AI hallucination as a standalone risk. The five identified risks (RK1-RK5) cover patient identity verification errors, unauthorized data access, data transmission/symptom collection errors, data corruption during transmission, and failure in automatic data deletion. The closest related risk is RK3 (data transmission or symptom collection errors leading to incorrect or incomplete symptom data), but it does not explicitly name AI hallucination."
+  }
+]
