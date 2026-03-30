@@ -11,7 +11,7 @@ import streamlit as st
 # Inject Streamlit Cloud secrets into os.environ so downstream code can use os.getenv()
 try:
     os.environ["OPENROUTER_API_KEY"] = st.secrets["OPENROUTER_API_KEY"]
-except Exception:
+except BaseException:
     pass
 
 import src.agent as _agent_mod
