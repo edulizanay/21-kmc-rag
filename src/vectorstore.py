@@ -90,15 +90,19 @@ def build_hybrid_retriever(
         search_type="mmr",
         search_kwargs={"k": k, "fetch_k": fetch_k},
     )
+    # EnsembleRetriever returns the union of both retrievers (up to 2×k results).
+    # Pipe through a slice to cap the final output at exactly k chunks.
     ensemble = EnsembleRetriever(
         retrievers=[vector_retriever, bm25],
         weights=[vector_weight, bm25_weight],
     )
+    capped = ensemble | (lambda docs: docs[:k])
+
     print(
         f"Hybrid retriever ready (vector={vector_weight}, bm25={bm25_weight}, "
         f"k={k}, fetch_k={fetch_k}, search_type=mmr)"
     )
-    return ensemble
+    return capped
 
 
 def sniff_test(retriever: EnsembleRetriever) -> None:

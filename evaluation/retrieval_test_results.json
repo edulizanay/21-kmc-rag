@@ -13,9 +13,6 @@
       "doc_250",
       "doc_251",
       "doc_269",
-      "doc_279",
-      "doc_291",
-      "doc_292",
       "doc_331",
       "doc_338"
     ],
@@ -36,11 +33,9 @@
     "retrieved": [
       "doc_191",
       "doc_224",
-      "doc_269",
       "doc_271",
       "doc_272",
-      "doc_318",
-      "doc_381"
+      "doc_318"
     ],
     "hits": [
       "doc_271"
@@ -61,9 +56,7 @@
       "doc_223",
       "doc_238",
       "doc_244",
-      "doc_245",
-      "doc_292",
-      "doc_343"
+      "doc_245"
     ],
     "hits": [],
     "misses": [
@@ -78,13 +71,10 @@
       "doc_392"
     ],
     "retrieved": [
-      "doc_256",
       "doc_257",
       "doc_368",
       "doc_374",
       "doc_375",
-      "doc_380",
-      "doc_383",
       "doc_392",
       "doc_404",
       "doc_485"
@@ -102,16 +92,11 @@
       "doc_392"
     ],
     "retrieved": [
-      "doc_006",
-      "doc_131",
-      "doc_176",
       "doc_255",
       "doc_367",
       "doc_382",
       "doc_383",
-      "doc_392",
-      "doc_413",
-      "doc_414"
+      "doc_392"
     ],
     "hits": [
       "doc_392"
@@ -129,7 +114,6 @@
       "doc_001",
       "doc_115",
       "doc_369",
-      "doc_378",
       "doc_383",
       "doc_394"
     ],
@@ -150,8 +134,6 @@
       "doc_106",
       "doc_107",
       "doc_108",
-      "doc_122",
-      "doc_157",
       "doc_492"
     ],
     "hits": [
@@ -168,14 +150,9 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_004",
       "doc_021",
-      "doc_089",
       "doc_107",
-      "doc_114",
-      "doc_211",
-      "doc_292",
-      "doc_333"
+      "doc_114"
     ],
     "hits": [
       "doc_021"
@@ -190,11 +167,8 @@
       "doc_344"
     ],
     "retrieved": [
-      "doc_235",
       "doc_245",
-      "doc_342",
-      "doc_344",
-      "doc_417"
+      "doc_344"
     ],
     "hits": [
       "doc_344"
@@ -209,17 +183,13 @@
       "doc_098"
     ],
     "retrieved": [
-      "doc_001",
-      "doc_002",
       "doc_091",
       "doc_098",
       "doc_122",
-      "doc_131",
       "doc_257",
       "doc_376",
       "doc_380",
-      "doc_392",
-      "doc_495"
+      "doc_392"
     ],
     "hits": [
       "doc_098"
@@ -239,11 +209,8 @@
       "doc_063",
       "doc_064",
       "doc_091",
-      "doc_396",
       "doc_440",
-      "doc_442",
-      "doc_477",
-      "doc_479"
+      "doc_477"
     ],
     "hits": [],
     "misses": [
@@ -278,13 +245,8 @@
       "doc_044",
       "doc_050",
       "doc_056",
-      "doc_157",
-      "doc_188",
       "doc_256",
       "doc_375",
-      "doc_376",
-      "doc_378",
-      "doc_380",
       "doc_392",
       "doc_492"
     ],
@@ -306,16 +268,9 @@
       "doc_045",
       "doc_115",
       "doc_121",
-      "doc_131",
-      "doc_157",
-      "doc_235",
-      "doc_256",
-      "doc_269",
-      "doc_330",
       "doc_376",
       "doc_378",
-      "doc_383",
-      "doc_447"
+      "doc_383"
     ],
     "hits": [
       "doc_001"
@@ -334,15 +289,12 @@
     "retrieved": [
       "doc_001",
       "doc_041",
-      "doc_049",
       "doc_199",
-      "doc_235",
       "doc_354",
       "doc_383",
       "doc_404",
       "doc_413",
-      "doc_447",
-      "doc_479"
+      "doc_447"
     ],
     "hits": [
       "doc_001"
@@ -377,7 +329,6 @@
     ],
     "retrieved": [
       "doc_330",
-      "doc_469",
       "doc_471",
       "doc_472",
       "doc_473"
@@ -395,15 +346,11 @@
       "doc_392"
     ],
     "retrieved": [
-      "doc_002",
       "doc_121",
       "doc_188",
       "doc_257",
       "doc_376",
-      "doc_383",
       "doc_392",
-      "doc_413",
-      "doc_438",
       "doc_445",
       "doc_479"
     ],
@@ -419,16 +366,9 @@
     "expected": [],
     "retrieved": [
       "doc_001",
-      "doc_018",
       "doc_115",
-      "doc_122",
-      "doc_250",
       "doc_372",
-      "doc_394",
-      "doc_437",
-      "doc_442",
-      "doc_451",
-      "doc_479"
+      "doc_394"
     ],
     "hits": [],
     "misses": []
@@ -439,19 +379,14 @@
     "status": "SKIP (unanswerable)",
     "expected": [],
     "retrieved": [
-      "doc_131",
+      "doc_223",
+      "doc_245",
+      "doc_255",
       "doc_257",
-      "doc_269",
-      "doc_330",
-      "doc_367",
       "doc_372",
       "doc_376",
       "doc_381",
-      "doc_386",
-      "doc_392",
-      "doc_447",
-      "doc_450",
-      "doc_497"
+      "doc_392"
     ],
     "hits": [],
     "misses": []
@@ -468,12 +403,9 @@
       "doc_200",
       "doc_223",
       "doc_245",
-      "doc_254",
-      "doc_269",
       "doc_271",
       "doc_272",
-      "doc_381",
-      "doc_479"
+      "doc_381"
     ],
     "hits": [
       "doc_271"
@@ -483,27 +415,23 @@
   {
     "question": "What AI infrastructure providers did KeepMeCompany use according to the Supplier Qualification Checklist?",
     "difficulty": "precise",
-    "status": "PASS",
+    "status": "FAIL",
     "expected": [
       "doc_344"
     ],
     "retrieved": [
       "doc_001",
       "doc_188",
-      "doc_216",
       "doc_244",
       "doc_293",
-      "doc_319",
-      "doc_342",
-      "doc_344",
       "doc_394",
       "doc_415",
       "doc_445"
     ],
-    "hits": [
+    "hits": [],
+    "misses": [
       "doc_344"
-    ],
-    "misses": []
+    ]
   },
   {
     "question": "How many seniors had tested the KeepMeCompany prototype according to early VC outreach emails?",
@@ -514,8 +442,6 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_128",
-      "doc_131",
       "doc_257",
       "doc_376",
       "doc_380",
@@ -538,15 +464,10 @@
       "doc_017",
       "doc_049",
       "doc_192",
-      "doc_235",
       "doc_362",
-      "doc_393",
-      "doc_396",
       "doc_404",
       "doc_420",
-      "doc_437",
-      "doc_443",
-      "doc_445"
+      "doc_443"
     ],
     "hits": [
       "doc_049"
@@ -563,14 +484,9 @@
     "retrieved": [
       "doc_098",
       "doc_111",
-      "doc_131",
-      "doc_151",
       "doc_156",
       "doc_161",
-      "doc_164",
-      "doc_180",
-      "doc_330",
-      "doc_458"
+      "doc_164"
     ],
     "hits": [
       "doc_098"
@@ -587,18 +503,12 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_002",
       "doc_021",
       "doc_089",
-      "doc_131",
-      "doc_171",
       "doc_184",
       "doc_257",
       "doc_372",
-      "doc_378",
-      "doc_442",
-      "doc_450",
-      "doc_479"
+      "doc_450"
     ],
     "hits": [
       "doc_001",
@@ -617,10 +527,7 @@
     "retrieved": [
       "doc_001",
       "doc_107",
-      "doc_108",
-      "doc_114",
-      "doc_157",
-      "doc_247"
+      "doc_108"
     ],
     "hits": [
       "doc_001",
@@ -637,17 +544,11 @@
       "doc_392"
     ],
     "retrieved": [
-      "doc_002",
-      "doc_148",
-      "doc_157",
-      "doc_309",
       "doc_376",
       "doc_378",
       "doc_380",
       "doc_396",
-      "doc_450",
-      "doc_468",
-      "doc_499"
+      "doc_450"
     ],
     "hits": [],
     "misses": [
@@ -661,21 +562,14 @@
     "status": "SKIP (unanswerable)",
     "expected": [],
     "retrieved": [
-      "doc_131",
       "doc_188",
       "doc_255",
       "doc_257",
-      "doc_269",
-      "doc_330",
       "doc_357",
       "doc_367",
       "doc_382",
       "doc_392",
-      "doc_397",
-      "doc_446",
-      "doc_447",
-      "doc_450",
-      "doc_497"
+      "doc_446"
     ],
     "hits": [],
     "misses": []
@@ -686,18 +580,13 @@
     "status": "SKIP (unanswerable)",
     "expected": [],
     "retrieved": [
-      "doc_122",
-      "doc_235",
       "doc_254",
       "doc_257",
       "doc_376",
       "doc_386",
       "doc_387",
       "doc_396",
-      "doc_437",
-      "doc_439",
-      "doc_447",
-      "doc_479"
+      "doc_439"
     ],
     "hits": [],
     "misses": []
@@ -716,12 +605,7 @@
       "doc_222",
       "doc_237",
       "doc_245",
-      "doc_269",
-      "doc_292",
-      "doc_305",
-      "doc_310",
-      "doc_325",
-      "doc_363"
+      "doc_269"
     ],
     "hits": [
       "doc_212"
@@ -737,14 +621,10 @@
     ],
     "retrieved": [
       "doc_255",
-      "doc_326",
-      "doc_330",
       "doc_376",
       "doc_377",
       "doc_383",
-      "doc_392",
-      "doc_450",
-      "doc_451"
+      "doc_392"
     ],
     "hits": [
       "doc_376"
@@ -762,12 +642,7 @@
       "doc_001",
       "doc_106",
       "doc_107",
-      "doc_108",
-      "doc_148",
-      "doc_157",
-      "doc_165",
-      "doc_354",
-      "doc_473"
+      "doc_108"
     ],
     "hits": [
       "doc_107"
@@ -805,15 +680,12 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_002",
       "doc_004",
       "doc_369",
       "doc_370",
       "doc_372",
       "doc_390",
       "doc_391",
-      "doc_393",
-      "doc_424",
       "doc_445"
     ],
     "hits": [],
@@ -833,7 +705,6 @@
       "doc_192",
       "doc_194",
       "doc_250",
-      "doc_251",
       "doc_479"
     ],
     "hits": [
@@ -853,18 +724,12 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_002",
-      "doc_006",
       "doc_045",
-      "doc_062",
       "doc_089",
       "doc_114",
-      "doc_131",
       "doc_184",
       "doc_269",
-      "doc_281",
       "doc_390",
-      "doc_393",
       "doc_451"
     ],
     "hits": [],
@@ -880,20 +745,13 @@
     "expected": [],
     "retrieved": [
       "doc_001",
-      "doc_131",
-      "doc_170",
       "doc_184",
-      "doc_227",
-      "doc_235",
       "doc_255",
       "doc_256",
       "doc_257",
-      "doc_330",
       "doc_357",
       "doc_381",
-      "doc_391",
-      "doc_447",
-      "doc_450"
+      "doc_391"
     ],
     "hits": [],
     "misses": []
@@ -904,13 +762,9 @@
     "status": "SKIP (unanswerable)",
     "expected": [],
     "retrieved": [
-      "doc_235",
-      "doc_239",
-      "doc_242",
       "doc_245",
       "doc_415",
-      "doc_419",
-      "doc_447"
+      "doc_419"
     ],
     "hits": [],
     "misses": []
@@ -924,18 +778,13 @@
     ],
     "retrieved": [
       "doc_001",
-      "doc_078",
       "doc_200",
       "doc_204",
       "doc_212",
-      "doc_220",
       "doc_227",
-      "doc_305",
-      "doc_319",
       "doc_415",
       "doc_416",
-      "doc_419",
-      "doc_422"
+      "doc_419"
     ],
     "hits": [
       "doc_212"

@@ -161,7 +161,15 @@ def run_evaluation(question_indices: list[int] | None = None) -> None:
         print(f"\nEvaluating {len(dataset)} samples with RAGAS...\n", flush=True)
         metrics = [faithfulness, answer_relevancy, context_precision, context_recall]
 
-        results = evaluate(dataset=dataset, metrics=metrics)
+        from ragas import RunConfig
+
+        # context_precision makes ~k sequential LLM calls per question (~34s each).
+        # timeout=300 gives 8 × 34s = 272s headroom; default 120s always fails.
+        results = evaluate(
+            dataset=dataset,
+            metrics=metrics,
+            run_config=RunConfig(timeout=300),
+        )
 
         scores_df = results.to_pandas()
         scores_df.to_csv(scores_path, index=False)
@@ -169,11 +177,14 @@ def run_evaluation(question_indices: list[int] | None = None) -> None:
 
     # Print and save summary
     print("\n=== RAGAS Results ===")
+    import math
+
     summary = {}
     for col in scores_df.columns:
         if scores_df[col].dtype in ("float64", "float32", "int64"):
             mean_score = scores_df[col].mean()
-            summary[col] = round(mean_score, 3)
+            # Store null for all-NaN metrics (e.g. context_precision timing out)
+            summary[col] = None if math.isnan(mean_score) else round(mean_score, 3)
             print(f"  {col}: {mean_score:.3f}")
 
     if not subset_mode:

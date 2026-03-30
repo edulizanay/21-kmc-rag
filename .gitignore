@@ -1,5 +1,4 @@
 .env
-chroma_db/
 __pycache__/
 *.pyc
 .venv/
@@ -11,3 +10,9 @@ chunking_log.txt
 pipeline_log.txt
 _extract_docs.py
 data/_read_docs.py
+chroma_db_backup*/
+evaluation/retrieval_test_results_bm25.json
+evaluation/ragas_dataset_cache_subset_*.json
+evaluation/ragas_results/ragas_scores_subset_*.csv
+architectural_decisions.md
+project_plan.md

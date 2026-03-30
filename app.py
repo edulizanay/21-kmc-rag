@@ -7,7 +7,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from src.agent import ask_with_sources
+from src.agent import ask_with_sources, get_retriever
 from src.call_cap import check_and_increment
 
 # --- Page config ---
@@ -17,6 +17,27 @@ st.set_page_config(
     page_icon="💬",
     layout="centered",
 )
+
+
+# --- Eager retriever init (cached across all sessions) ---
+
+
+@st.cache_resource(show_spinner=False)
+def _warm_retriever():
+    """Load the hybrid retriever once and cache across all Streamlit sessions."""
+    return get_retriever()
+
+
+_init_placeholder = st.empty()
+if not st.session_state.get("_retriever_ready"):
+    with _init_placeholder.status("Loading knowledge base...", expanded=True) as s:
+        st.write("Loading vector store and building search index...")
+        _warm_retriever()
+        s.update(label="Knowledge base ready", state="complete", expanded=False)
+    st.session_state._retriever_ready = True
+    _init_placeholder.empty()
+else:
+    _warm_retriever()
 
 # --- Constants ---
 
@@ -379,21 +400,23 @@ with eval_tab:
         with open(RETRIEVAL_RESULTS_PATH) as f:
             results = json.load(f)
 
-        passed = sum(1 for r in results if r["status"] == "PASS")
-        total = len(results)
-        accuracy = passed / total * 100
+        answerable = [r for r in results if r["difficulty"] != "unanswerable"]
+        passed = sum(1 for r in answerable if r["status"] == "PASS")
+        failed = sum(1 for r in answerable if r["status"] == "FAIL")
+        total = len(answerable)
+        accuracy = passed / total * 100 if total else 0
 
         col1, col2, col3 = st.columns(3)
         col1.metric("Accuracy", f"{accuracy:.0f}%")
         col2.metric("Passed", passed)
-        col3.metric("Failed", total - passed)
+        col3.metric("Failed", failed)
 
         rows = [
             {
                 "Question": f"{i + 1}. {r['question']}",
                 "Status": r["status"],
             }
-            for i, r in enumerate(results)
+            for i, r in enumerate(answerable)
         ]
         df = pd.DataFrame(rows)
         styled = df.style.map(
@@ -434,11 +457,29 @@ with eval_tab:
                 "context_precision",
                 "context_recall",
             ]
+            phase6 = {
+                "faithfulness": 0.587,
+                "answer_relevancy": 0.844,
+                "context_precision": 0.278,
+                "context_recall": 0.300,
+            }
             cols = st.columns(len(metric_keys))
             for col, key in zip(cols, metric_keys):
                 value = ragas_data.get(key)
-                if value is not None:
-                    col.metric(key.replace("_", " ").title(), f"{float(value):.2f}")
+                label = key.replace("_", " ").title()
+                if value is None:
+                    col.metric(label, "N/A")
+                else:
+                    baseline = phase6.get(key)
+                    delta = (
+                        round(float(value) - baseline, 3)
+                        if baseline is not None
+                        else None
+                    )
+                    delta_str = (
+                        f"{delta:+.3f} vs Phase 6" if delta is not None else None
+                    )
+                    col.metric(label, f"{float(value):.3f}", delta=delta_str)
 
             with st.expander("What do these metrics mean?"):
                 st.markdown(
@@ -452,7 +493,34 @@ with eval_tab:
                     "| **Context Precision** | Whether the most relevant chunks are ranked highest in retrieval. "
                     "e.g. asking about founders but the top results are about marketing scores low. |\n"
                     "| **Context Recall** | How much of the ground-truth answer is covered by retrieved context. "
-                    "e.g. if the answer needs 3 key facts but retrieval only finds 1 of them, recall is low. |"
+                    "e.g. if the answer needs 3 key facts but retrieval only finds 1 of them, recall is low. |\n\n"
+                    "---\n\n"
+                    "**Example: what RAGAS sees for one question**\n\n"
+                    "*Input to RAGAS:*\n\n"
+                    "```\n"
+                    "question:          'What is the annual revenue of Acme Corp?'\n"
+                    "answer:            'Acme Corp reported annual revenue of $4.2M in 2023.'\n"
+                    "retrieved_context: [\n"
+                    "  [rank 1] 'Acme Corp 2023 annual report: total revenue $4.2M, up 18% YoY.',  ✓ relevant\n"
+                    "  [rank 2] 'Acme Corp was founded in 2018 and is headquartered in Madrid.',    ✗ not relevant\n"
+                    "  [rank 3] 'Acme Corp revenue breakdown: 60% SaaS, 40% services in 2023.',     ✓ relevant\n"
+                    "  [rank 4] 'Acme Corp hired 50 engineers in Q3 2023.',                         ✗ not relevant\n"
+                    "  [rank 5] 'Acme Corp CEO joined from Google in 2021.',                        ✗ not relevant\n"
+                    "]\n"
+                    "ground_truth:      'Acme Corp had annual revenue of $4.2M in 2023.'\n"
+                    "```\n\n"
+                    "*Output from RAGAS:*\n\n"
+                    "```\n"
+                    "faithfulness:      1.00  ← answer is fully supported by the retrieved chunks\n"
+                    "answer_relevancy:  0.95  ← LLM reverse-generates questions from the answer and measures\n"
+                    "                          cosine similarity to the original; rarely perfect even for\n"
+                    "                          direct answers due to the round-trip through the LLM\n"
+                    "context_precision: 0.83  ← relevant chunks are at ranks 1 and 3\n"
+                    "                          precision@1 = 1/1 = 1.00 (rank 1 is relevant)\n"
+                    "                          precision@3 = 2/3 = 0.67 (2 relevant in top 3)\n"
+                    "                          average over relevant positions = (1.00 + 0.67) / 2 = 0.83\n"
+                    "context_recall:    1.00  ← retrieved context covers everything in the ground truth\n"
+                    "```"
                 )
         else:
             import pandas as pd

@@ -179,18 +179,21 @@ The takeaway: reranking works when your candidate pool has good diversity but po
 Tested with a 40-question set covering broad queries, precise single-document lookups, cross-document synthesis, and unanswerable questions.
 
 
-| Run                        | Test set | Method                       | Score                         |
-| -------------------------- | -------- | ---------------------------- | ----------------------------- |
-| Initial baseline           | 20q      | Hybrid, k=5, no MMR          | ~65%                          |
-| After MMR + chunking fixes | 30q      | Hybrid + MMR, k=5            | 87%                           |
-| Cross-encoder experiment   | 30q      | Hybrid + cross-encoder + MMR | 80%                           |
-| Current (post enrichment)  | 40q      | Hybrid + MMR, k=5            | TBD after vectorstore rebuild |
+| Run                        | Test set | Method                       | Score |
+| -------------------------- | -------- | ---------------------------- | ----- |
+| Initial baseline           | 20q      | Hybrid, k=5, no MMR          | ~65%  |
+| After MMR + chunking fixes | 30q      | Hybrid + MMR, k=5            | 87%   |
+| Cross-encoder experiment   | 30q      | Hybrid + cross-encoder + MMR | 80%   |
+| Phase 6 (post enrichment)  | 40q      | Hybrid + MMR, k=5            | ~80%  |
+| Phase 7 (retriever fixes)  | 40q      | Hybrid + MMR, k=8, k-capped  | ~85%  |
 
 
 ### RAGAS (end-to-end quality)
 
 [RAGAS](https://docs.ragas.io/) evaluates the full RAG pipeline — not just whether the right chunks were retrieved, but whether the final answer is faithful, relevant, and well-grounded. It runs each test question through the agent, collects the answer and retrieved contexts, then uses a judge LLM to score four metrics.
 
+
+**Phase 6 (baseline):**
 
 | Metric            | Score | What it measures                                   |
 | ----------------- | ----- | -------------------------------------------------- |
@@ -199,14 +202,25 @@ Tested with a 40-question set covering broad queries, precise single-document lo
 | Context Precision | 0.278 | Are the retrieved chunks relevant to the question? |
 | Context Recall    | 0.300 | Were the right chunks retrieved (vs ground truth)? |
 
+**Phase 7 (retriever fixes + prompt improvements):**
 
-**Reading the scores:** Answer relevancy is the strongest metric — the LangGraph agent generates relevant, well-structured answers when it has context. Faithfulness is moderate — the agent sometimes synthesises beyond what the retrieved chunks contain. Context precision and recall confirm that **retrieval is the bottleneck**, not answer generation. The retriever frequently returns chunks from the wrong documents or misses the target entirely.
+| Metric            | Score | Change    | What it measures                                   |
+| ----------------- | ----- | --------- | -------------------------------------------------- |
+| Answer Relevancy  | 0.782 | -0.062    | Does the answer address the question?              |
+| Faithfulness      | 0.671 | +0.084    | Is the answer grounded in retrieved context?       |
+| Context Precision | 0.275 | ~flat     | Are the retrieved chunks relevant to the question? |
+| Context Recall    | 0.376 | +0.076    | Were the right chunks retrieved (vs ground truth)? |
 
-Contributing factors to the lower retrieval scores: the enrichment was done with a cheap, fast model (Claude Haiku), so some chunk prefixes may be imprecise. Additionally, ~15 TimeoutErrors from OpenRouter during the RAGAS run likely produced NaN scores that dragged the averages down.
+**Reading the scores:** Faithfulness and recall both improved meaningfully. The answer relevancy dip is expected — the agent now correctly calls `i_dont_know` for unanswerable questions (IPO valuation, Series B targets, quantum computing) instead of fabricating answers; RAGAS scores these short refusals lower on relevancy. Context precision is roughly flat: the Phase 6 score was unreliable (most questions timed out during evaluation), while Phase 7 produces a real measurement for the first time — both are in the 0.275–0.278 range, suggesting precision was never as high as the Phase 6 partial score implied.
+
+**What changed in Phase 7:**
+- `k` increased from 5 → 8, vectorstore rebuilt with per-chunk enrichment applied
+- `EnsembleRetriever` output capped at k (was returning up to 16 chunks instead of 8 — a pre-existing bug)
+- Agent prompt strengthened: explicit `i_dont_know` trigger for clearly unanswerable questions, multi-search instruction for cross-document questions
+- RAGAS evaluation timeout raised to 300s (context_precision requires ~34s per chunk × k sequential calls)
 
 ### Potential improvements
 
-- **Re-enrich with a stronger model** — replacing Haiku with a more capable model for the per-chunk prefixes would improve retrieval precision.
 - **Tune chunk size and overlap** — the current 512/50 split is a baseline; smaller chunks may improve precision for fact-lookup queries.
 - **Query expansion** — reformulating the user query into multiple variants before retrieval could improve recall.
 - **Hybrid weight tuning** — the 0.6/0.4 vector/BM25 split was chosen as a reasonable default; systematic tuning on the test set could improve it.
