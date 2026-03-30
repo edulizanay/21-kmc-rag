@@ -144,7 +144,7 @@ with chat_tab:
                         if event["type"] == "sources":
                             placeholder.markdown(f"*{event['sources'][0]}*")
                             time.sleep(
-                                0.1
+                                1
                             )  # yield to Tornado event loop to flush websocket update
                         elif event["type"] == "answer":
                             result = event
