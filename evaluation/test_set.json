@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What was KeepMeCompany's regulatory classification as a medical device?",
+    "expected_doc_ids": ["doc_271", "doc_001"],
+    "expected_answer_contains": ["Class I", "MDR 2017/745"],
+    "difficulty": "easy",
+    "notes": "EU Declaration doc explicitly states Class I. Summary.md also mentions CE Mark + UKCA Mark."
+  },
+  {
+    "question": "What is the manufacturer address listed on the EU Declaration of Conformity?",
+    "expected_doc_ids": ["doc_271"],
+    "expected_answer_contains": ["86-90 Paul Street", "London", "EC2A4NE"],
+    "difficulty": "precise",
+    "notes": "Only in the EU Declaration doc — tests precise retrieval from a specific document."
+  },
+  {
+    "question": "Who was responsible for regulatory compliance at KeepMeCompany?",
+    "expected_doc_ids": ["doc_271"],
+    "expected_answer_contains": ["Severin"],
+    "difficulty": "precise",
+    "notes": "Severin Hoegl is named in the EU Declaration. Tests retrieval of a specific person's role."
+  },
+  {
+    "question": "How much did non-medical GP visits by lonely seniors cost the UK healthcare system annually?",
+    "expected_doc_ids": ["doc_392"],
+    "expected_answer_contains": ["4 billion"],
+    "difficulty": "precise",
+    "notes": "Pitch deck slide 2: '$4 billion per year' for non-medical visits."
+  },
+  {
+    "question": "What was KeepMeCompany's subscription price and expected margin?",
+    "expected_doc_ids": ["doc_392"],
+    "expected_answer_contains": ["20", "65%"],
+    "difficulty": "easy",
+    "notes": "Pitch deck business model slide: £20/month, 65% expected margins."
+  },
+  {
+    "question": "What tech stack did KeepMeCompany use for their backend?",
+    "expected_doc_ids": ["doc_001"],
+    "expected_answer_contains": ["Django", "Python"],
+    "difficulty": "easy",
+    "notes": "Summary.md has detailed tech stack section with Django 4.2, Python, etc."
+  },
+  {
+    "question": "What was the Escalator system and how did it handle medical emergencies?",
+    "expected_doc_ids": ["doc_001"],
+    "expected_answer_contains": ["crisis", "999"],
+    "difficulty": "easy",
+    "notes": "Summary.md describes the two-stage detection system that calls 999 directly."
+  },
+  {
+    "question": "What QOF codes were relevant for asthma patient reviews?",
+    "expected_doc_ids": ["doc_021"],
+    "expected_answer_contains": ["AST007"],
+    "difficulty": "precise",
+    "notes": "QOF spreadsheet has AST007 with specific asthma review requirements."
+  },
+  {
+    "question": "What service availability target was required for OpenAI's API in the supplier qualification?",
+    "expected_doc_ids": ["doc_344"],
+    "expected_answer_contains": ["99.5"],
+    "difficulty": "precise",
+    "notes": "Supplier Qualification Checklist specifies >= 99.5% uptime target."
+  },
+  {
+    "question": "How did KeepMeCompany's AI companion interact with lonely seniors in Madrid?",
+    "expected_doc_ids": ["doc_098"],
+    "expected_answer_contains": ["Sergio", "Ayuntamiento"],
+    "difficulty": "easy",
+    "notes": "Demo transcript shows a call to Sergio from the Madrid city council assistant."
+  },
+  {
+    "question": "What was KeepMeCompany's brochure pitch for private clinics in Spain?",
+    "expected_doc_ids": ["doc_035"],
+    "expected_answer_contains": ["adherencia", "tratamientos"],
+    "difficulty": "easy",
+    "notes": "Spanish-language brochure for private clinics — tests multilingual retrieval."
+  },
+  {
+    "question": "What is the NICE Evidence Standards Framework classification system for digital health technologies?",
+    "expected_doc_ids": ["doc_194"],
+    "expected_answer_contains": ["ESF", "tier", "classification"],
+    "difficulty": "easy",
+    "notes": "ESF spreadsheet describes the 3-tier, 8-classification system from NICE."
+  },
+  {
+    "question": "How many seniors live alone across the targeted European countries?",
+    "expected_doc_ids": ["doc_392"],
+    "expected_answer_contains": ["37 million"],
+    "difficulty": "precise",
+    "notes": "Pitch deck market slide: 37 million seniors living alone in 9 countries."
+  },
+  {
+    "question": "What were the founders' backgrounds before KeepMeCompany?",
+    "expected_doc_ids": ["doc_392", "doc_001"],
+    "expected_answer_contains": ["Cornershop", "Uber"],
+    "difficulty": "easy",
+    "notes": "Both pitch deck and summary mention Rodrigo and Eduardo's backgrounds at Cornershop/Uber."
+  },
+  {
+    "question": "What improvements did the AI intake system achieve for patient wait times?",
+    "expected_doc_ids": ["doc_001"],
+    "expected_answer_contains": ["30", "seconds"],
+    "difficulty": "easy",
+    "notes": "Summary.md: 'Patient wait time: 30+ minutes → seconds'."
+  },
+  {
+    "question": "What was the dementia care QOF code threshold range?",
+    "expected_doc_ids": ["doc_021"],
+    "expected_answer_contains": ["DEM004", "35-70"],
+    "difficulty": "precise",
+    "notes": "QOF spreadsheet: DEM004 with 35-70% threshold for dementia care plan reviews."
+  },
+  {
+    "question": "What diseases did the Mediktor assessment identify for a patient with runny nose?",
+    "expected_doc_ids": ["doc_473"],
+    "expected_answer_contains": ["Common cold", "COVID"],
+    "difficulty": "precise",
+    "notes": "Mediktor assessment report lists disease matches: common cold (high), COVID variants (moderate)."
+  },
+  {
+    "question": "What was KeepMeCompany's adoption strategy for getting customers?",
+    "expected_doc_ids": ["doc_392"],
+    "expected_answer_contains": ["families", "healthcare system"],
+    "difficulty": "easy",
+    "notes": "Pitch deck: families pay first (emotion/convenience), then governments/insurance (cheaper than treating)."
+  },
+  {
+    "question": "How does quantum computing relate to KeepMeCompany's technology?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "Trick question — no docs about quantum computing. Should trigger 'I don't know'."
+  },
+  {
+    "question": "What was KeepMeCompany's IPO valuation?",
+    "expected_doc_ids": [],
+    "expected_answer_contains": [],
+    "difficulty": "unanswerable",
+    "notes": "KMC never IPO'd. Should trigger 'I don't know'."
+  }
+]
