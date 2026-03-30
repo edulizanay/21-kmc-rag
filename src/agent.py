@@ -78,7 +78,11 @@ def rag_search(query: str) -> str:
     retriever = get_retriever()
     results = retriever.invoke(query)
     if not results:
-        return "No relevant documents found."
+        return (
+            "No relevant documents found for this query. "
+            "Unless you have already retrieved relevant context from a previous search in this session, "
+            "you should call i_dont_know."
+        )
 
     chunks = []
     for doc in results:
@@ -162,7 +166,12 @@ SYSTEM_PROMPT = (
     "an AI-powered healthcare communications startup founded by Eduardo Lizana and Rodrigo Orpis. "
     "Use your tools to search the company's document corpus before answering. "
     "Always ground your answers in the retrieved documents. "
-    "If the documents don't contain enough information, use the i_dont_know tool. "
+    "If the retrieved documents are clearly unrelated to the question, or if rag_search returns "
+    "no results and you have no prior context from an earlier search in this session, "
+    "you MUST call i_dont_know — do not answer from general knowledge. "
+    "For questions that require combining facts from multiple sources "
+    "(e.g. questions about both X and Y, or questions comparing two documents), "
+    "call rag_search multiple times with different focused queries, then synthesize the results. "
     "Be concise and cite which document your answer comes from."
 )
 
@@ -212,15 +221,27 @@ def ask(question: str) -> str:
     return result["messages"][-1].content
 
 
-def ask_with_sources(question: str) -> dict:
+def ask_with_sources(question: str, chat_history: list | None = None) -> dict:
     """Ask the agent a question and return the answer with source documents.
 
     Returns {"answer": str, "sources": list[str]} where sources are
     extracted from the rag_search tool's output in the message history.
+
+    chat_history: list of {"role": "user"|"assistant", "content": str} dicts
+    from prior turns, used to give the agent conversational context.
     """
     import re
 
-    result = agent.invoke({"messages": [("user", question)]})
+    # Keep only the last 10 exchanges to avoid exceeding the LLM context window
+    MAX_HISTORY_TURNS = 10
+    recent_history = (chat_history or [])[-MAX_HISTORY_TURNS * 2 :]
+
+    messages = []
+    for msg in recent_history:
+        messages.append((msg["role"], msg["content"]))
+    messages.append(("user", question))
+
+    result = agent.invoke({"messages": messages})
     answer = result["messages"][-1].content
 
     # Extract sources from tool messages (rag_search embeds [Source: name] tags)

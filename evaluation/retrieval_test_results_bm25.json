@@ -1,0 +1,1139 @@
+{
+  "method": "BM25-only",
+  "k": 5,
+  "score": "23/40",
+  "results": [
+    {
+      "question": "What was KeepMeCompany's regulatory classification as a medical device?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_271"
+      ],
+      "retrieved": [
+        "doc_251",
+        "doc_279",
+        "doc_292",
+        "doc_338"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_271"
+      ],
+      "top_scores": [
+        [
+          "doc_292",
+          18.11
+        ],
+        [
+          "doc_251",
+          17.37
+        ],
+        [
+          "doc_338",
+          17.27
+        ]
+      ]
+    },
+    {
+      "question": "What is the manufacturer address listed on the EU Declaration of Conformity?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_271"
+      ],
+      "retrieved": [
+        "doc_269",
+        "doc_271",
+        "doc_272",
+        "doc_381"
+      ],
+      "hits": [
+        "doc_271"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_272",
+          36.89
+        ],
+        [
+          "doc_269",
+          27.76
+        ],
+        [
+          "doc_271",
+          27.2
+        ]
+      ]
+    },
+    {
+      "question": "Who was responsible for regulatory compliance at KeepMeCompany?",
+      "difficulty": "precise",
+      "status": "FAIL",
+      "expected": [
+        "doc_271"
+      ],
+      "retrieved": [
+        "doc_205",
+        "doc_313",
+        "doc_323",
+        "doc_343",
+        "doc_447"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_271"
+      ],
+      "top_scores": [
+        [
+          "doc_313",
+          19.06
+        ],
+        [
+          "doc_323",
+          18.4
+        ],
+        [
+          "doc_205",
+          17.74
+        ]
+      ]
+    },
+    {
+      "question": "How much did non-medical GP visits by lonely seniors cost the UK healthcare system annually?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_256",
+        "doc_257",
+        "doc_374",
+        "doc_380",
+        "doc_392"
+      ],
+      "hits": [
+        "doc_392"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_256",
+          30.92
+        ],
+        [
+          "doc_392",
+          30.2
+        ],
+        [
+          "doc_374",
+          29.25
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's subscription price and expected margin?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_006",
+        "doc_176",
+        "doc_235",
+        "doc_413",
+        "doc_447"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_392"
+      ],
+      "top_scores": [
+        [
+          "doc_176",
+          15.38
+        ],
+        [
+          "doc_447",
+          14.31
+        ],
+        [
+          "doc_006",
+          13.83
+        ]
+      ]
+    },
+    {
+      "question": "What tech stack did KeepMeCompany use for their backend?",
+      "difficulty": "easy",
+      "status": "PASS",
+      "expected": [
+        "doc_001"
+      ],
+      "retrieved": [
+        "doc_001"
+      ],
+      "hits": [
+        "doc_001"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_001",
+          24.33
+        ],
+        [
+          "doc_001",
+          24.1
+        ],
+        [
+          "doc_001",
+          24.1
+        ]
+      ]
+    },
+    {
+      "question": "What was the Escalator system and how did it handle medical emergencies?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_001"
+      ],
+      "retrieved": [
+        "doc_122",
+        "doc_131",
+        "doc_157"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001"
+      ],
+      "top_scores": [
+        [
+          "doc_122",
+          26.45
+        ],
+        [
+          "doc_131",
+          24.37
+        ],
+        [
+          "doc_157",
+          23.52
+        ]
+      ]
+    },
+    {
+      "question": "What QOF codes were relevant for asthma patient reviews?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_021"
+      ],
+      "retrieved": [
+        "doc_021",
+        "doc_089"
+      ],
+      "hits": [
+        "doc_021"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_021",
+          24.01
+        ],
+        [
+          "doc_021",
+          20.99
+        ],
+        [
+          "doc_021",
+          20.95
+        ]
+      ]
+    },
+    {
+      "question": "What service availability target was required for OpenAI's API in the supplier qualification?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_344"
+      ],
+      "retrieved": [
+        "doc_342",
+        "doc_344"
+      ],
+      "hits": [
+        "doc_344"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_344",
+          34.0
+        ],
+        [
+          "doc_342",
+          22.3
+        ],
+        [
+          "doc_342",
+          22.06
+        ]
+      ]
+    },
+    {
+      "question": "How did KeepMeCompany's AI companion interact with lonely seniors in Madrid?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_098"
+      ],
+      "retrieved": [
+        "doc_122",
+        "doc_131",
+        "doc_257",
+        "doc_392"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_098"
+      ],
+      "top_scores": [
+        [
+          "doc_392",
+          20.27
+        ],
+        [
+          "doc_257",
+          18.48
+        ],
+        [
+          "doc_392",
+          17.64
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's brochure pitch for private clinics in Spain?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_035"
+      ],
+      "retrieved": [
+        "doc_064",
+        "doc_396"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_035"
+      ],
+      "top_scores": [
+        [
+          "doc_064",
+          24.68
+        ],
+        [
+          "doc_396",
+          23.09
+        ],
+        [
+          "doc_396",
+          23.0
+        ]
+      ]
+    },
+    {
+      "question": "What is the NICE Evidence Standards Framework classification system for digital health technologies?",
+      "difficulty": "easy",
+      "status": "PASS",
+      "expected": [
+        "doc_194"
+      ],
+      "retrieved": [
+        "doc_192",
+        "doc_194"
+      ],
+      "hits": [
+        "doc_194"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_194",
+          42.87
+        ],
+        [
+          "doc_194",
+          40.06
+        ],
+        [
+          "doc_192",
+          36.04
+        ]
+      ]
+    },
+    {
+      "question": "How many seniors live alone across the targeted European countries?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_157",
+        "doc_375",
+        "doc_378",
+        "doc_392"
+      ],
+      "hits": [
+        "doc_392"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_157",
+          22.44
+        ],
+        [
+          "doc_392",
+          21.57
+        ],
+        [
+          "doc_375",
+          20.98
+        ]
+      ]
+    },
+    {
+      "question": "What were the founders' backgrounds before KeepMeCompany?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_045",
+        "doc_157",
+        "doc_376"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_392"
+      ],
+      "top_scores": [
+        [
+          "doc_376",
+          14.13
+        ],
+        [
+          "doc_045",
+          13.86
+        ],
+        [
+          "doc_157",
+          13.75
+        ]
+      ]
+    },
+    {
+      "question": "What improvements did the AI intake system achieve for patient wait times?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_001"
+      ],
+      "retrieved": [
+        "doc_131",
+        "doc_211",
+        "doc_235",
+        "doc_346",
+        "doc_354"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001"
+      ],
+      "top_scores": [
+        [
+          "doc_131",
+          22.52
+        ],
+        [
+          "doc_346",
+          20.79
+        ],
+        [
+          "doc_211",
+          20.53
+        ]
+      ]
+    },
+    {
+      "question": "What was the dementia care QOF code threshold range?",
+      "difficulty": "precise",
+      "status": "FAIL",
+      "expected": [
+        "doc_021"
+      ],
+      "retrieved": [
+        "doc_269",
+        "doc_284",
+        "doc_374"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_021"
+      ],
+      "top_scores": [
+        [
+          "doc_269",
+          19.38
+        ],
+        [
+          "doc_284",
+          17.82
+        ],
+        [
+          "doc_269",
+          17.66
+        ]
+      ]
+    },
+    {
+      "question": "What diseases did the Mediktor assessment identify for a patient with runny nose?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_473"
+      ],
+      "retrieved": [
+        "doc_472",
+        "doc_473"
+      ],
+      "hits": [
+        "doc_473"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_473",
+          32.14
+        ],
+        [
+          "doc_473",
+          31.43
+        ],
+        [
+          "doc_473",
+          31.33
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's adoption strategy for getting customers?",
+      "difficulty": "easy",
+      "status": "FAIL",
+      "expected": [
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_383",
+        "doc_479"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_392"
+      ],
+      "top_scores": [
+        [
+          "doc_479",
+          21.55
+        ],
+        [
+          "doc_002",
+          20.98
+        ],
+        [
+          "doc_479",
+          20.03
+        ]
+      ]
+    },
+    {
+      "question": "How does quantum computing relate to KeepMeCompany's technology?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    },
+    {
+      "question": "What was KeepMeCompany's IPO valuation?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    },
+    {
+      "question": "What is the key functional limitation of KeepMeCompany's platform stated in the EU Declaration of Conformity?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_271"
+      ],
+      "retrieved": [
+        "doc_254",
+        "doc_269",
+        "doc_271",
+        "doc_272"
+      ],
+      "hits": [
+        "doc_271"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_272",
+          28.65
+        ],
+        [
+          "doc_271",
+          27.11
+        ],
+        [
+          "doc_269",
+          25.64
+        ]
+      ]
+    },
+    {
+      "question": "What AI infrastructure providers did KeepMeCompany use according to the Supplier Qualification Checklist?",
+      "difficulty": "precise",
+      "status": "FAIL",
+      "expected": [
+        "doc_344"
+      ],
+      "retrieved": [
+        "doc_278",
+        "doc_342"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_344"
+      ],
+      "top_scores": [
+        [
+          "doc_342",
+          33.67
+        ],
+        [
+          "doc_342",
+          31.85
+        ],
+        [
+          "doc_342",
+          26.5
+        ]
+      ]
+    },
+    {
+      "question": "How many seniors had tested the KeepMeCompany prototype according to early VC outreach emails?",
+      "difficulty": "precise",
+      "status": "FAIL",
+      "expected": [
+        "doc_383"
+      ],
+      "retrieved": [
+        "doc_128",
+        "doc_131"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_383"
+      ],
+      "top_scores": [
+        [
+          "doc_128",
+          27.13
+        ],
+        [
+          "doc_128",
+          23.8
+        ],
+        [
+          "doc_131",
+          22.77
+        ]
+      ]
+    },
+    {
+      "question": "What specific NHS access metric example is cited in the ICB sales strategy document?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_049"
+      ],
+      "retrieved": [
+        "doc_049"
+      ],
+      "hits": [
+        "doc_049"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_049",
+          29.37
+        ],
+        [
+          "doc_049",
+          26.22
+        ],
+        [
+          "doc_049",
+          24.43
+        ]
+      ]
+    },
+    {
+      "question": "What was the name of the AI assistant used in the Madrid city council demo?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_098"
+      ],
+      "retrieved": [
+        "doc_098",
+        "doc_111",
+        "doc_180",
+        "doc_330"
+      ],
+      "hits": [
+        "doc_098"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_111",
+          24.75
+        ],
+        [
+          "doc_180",
+          24.71
+        ],
+        [
+          "doc_330",
+          24.35
+        ]
+      ]
+    },
+    {
+      "question": "What were the pilot results KeepMeCompany achieved and what did their QOF business case project as additional income for an average practice?",
+      "difficulty": "cross-doc",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_021"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_131",
+        "doc_378",
+        "doc_442"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_021"
+      ],
+      "top_scores": [
+        [
+          "doc_131",
+          33.39
+        ],
+        [
+          "doc_442",
+          31.57
+        ],
+        [
+          "doc_002",
+          31.22
+        ]
+      ]
+    },
+    {
+      "question": "What diseases did the Escalator system monitor for, and which specific disease database document details these conditions?",
+      "difficulty": "cross-doc",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_107"
+      ],
+      "retrieved": [
+        "doc_108",
+        "doc_114",
+        "doc_157"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_107"
+      ],
+      "top_scores": [
+        [
+          "doc_108",
+          33.68
+        ],
+        [
+          "doc_108",
+          30.47
+        ],
+        [
+          "doc_157",
+          24.04
+        ]
+      ]
+    },
+    {
+      "question": "What were the founders' backgrounds and how did they describe the problem in their pitch deck?",
+      "difficulty": "cross-doc",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_390",
+        "doc_396",
+        "doc_497",
+        "doc_499"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_392"
+      ],
+      "top_scores": [
+        [
+          "doc_499",
+          33.81
+        ],
+        [
+          "doc_396",
+          28.65
+        ],
+        [
+          "doc_497",
+          28.41
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's Series B fundraising target?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    },
+    {
+      "question": "Who were KMC's competitors in the US market?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    },
+    {
+      "question": "What data retention and deletion policy did KeepMeCompany commit to in its CE marking documentation?",
+      "difficulty": "precise",
+      "status": "FAIL",
+      "expected": [
+        "doc_209"
+      ],
+      "retrieved": [
+        "doc_212",
+        "doc_218",
+        "doc_447"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_209"
+      ],
+      "top_scores": [
+        [
+          "doc_212",
+          33.85
+        ],
+        [
+          "doc_212",
+          28.96
+        ],
+        [
+          "doc_212",
+          25.8
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's revenue status at the time of the PV accelerator application?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_376"
+      ],
+      "retrieved": [
+        "doc_326",
+        "doc_376"
+      ],
+      "hits": [
+        "doc_376"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_326",
+          27.16
+        ],
+        [
+          "doc_376",
+          26.6
+        ],
+        [
+          "doc_376",
+          26.48
+        ]
+      ]
+    },
+    {
+      "question": "What were the specific chest pain and stroke warning signs the Escalator system monitored for?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_107"
+      ],
+      "retrieved": [
+        "doc_001",
+        "doc_106",
+        "doc_107",
+        "doc_474"
+      ],
+      "hits": [
+        "doc_107"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_106",
+          37.08
+        ],
+        [
+          "doc_001",
+          25.97
+        ],
+        [
+          "doc_106",
+          25.16
+        ]
+      ]
+    },
+    {
+      "question": "What companies are cited as examples in the NICE Evidence Standards Framework spreadsheet?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_194"
+      ],
+      "retrieved": [
+        "doc_192",
+        "doc_194"
+      ],
+      "hits": [
+        "doc_194"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_192",
+          28.75
+        ],
+        [
+          "doc_194",
+          28.59
+        ],
+        [
+          "doc_192",
+          24.04
+        ]
+      ]
+    },
+    {
+      "question": "What objection-handling language did KeepMeCompany's sales team use for cost-conscious GP practices?",
+      "difficulty": "precise",
+      "status": "PASS",
+      "expected": [
+        "doc_051"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_051"
+      ],
+      "hits": [
+        "doc_051"
+      ],
+      "misses": [],
+      "top_scores": [
+        [
+          "doc_002",
+          19.85
+        ],
+        [
+          "doc_051",
+          18.76
+        ],
+        [
+          "doc_002",
+          18.02
+        ]
+      ]
+    },
+    {
+      "question": "What were KeepMeCompany's pilot results, and what disease conditions did the Escalator system monitor for?",
+      "difficulty": "cross-doc",
+      "status": "FAIL",
+      "expected": [
+        "doc_001",
+        "doc_107"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_006",
+        "doc_108",
+        "doc_131",
+        "doc_157"
+      ],
+      "hits": [],
+      "misses": [
+        "doc_001",
+        "doc_107"
+      ],
+      "top_scores": [
+        [
+          "doc_157",
+          24.87
+        ],
+        [
+          "doc_131",
+          24.75
+        ],
+        [
+          "doc_108",
+          23.99
+        ]
+      ]
+    },
+    {
+      "question": "How did KeepMeCompany's EU regulatory classification compare to the NICE ESF tier system for digital health?",
+      "difficulty": "cross-doc",
+      "status": "PASS",
+      "expected": [
+        "doc_194",
+        "doc_271"
+      ],
+      "retrieved": [
+        "doc_194"
+      ],
+      "hits": [
+        "doc_194"
+      ],
+      "misses": [
+        "doc_271"
+      ],
+      "top_scores": [
+        [
+          "doc_194",
+          37.03
+        ],
+        [
+          "doc_194",
+          34.13
+        ],
+        [
+          "doc_194",
+          30.2
+        ]
+      ]
+    },
+    {
+      "question": "What KeepMeCompany features did the pitch deck highlight, and what specific QOF codes would those features support?",
+      "difficulty": "cross-doc",
+      "status": "PASS",
+      "expected": [
+        "doc_021",
+        "doc_392"
+      ],
+      "retrieved": [
+        "doc_002",
+        "doc_131",
+        "doc_392",
+        "doc_393",
+        "doc_451"
+      ],
+      "hits": [
+        "doc_392"
+      ],
+      "misses": [
+        "doc_021"
+      ],
+      "top_scores": [
+        [
+          "doc_131",
+          37.63
+        ],
+        [
+          "doc_451",
+          35.15
+        ],
+        [
+          "doc_002",
+          27.16
+        ]
+      ]
+    },
+    {
+      "question": "What was KeepMeCompany's carbon footprint reduction plan?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    },
+    {
+      "question": "What were KeepMeCompany's GDPR data processing agreements with third-party vendors?",
+      "difficulty": "unanswerable",
+      "status": "SKIP (unanswerable)",
+      "expected": [],
+      "retrieved": [],
+      "hits": [],
+      "misses": []
+    }
+  ]
+}

@@ -41,8 +41,8 @@ LLM_MODEL = "qwen/qwen3.5-flash-02-23"
 # Retrieval defaults (tuned in Phase 4)
 DEFAULT_VECTOR_WEIGHT = 0.6
 DEFAULT_BM25_WEIGHT = 0.4
-DEFAULT_K = 5
-DEFAULT_FETCH_K = 20  # Larger candidate set for MMR diversity filtering
+DEFAULT_K = 8
+DEFAULT_FETCH_K = 25  # Larger candidate set for MMR diversity filtering (≈3× k)
 RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 RERANK_CANDIDATES = 20  # Fetch this many from hybrid, rerank to top k
 

@@ -1,9 +1,11 @@
 # ABOUTME: Phase 6 — runs RAGAS evaluation over the RAG agent's answers.
 # ABOUTME: Measures faithfulness, answer relevancy, context precision, and context recall.
 
+import argparse
 import json
 import os
 import warnings
+from datetime import datetime
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -52,10 +54,16 @@ context_recall.llm = judge_llm
 DATASET_CACHE_PATH = EVALUATION_DIR / "ragas_dataset_cache.json"
 
 
-def build_ragas_dataset() -> EvaluationDataset:
-    """Run each question through retriever + agent, collect responses and contexts."""
-    # Check for cached dataset (resumes after crashes)
-    if DATASET_CACHE_PATH.exists():
+def build_ragas_dataset(question_indices: list[int] | None = None) -> EvaluationDataset:
+    """Run each question through retriever + agent, collect responses and contexts.
+
+    If question_indices is provided, only those (0-based) questions are processed
+    and the cache is bypassed entirely so fresh agent responses are collected.
+    """
+    subset_mode = question_indices is not None
+
+    # Full run: load from cache if available
+    if not subset_mode and DATASET_CACHE_PATH.exists():
         print(f"Loading cached dataset from {DATASET_CACHE_PATH}...", flush=True)
         with open(DATASET_CACHE_PATH) as f:
             samples = json.load(f)
@@ -68,14 +76,29 @@ def build_ragas_dataset() -> EvaluationDataset:
     with open(ground_truth_path) as f:
         ground_truths = json.load(f)
 
+    if subset_mode:
+        invalid = [i for i in question_indices if i >= len(ground_truths)]
+        if invalid:
+            raise ValueError(
+                f"Question indices out of range (max {len(ground_truths) - 1}): {invalid}"
+            )
+        selected = [(i, ground_truths[i]) for i in question_indices]
+        print(
+            f"Subset mode: running {len(selected)} question(s) "
+            f"(indices {question_indices})\n",
+            flush=True,
+        )
+    else:
+        selected = list(enumerate(ground_truths))
+
     retriever = get_retriever()
 
     samples = []
-    for i, gt in enumerate(ground_truths):
+    for i, gt in selected:
         question = gt["question"]
         reference = gt["ground_truth"]
 
-        print(f"  [{i + 1}/{len(ground_truths)}] {question[:70]}...", flush=True)
+        print(f"  [idx {i}] {question[:70]}...", flush=True)
 
         # Get retrieved contexts
         retrieved_docs = retriever.invoke(question)
@@ -93,31 +116,47 @@ def build_ragas_dataset() -> EvaluationDataset:
             }
         )
 
-    # Cache to disk so we don't lose agent responses on crash
-    with open(DATASET_CACHE_PATH, "w") as f:
-        json.dump(samples, f, indent=2)
-    print(f"\n  Dataset cached to {DATASET_CACHE_PATH}", flush=True)
+    # Always cache agent responses before scoring — safe to re-run scoring if it crashes
+    if subset_mode:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        subset_cache_path = EVALUATION_DIR / f"ragas_dataset_cache_subset_{timestamp}.json"
+        with open(subset_cache_path, "w") as f:
+            json.dump(samples, f, indent=2)
+        print(f"\n  Agent responses cached to {subset_cache_path}", flush=True)
+    else:
+        with open(DATASET_CACHE_PATH, "w") as f:
+            json.dump(samples, f, indent=2)
+        print(f"\n  Dataset cached to {DATASET_CACHE_PATH}", flush=True)
 
     return EvaluationDataset.from_list(samples)
 
 
-def run_evaluation() -> None:
+def run_evaluation(question_indices: list[int] | None = None) -> None:
     """Build dataset, run RAGAS metrics, save results."""
     output_dir = EVALUATION_DIR / "ragas_results"
     output_dir.mkdir(exist_ok=True)
-    scores_cache = output_dir / "ragas_scores.csv"
 
-    # Skip evaluation if scores already exist
-    if scores_cache.exists():
+    subset_mode = question_indices is not None
+
+    if subset_mode:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        scores_path = output_dir / f"ragas_scores_subset_{timestamp}.csv"
+    else:
+        scores_path = output_dir / "ragas_scores.csv"
+
+    # Full run: skip if scores already exist
+    if not subset_mode and scores_path.exists():
         import pandas as pd
 
-        print(f"Loading cached scores from {scores_cache}...", flush=True)
-        scores_df = pd.read_csv(scores_cache)
+        print(f"Loading cached scores from {scores_path}...", flush=True)
+        scores_df = pd.read_csv(scores_path)
     else:
         print(
-            "Building RAGAS dataset (running agent on all questions)...\n", flush=True
+            f"Building RAGAS dataset (running agent on "
+            f"{'selected' if subset_mode else 'all'} questions)...\n",
+            flush=True,
         )
-        dataset = build_ragas_dataset()
+        dataset = build_ragas_dataset(question_indices)
 
         print(f"\nEvaluating {len(dataset)} samples with RAGAS...\n", flush=True)
         metrics = [faithfulness, answer_relevancy, context_precision, context_recall]
@@ -125,8 +164,8 @@ def run_evaluation() -> None:
         results = evaluate(dataset=dataset, metrics=metrics)
 
         scores_df = results.to_pandas()
-        scores_df.to_csv(scores_cache, index=False)
-        print(f"\nDetailed scores saved to {scores_cache}")
+        scores_df.to_csv(scores_path, index=False)
+        print(f"\nDetailed scores saved to {scores_path}")
 
     # Print and save summary
     print("\n=== RAGAS Results ===")
@@ -137,10 +176,31 @@ def run_evaluation() -> None:
             summary[col] = round(mean_score, 3)
             print(f"  {col}: {mean_score:.3f}")
 
-    with open(output_dir / "ragas_summary.json", "w") as f:
-        json.dump(summary, f, indent=2)
-    print(f"Summary saved to {output_dir / 'ragas_summary.json'}")
+    if not subset_mode:
+        with open(output_dir / "ragas_summary.json", "w") as f:
+            json.dump(summary, f, indent=2)
+        print(f"Summary saved to {output_dir / 'ragas_summary.json'}")
 
 
 if __name__ == "__main__":
-    run_evaluation()
+    parser = argparse.ArgumentParser(
+        description="Run RAGAS evaluation on the RAG agent."
+    )
+    parser.add_argument(
+        "--questions",
+        type=str,
+        default=None,
+        help=(
+            "Comma-separated 0-based question indices to evaluate (e.g. '0,3,9'). "
+            "Bypasses cache and writes to a timestamped subset CSV. "
+            "Omit to run the full evaluation."
+        ),
+    )
+    args = parser.parse_args()
+
+    indices = (
+        [int(x.strip()) for x in args.questions.split(",")]
+        if args.questions
+        else None
+    )
+    run_evaluation(indices)
