@@ -68,9 +68,9 @@ chat_tab, eval_tab, arch_tab = st.tabs(["Chat", "Evaluation", "Architecture"])
 # ── Tab 1: Chat ────────────────────────────────────────────────────────────────
 
 with chat_tab:
-    st.title("Ask about Eduardo's experience at KMC")
+    st.title("Ask about KeepmeCompany")
     st.caption(
-        "KMC (KeepMeCompany) was an AI-powered healthcare communications startup. "
+        "KMC (KeepMeCompany) was an AI-powered healthcare communications startup founded by Rodrigo Orpis and Eduardo Lizana. "
         "Ask anything about the company, its products, team, or strategy."
     )
 
@@ -138,9 +138,14 @@ with chat_tab:
                     chat_history = st.session_state.messages[:-1]
                     result = None
 
+                    import time
+
                     for event in stream_with_sources(user_input, chat_history):
                         if event["type"] == "sources":
                             placeholder.markdown(f"*{event['sources'][0]}*")
+                            time.sleep(
+                                0.1
+                            )  # yield to Tornado event loop to flush websocket update
                         elif event["type"] == "answer":
                             result = event
 
