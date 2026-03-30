@@ -5,3 +5,9 @@ __pycache__/
 .venv/
 data/extracted_texts.json
 data/triage_results.json
+data/daily_calls.json
+data/chunks.json.bak
+chunking_log.txt
+pipeline_log.txt
+_extract_docs.py
+data/_read_docs.py

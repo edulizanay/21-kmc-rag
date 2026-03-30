@@ -17,6 +17,7 @@ sentence-transformers
 
 # LLM (runtime via OpenRouter)
 openai
+langchain-openai
 
 # Orchestration
 langgraph

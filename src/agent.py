@@ -47,15 +47,22 @@ def get_retriever():
     from langchain_chroma import Chroma
     from langchain_community.embeddings import SentenceTransformerEmbeddings
 
-    from src.vectorstore import build_bm25, build_hybrid_retriever
+    from src.vectorstore import build_bm25, build_hybrid_retriever, build_vectorstore
 
     docs = load_chunks()
     embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL)
-    vectorstore = Chroma(
-        persist_directory=str(CHROMA_DIR),
-        embedding_function=embeddings,
-        collection_name="kmc_docs",
-    )
+
+    # Rebuild vectorstore from chunks if chroma_db doesn't exist (e.g. cloud deploy)
+    if not CHROMA_DIR.exists() or not any(CHROMA_DIR.iterdir()):
+        print("ChromaDB not found — rebuilding from chunks.json...", flush=True)
+        vectorstore = build_vectorstore(docs)
+    else:
+        vectorstore = Chroma(
+            persist_directory=str(CHROMA_DIR),
+            embedding_function=embeddings,
+            collection_name="kmc_docs",
+        )
+
     bm25 = build_bm25(docs)
     _retriever = build_hybrid_retriever(vectorstore, bm25)
     return _retriever
@@ -86,21 +93,25 @@ def doc_specialist(doc_name: str, question: str) -> str:
     Use when RAG chunks are ambiguous or you need deeper detail from a specific document.
     doc_name: the filename to look up (e.g., 'Series A Strategy.pdf')
     question: the specific question to answer about this document."""
-    # Find the document path from inventory
+    from src.config import PROCESSED_TEXTS_PATH
+
+    # Look up doc_id from inventory
     with open(INVENTORY_PATH, encoding="utf-8") as f:
         rows = {r["filename"]: r for r in csv.DictReader(f)}
 
     if doc_name not in rows:
         return f"Document '{doc_name}' not found in inventory."
 
-    filepath = rows[doc_name]["path"]
-    if not Path(filepath).exists():
-        return f"Document file not found at {filepath}."
+    doc_id = rows[doc_name]["doc_id"]
 
-    # Extract full text
-    from src.extract_text import extract_text
+    # Load pre-extracted text (works both locally and on Streamlit Cloud)
+    with open(PROCESSED_TEXTS_PATH) as f:
+        processed = json.load(f)
 
-    text = extract_text(filepath, max_chars=50_000)
+    if doc_id not in processed:
+        return f"No processed text found for '{doc_name}' ({doc_id})."
+
+    text = processed[doc_id]["text"]
     if not text.strip():
         return f"Could not extract text from '{doc_name}'."
 
@@ -202,18 +213,23 @@ def ask(question: str) -> str:
 
 
 def ask_with_sources(question: str) -> dict:
-    """Ask the agent a question and return the answer with parsed sources.
+    """Ask the agent a question and return the answer with source documents.
 
-    Returns {"answer": str, "sources": list[str]} where answer has
-    [Source: ...] tags stripped and sources is a deduplicated list.
+    Returns {"answer": str, "sources": list[str]} where sources are
+    extracted from the rag_search tool's output in the message history.
     """
     import re
 
     result = agent.invoke({"messages": [("user", question)]})
-    raw = result["messages"][-1].content
-    sources = re.findall(r"\[Source:\s*([^\]]+)\]", raw)
-    clean_answer = re.sub(r"\[Source:\s*[^\]]+\]", "", raw).strip()
-    return {"answer": clean_answer, "sources": list(dict.fromkeys(sources))}
+    answer = result["messages"][-1].content
+
+    # Extract sources from tool messages (rag_search embeds [Source: name] tags)
+    sources = []
+    for msg in result["messages"]:
+        if isinstance(msg, ToolMessage):
+            sources.extend(re.findall(r"\[Source:\s*([^\]]+)\]", msg.content))
+
+    return {"answer": answer, "sources": list(dict.fromkeys(sources))}
 
 
 if __name__ == "__main__":
