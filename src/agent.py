@@ -26,12 +26,26 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 # --- LLM setup (OpenRouter, OpenAI-compatible) ---
 
-llm = ChatOpenAI(
-    model=LLM_MODEL,
-    api_key=os.getenv("OPENROUTER_API_KEY"),
-    base_url="https://openrouter.ai/api/v1",
-    temperature=0.1,
-)
+_llm = None
+
+
+def _get_llm():
+    global _llm
+    if _llm is None:
+        api_key = os.getenv("OPENROUTER_API_KEY")
+        if not api_key:
+            raise RuntimeError(
+                "OPENROUTER_API_KEY is not set. "
+                "Add it to your .env file or Streamlit Cloud secrets."
+            )
+        _llm = ChatOpenAI(
+            model=LLM_MODEL,
+            api_key=api_key,
+            base_url="https://openrouter.ai/api/v1",
+            temperature=0.1,
+        )
+    return _llm
+
 
 # --- Retriever (lazy-loaded on first use) ---
 
@@ -127,7 +141,7 @@ def doc_specialist(doc_name: str, question: str) -> str:
         f"Content:\n{text[:30_000]}\n\n"
         f"Question: {question}"
     )
-    response = llm.invoke(prompt)
+    response = _get_llm().invoke(prompt)
     return response.content
 
 
@@ -159,7 +173,15 @@ def i_dont_know(question: str) -> str:
 
 tools = [rag_search, doc_specialist, i_dont_know]
 tools_by_name = {t.name: t for t in tools}
-llm_with_tools = llm.bind_tools(tools)
+_llm_with_tools = None
+
+
+def _get_llm_with_tools():
+    global _llm_with_tools
+    if _llm_with_tools is None:
+        _llm_with_tools = _get_llm().bind_tools(tools)
+    return _llm_with_tools
+
 
 SYSTEM_PROMPT = (
     "You are a helpful assistant that answers questions about KeepMeCompany, "
@@ -178,7 +200,7 @@ SYSTEM_PROMPT = (
 
 def router(state: MessagesState):
     """Call the LLM to decide which tool to use."""
-    response = llm_with_tools.invoke(
+    response = _get_llm_with_tools().invoke(
         [SystemMessage(content=SYSTEM_PROMPT)] + state["messages"]
     )
     return {"messages": [response]}
